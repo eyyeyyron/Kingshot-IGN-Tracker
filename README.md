@@ -242,6 +242,38 @@ LOOKUP_BROWSER_PATH=/usr/bin/microsoft-edge
 - No secrets needed (webhook is hardcoded in repo) — **IMPORTANT:** Change this before deploying
 - Or set `DISCORD_WEBHOOK` as a GitHub secret (recommended)
 
+## Discord Bot
+
+Run the tracker from Discord with slash commands.
+
+### Available Commands
+
+- `/scan` — Manually trigger a player scan
+- `/add_player <fid>` — Add a single player for tracking
+- `/add_players <fids>` — Add multiple players (comma-separated)
+
+### Setup
+
+Full setup guide: [DISCORD_BOT.md](DISCORD_BOT.md)
+
+**Quick Start:**
+
+1. Create Discord bot on [Discord Developer Portal](https://discord.com/developers/applications)
+2. Create GitHub Personal Access Token at [GitHub Settings → Tokens](https://github.com/settings/tokens)
+3. Update `.env` with bot and GitHub tokens:
+   ```
+   DISCORD_TOKEN=your_bot_token
+   GITHUB_TOKEN=your_github_token
+   GITHUB_OWNER=your_username
+   GITHUB_REPO=Kingshot-IGN-Tracker
+   ```
+4. Run bot:
+   ```bash
+   npm run bot
+   ```
+
+For detailed setup, see [DISCORD_BOT.md](DISCORD_BOT.md).
+
 ## Data Format
 
 ### Player Object
