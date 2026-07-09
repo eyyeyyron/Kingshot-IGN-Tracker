@@ -39,3 +39,38 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Add tracked player ${{ inputs.fid }}"
           git push
+
+      - name: Send Discord notification
+        if: success()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          FID: ${{ inputs.fid }}
+        run: |
+          node -e "
+          const fs = require('fs');
+          const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8'));
+          const player = players['${{ inputs.fid }}'] || {};
+          const ign = player.ign || '(lookup pending)';
+          const tc = player.townCenterLevel || '--';
+          const state = player.state || '--';
+          
+          const embed = {
+            title: '✅ Player Successfully Added',
+            description: 'Player FID **${{ inputs.fid }}** has been added for tracking.',
+            color: 5763719,
+            fields: [
+              { name: 'FID', value: '${{ inputs.fid }}', inline: true },
+              { name: 'IGN', value: ign, inline: true },
+              { name: 'TC Level', value: String(tc), inline: true },
+              { name: 'State', value: String(state), inline: true }
+            ],
+            timestamp: new Date().toISOString()
+          };
+          
+          fetch('${{ env.DISCORD_WEBHOOK }}', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ embeds: [embed] })
+          }).then(r => r.ok ? console.log('✅ Discord notification sent') : console.error('❌ Failed to send notification'));
+          "
+          git push
