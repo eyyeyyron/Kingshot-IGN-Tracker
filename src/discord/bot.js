@@ -29,7 +29,9 @@ const commands = [
     .addStringOption((option) =>
       option
         .setName('fid')
-        .setDescription('Player FID(s): single (290874773) or comma-separated (290874773,291431438)')
+        .setDescription(
+          'Player FID(s): single (290874773) or comma-separated (290874773,291431438)'
+        )
         .setRequired(true)
     )
 ].map((command) => command.toJSON());
@@ -168,7 +170,9 @@ client.on('interactionCreate', async (interaction) => {
         embed = new EmbedBuilder()
           .setColor(0x57f287)
           .setTitle('✅ Player Add Triggered')
-          .setDescription(`Player **${fids[0]}** is being added to the tracker.`)
+          .setDescription(
+            `Player **${fids[0]}** is being added to the tracker.`
+          )
           .addFields(
             { name: 'FID', value: fids[0], inline: true },
             { name: 'Workflow', value: 'Add Player', inline: true },
@@ -194,7 +198,7 @@ client.on('interactionCreate', async (interaction) => {
       .setDescription(error.message)
       .setTimestamp();
 
-    if (interaction.replied) {
+    if (interaction.deferred || interaction.replied) {
       await interaction.editReply({ embeds: [errorEmbed] });
     } else {
       await interaction.reply({ embeds: [errorEmbed], ephemeral: true });
