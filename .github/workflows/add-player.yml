@@ -101,7 +101,7 @@ jobs:
           const fs = require('fs');
           const fids = '${{ steps.operation.outputs.fids }}'.split(',').map(f => f.trim());
           const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8'));
-          
+
           const playerDetails = fids.map(fid => {
             const player = players[fid] || {};
             return {

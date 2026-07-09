@@ -25,21 +25,11 @@ const commands = [
 
   new SlashCommandBuilder()
     .setName('add_player')
-    .setDescription('Add a single player for tracking')
+    .setDescription('Add player(s) for tracking (single or comma-separated)')
     .addStringOption((option) =>
       option
         .setName('fid')
-        .setDescription('Player FID (6+ digits)')
-        .setRequired(true)
-    ),
-
-  new SlashCommandBuilder()
-    .setName('add_players')
-    .setDescription('Add multiple players for tracking (comma-separated)')
-    .addStringOption((option) =>
-      option
-        .setName('fids')
-        .setDescription('Player FIDs (e.g., 290874773,291431438,293249627)')
+        .setDescription('Player FID(s): single (290874773) or comma-separated (290874773,291431438)')
         .setRequired(true)
     )
 ].map((command) => command.toJSON());
@@ -131,39 +121,8 @@ client.on('interactionCreate', async (interaction) => {
     } else if (commandName === 'add_player') {
       await interaction.deferReply();
 
-      const fid = interaction.options.getString('fid');
-
-      // Validate FID
-      if (!/^\d+$/.test(fid) || fid.length < 6) {
-        throw new Error('Invalid FID. Must be 6+ digits.');
-      }
-
-      logger.info(`Triggering add-players workflow for FID: ${fid}`);
-      await triggerGitHubWorkflow('add-player.yml', { fids: fid });
-
-      const embed = new EmbedBuilder()
-        .setColor(0x57f287)
-        .setTitle('✅ Player Add Triggered')
-        .setDescription(`Player **${fid}** is being added to the tracker.`)
-        .addFields(
-          { name: 'FID', value: fid, inline: true },
-          { name: 'Workflow', value: 'Add Player(s)', inline: true },
-          {
-            name: 'Status',
-            value:
-              'Check the [Actions tab](https://github.com/' +
-              `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for details`,
-            inline: false
-          }
-        )
-        .setTimestamp();
-
-      await interaction.editReply({ embeds: [embed] });
-    } else if (commandName === 'add_players') {
-      await interaction.deferReply();
-
-      const fidsInput = interaction.options.getString('fids');
-      const fids = fidsInput
+      const fidInput = interaction.options.getString('fid');
+      const fids = fidInput
         .split(',')
         .map((f) => f.trim())
         .filter((f) => f.length > 0);
@@ -179,26 +138,50 @@ client.on('interactionCreate', async (interaction) => {
         }
       }
 
-      logger.info(`Bulk adding ${fids.length} player(s): ${fids.join(', ')}`);
-
+      const isBulk = fids.length > 1;
       const fidsStr = fids.join(',');
+
+      logger.info(
+        `Triggering add-player workflow for ${isBulk ? fids.length + ' player(s)' : 'FID: ' + fids[0]}`
+      );
       await triggerGitHubWorkflow('add-player.yml', { fids: fidsStr });
 
-      const embed = new EmbedBuilder()
-        .setColor(0xfaa61a)
-        .setTitle('📝 Bulk Add Players Triggered')
-        .setDescription(`Adding **${fids.length}** player(s) to the tracker.`)
-        .addFields(
-          { name: 'FIDs', value: fids.join(', '), inline: false },
-          {
-            name: 'Status',
-            value:
-              'Check the [Actions tab](https://github.com/' +
-              `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for live status`,
-            inline: false
-          }
-        )
-        .setTimestamp();
+      let embed;
+
+      if (isBulk) {
+        embed = new EmbedBuilder()
+          .setColor(0xfaa61a)
+          .setTitle('📝 Bulk Add Players Triggered')
+          .setDescription(`Adding **${fids.length}** player(s) to the tracker.`)
+          .addFields(
+            { name: 'FIDs', value: fids.join(', '), inline: false },
+            {
+              name: 'Status',
+              value:
+                'Check the [Actions tab](https://github.com/' +
+                `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for live status`,
+              inline: false
+            }
+          )
+          .setTimestamp();
+      } else {
+        embed = new EmbedBuilder()
+          .setColor(0x57f287)
+          .setTitle('✅ Player Add Triggered')
+          .setDescription(`Player **${fids[0]}** is being added to the tracker.`)
+          .addFields(
+            { name: 'FID', value: fids[0], inline: true },
+            { name: 'Workflow', value: 'Add Player', inline: true },
+            {
+              name: 'Status',
+              value:
+                'Check the [Actions tab](https://github.com/' +
+                `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for details`,
+              inline: false
+            }
+          )
+          .setTimestamp();
+      }
 
       await interaction.editReply({ embeds: [embed] });
     }
