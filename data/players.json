@@ -33,6 +33,23 @@
       }
     ]
   },
+  "289759789": {
+    "fid": "289759789",
+    "ign": "Grekkey",
+    "originalIGN": "Grekkey",
+    "status": "tracking",
+    "lastChecked": "2026-07-09T19:33:29.794Z",
+    "townCenterLevel": 33,
+    "state": 1892,
+    "createdAt": "2026-07-09T19:33:29.172Z",
+    "updatedAt": "2026-07-09T19:33:29.795Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-09T19:33:29.794Z",
+        "ign": "Grekkey"
+      }
+    ]
+  },
   "290841090": {
     "fid": "290841090",
     "ign": "Kira",
@@ -157,6 +174,23 @@
       {
         "updatedAt": "2026-07-08T12:22:07.840Z",
         "ign": "金門高粱真好喝"
+      }
+    ]
+  },
+  "292709124": {
+    "fid": "292709124",
+    "ign": "༄Brook࿐",
+    "originalIGN": "༄Brook࿐",
+    "status": "tracking",
+    "lastChecked": "2026-07-09T19:33:29.170Z",
+    "townCenterLevel": 36,
+    "state": 1892,
+    "createdAt": "2026-07-09T19:32:37.534Z",
+    "updatedAt": "2026-07-09T19:33:29.171Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-09T19:33:29.170Z",
+        "ign": "༄Brook࿐"
       }
     ]
   },
