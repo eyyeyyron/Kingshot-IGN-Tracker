@@ -109,6 +109,23 @@
       }
     ]
   },
+  "292921823": {
+    "fid": "292921823",
+    "ign": "Sämm¥",
+    "originalIGN": "Sämm¥",
+    "status": "tracking",
+    "lastChecked": "2026-07-09T06:06:46.809Z",
+    "townCenterLevel": 35,
+    "state": 1892,
+    "createdAt": "2026-07-09T06:06:27.263Z",
+    "updatedAt": "2026-07-09T06:06:46.810Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-09T06:06:46.809Z",
+        "ign": "Sämm¥"
+      }
+    ]
+  },
   "293249627": {
     "fid": "293249627",
     "ign": "_Eyy_mini",
