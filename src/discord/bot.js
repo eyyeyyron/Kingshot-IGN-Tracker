@@ -107,13 +107,20 @@ client.on('interactionCreate', async (interaction) => {
       const embed = new EmbedBuilder()
         .setColor(0x5865f2)
         .setTitle('📋 Scan Triggered')
-        .setDescription('The scan workflow has been triggered on GitHub Actions.')
+        .setDescription(
+          'The scan workflow has been triggered on GitHub Actions.'
+        )
         .addFields(
-          { name: 'Repository', value: `${GITHUB_OWNER}/${GITHUB_REPO}`, inline: true },
+          {
+            name: 'Repository',
+            value: `${GITHUB_OWNER}/${GITHUB_REPO}`,
+            inline: true
+          },
           { name: 'Workflow', value: 'Scan Players', inline: true },
           {
             name: 'Status',
-            value: 'Check the [Actions tab](https://github.com/' +
+            value:
+              'Check the [Actions tab](https://github.com/' +
               `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for live status`,
             inline: false
           }
@@ -131,8 +138,8 @@ client.on('interactionCreate', async (interaction) => {
         throw new Error('Invalid FID. Must be 6+ digits.');
       }
 
-      logger.info(`Triggering add-player workflow for FID: ${fid}`);
-      await triggerGitHubWorkflow('add-player.yml', { fid });
+      logger.info(`Triggering add-players workflow for FID: ${fid}`);
+      await triggerGitHubWorkflow('add-player.yml', { fids: fid });
 
       const embed = new EmbedBuilder()
         .setColor(0x57f287)
@@ -140,10 +147,11 @@ client.on('interactionCreate', async (interaction) => {
         .setDescription(`Player **${fid}** is being added to the tracker.`)
         .addFields(
           { name: 'FID', value: fid, inline: true },
-          { name: 'Workflow', value: 'Add Player', inline: true },
+          { name: 'Workflow', value: 'Add Player(s)', inline: true },
           {
             name: 'Status',
-            value: 'Check the [Actions tab](https://github.com/' +
+            value:
+              'Check the [Actions tab](https://github.com/' +
               `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for details`,
             inline: false
           }
@@ -173,29 +181,26 @@ client.on('interactionCreate', async (interaction) => {
 
       logger.info(`Bulk adding ${fids.length} player(s): ${fids.join(', ')}`);
 
-      // Use a custom endpoint or fallback to local command if needed
-      // For now, trigger the workflow with the FID list
-      // Note: This would require the workflow to support comma-separated input
-      // For MVP, we'll show a message to add them locally
+      const fidsStr = fids.join(',');
+      await triggerGitHubWorkflow('add-player.yml', { fids: fidsStr });
 
       const embed = new EmbedBuilder()
         .setColor(0xfaa61a)
-        .setTitle('📝 Bulk Add Players')
+        .setTitle('📝 Bulk Add Players Triggered')
         .setDescription(`Adding **${fids.length}** player(s) to the tracker.`)
         .addFields(
           { name: 'FIDs', value: fids.join(', '), inline: false },
           {
-            name: 'Note',
-            value: 'Bulk operations run locally. Use the command:\n' +
-              '```\nnpm run add-players -- ' + fids.join(',') + '\n```',
+            name: 'Status',
+            value:
+              'Check the [Actions tab](https://github.com/' +
+              `${GITHUB_OWNER}/${GITHUB_REPO}/actions) for live status`,
             inline: false
           }
         )
         .setTimestamp();
 
       await interaction.editReply({ embeds: [embed] });
-
-      logger.info('Bulk add command displayed. Users can run locally or wait for workflow support.');
     }
   } catch (error) {
     logger.error(`Command failed: ${error.message}`);

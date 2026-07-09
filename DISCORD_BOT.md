@@ -60,16 +60,19 @@ This installs `discord.js` (already added to `package.json`).
 ## Step 5: Run the Bot
 
 **Local development:**
+
 ```powershell
 npm run bot
 ```
 
 **With auto-reload on file changes:**
+
 ```powershell
 npm run bot-dev
 ```
 
 You should see:
+
 ```
 [timestamp] [INFO] Initializing Kingshot Discord bot...
 [timestamp] [INFO] Starting Discord bot...
@@ -81,6 +84,7 @@ You should see:
 ## Step 6: Test in Discord
 
 In your Discord server, type `/` to see the available commands:
+
 - `/scan` → Triggers the scan workflow
 - `/add_player` → Add a single player
 - `/add_players` → Add multiple players
@@ -94,6 +98,7 @@ In your Discord server, type `/` to see the available commands:
 ```
 
 Response:
+
 ```
 📋 Scan Triggered
 The scan workflow has been triggered on GitHub Actions.
@@ -109,6 +114,7 @@ Status: Check the Actions tab for live status
 ```
 
 Response:
+
 ```
 ✅ Player Add Triggered
 Player 290874773 is being added to the tracker.
@@ -130,14 +136,17 @@ Response shows FIDs being added. (Currently displays instructions to run locally
 The bot needs to run **continuously** to respond to Discord commands. Options:
 
 ### Option A: Local Machine (Development)
+
 ```powershell
 npm run bot
 ```
+
 Keep your machine on and the terminal running.
 
 ### Option B: Cloud Hosting (Production)
 
 **Recommended services:**
+
 - **AWS EC2** (free tier available)
 - **Heroku** (free tier removed, but cheap)
 - **DigitalOcean** ($5/month)
@@ -145,12 +154,15 @@ Keep your machine on and the terminal running.
 - **Replit** (free with limitations)
 
 **For any cloud host:**
+
 1. Deploy code to the service
 2. Set environment variables (DISCORD_TOKEN, GITHUB_TOKEN, etc.)
 3. Start the bot with `npm run bot`
 
 ### Option C: GitHub Codespaces
+
 Run the bot from GitHub Codespaces (always-on, but limited free hours):
+
 ```powershell
 npm run bot
 ```
@@ -160,12 +172,14 @@ npm run bot
 ### Bot doesn't respond to commands
 
 **Check:**
+
 - Bot is running (`npm run bot` shows "Discord bot logged in as...")
 - Bot has "Send Messages" permission in the channel
 - Commands are registered (check logs for "Successfully registered X slash commands")
 - Bot is actually in your Discord server
 
 **Fix:**
+
 1. Stop bot (`Ctrl+C`)
 2. Delete old commands (go to Discord Developer Portal → Application → Advanced → Delete)
 3. Restart bot (`npm run bot`)
@@ -173,6 +187,7 @@ npm run bot
 ### "DISCORD_TOKEN not set" error
 
 **Fix:**
+
 - Ensure `.env` has `DISCORD_TOKEN=your_token`
 - Copy the token from [Discord Developer Portal](https://discord.com/developers/applications) → Bot → Token
 - Restart the bot
@@ -180,6 +195,7 @@ npm run bot
 ### "GITHUB_TOKEN not set" error
 
 **Fix:**
+
 - Ensure `.env` has `GITHUB_TOKEN=your_token`
 - Create a token at [GitHub Settings → Tokens](https://github.com/settings/tokens)
 - Ensure token has `repo` and `workflow` scopes
@@ -188,11 +204,13 @@ npm run bot
 ### Workflow not triggering
 
 **Check:**
+
 - GITHUB_TOKEN has `workflow` scope
 - GITHUB_OWNER and GITHUB_REPO are correct in `.env`
 - Repository is public (or token user has access)
 
 **Fix:**
+
 ```powershell
 # Test token manually
 $token = $env:GITHUB_TOKEN

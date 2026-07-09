@@ -1,10 +1,10 @@
-name: Add Player
+name: Add Player(s)
 
 on:
   workflow_dispatch:
     inputs:
-      fid:
-        description: 'Kingshot player FID to add for tracking'
+      fids:
+        description: 'Kingshot player FID(s) to add (single or comma-separated)'
         required: true
         type: string
 
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  add-player:
+  add-players:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,8 +28,25 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Add player
-        run: npm run add-player -- "${{ inputs.fid }}"
+      - name: Determine operation type
+        id: operation
+        run: |
+          fids="${{ inputs.fids }}"
+          if [[ "$fids" == *","* ]]; then
+            echo "type=bulk" >> $GITHUB_OUTPUT
+            echo "fids=$fids" >> $GITHUB_OUTPUT
+          else
+            echo "type=single" >> $GITHUB_OUTPUT
+            echo "fids=$fids" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Add player (single)
+        if: steps.operation.outputs.type == 'single'
+        run: npm run add-player -- "${{ steps.operation.outputs.fids }}"
+
+      - name: Add players (bulk)
+        if: steps.operation.outputs.type == 'bulk'
+        run: npm run add-players -- "${{ steps.operation.outputs.fids }}"
 
       - name: Commit updated players data
         run: |
@@ -37,27 +54,84 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/players.json
           git diff --cached --quiet && exit 0
-          git commit -m "Add tracked player ${{ inputs.fid }}"
+          git commit -m "Add tracked player(s): ${{ steps.operation.outputs.fids }}"
           git push
 
-      - name: Send Discord notification
-        if: success()
+      - name: Send Discord notification (single)
+        if: success() && steps.operation.outputs.type == 'single'
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          FID: ${{ inputs.fid }}
+          FID: ${{ steps.operation.outputs.fids }}
         run: |
           node -e "
           const fs = require('fs');
           const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8'));
-          const player = players['${{ inputs.fid }}'] || {};
+          const player = players['${{ steps.operation.outputs.fids }}'] || {};
           const ign = player.ign || '(lookup pending)';
           const tc = player.townCenterLevel || '--';
           const state = player.state || '--';
-          
+
           const embed = {
             title: '✅ Player Successfully Added',
-            description: 'Player FID **${{ inputs.fid }}** has been added for tracking.',
+            description: 'Player FID **${{ steps.operation.outputs.fids }}** has been added for tracking.',
             color: 5763719,
+            fields: [
+              { name: 'FID', value: '${{ steps.operation.outputs.fids }}', inline: true },
+              { name: 'IGN', value: ign, inline: true },
+              { name: 'TC Level', value: String(tc), inline: true },
+              { name: 'State', value: String(state), inline: true }
+            ],
+            timestamp: new Date().toISOString()
+          };
+
+          fetch('${{ env.DISCORD_WEBHOOK }}', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ embeds: [embed] })
+          }).then(r => r.ok ? console.log('✅ Discord notification sent') : console.error('❌ Failed to send notification'));
+          "
+
+      - name: Send Discord notification (bulk)
+        if: success() && steps.operation.outputs.type == 'bulk'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          FIDS: ${{ steps.operation.outputs.fids }}
+        run: |
+          node -e "
+          const fs = require('fs');
+          const fids = '${{ steps.operation.outputs.fids }}'.split(',').map(f => f.trim());
+          const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8'));
+          
+          const playerDetails = fids.map(fid => {
+            const player = players[fid] || {};
+            return {
+              fid,
+              ign: player.ign || '(lookup pending)',
+              tc: player.townCenterLevel || '--',
+              state: player.state || '--'
+            };
+          });
+
+          const playerList = playerDetails
+            .map(p => \`• **\${p.fid}** - \${p.ign} | TC: \${p.tc} | State: \${p.state}\`)
+            .join('\\n');
+
+          const embed = {
+            title: '✅ Players Successfully Added',
+            description: \`Added **\${fids.length}** player(s) to the tracker.\`,
+            color: 5763719,
+            fields: [
+              { name: 'Players Added', value: playerList, inline: false }
+            ],
+            timestamp: new Date().toISOString()
+          };
+
+          fetch('${{ env.DISCORD_WEBHOOK }}', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ embeds: [embed] })
+          }).then(r => r.ok ? console.log('✅ Discord notification sent') : console.error('❌ Failed to send notification'));
+          "
             fields: [
               { name: 'FID', value: '${{ inputs.fid }}', inline: true },
               { name: 'IGN', value: ign, inline: true },
@@ -66,7 +140,7 @@ jobs:
             ],
             timestamp: new Date().toISOString()
           };
-          
+
           fetch('${{ env.DISCORD_WEBHOOK }}', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
