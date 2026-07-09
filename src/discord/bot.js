@@ -6,7 +6,8 @@ import {
   REST,
   Routes,
   EmbedBuilder,
-  InteractionResponseType
+  InteractionResponseType,
+  MessageFlags
 } from 'discord.js';
 import { logger } from '../utils/logger.js';
 
@@ -201,7 +202,7 @@ client.on('interactionCreate', async (interaction) => {
     if (interaction.deferred || interaction.replied) {
       await interaction.editReply({ embeds: [errorEmbed] });
     } else {
-      await interaction.reply({ embeds: [errorEmbed], ephemeral: true });
+      await interaction.reply({ embeds: [errorEmbed], flags: MessageFlags.Ephemeral });
     }
   }
 });
