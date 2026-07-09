@@ -1,0 +1,41 @@
+name: Add Player
+
+on:
+  workflow_dispatch:
+    inputs:
+      fid:
+        description: 'Kingshot player FID to add for tracking'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  add-player:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Add player
+        run: npm run add-player -- "${{ inputs.fid }}"
+
+      - name: Commit updated players data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/players.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Add tracked player ${{ inputs.fid }}"
+          git push

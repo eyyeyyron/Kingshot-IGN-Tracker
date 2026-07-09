@@ -1,0 +1,27 @@
+{
+  "name": "kingshot-ign-tracker",
+  "version": "1.0.0",
+  "description": "Kingshot player tracker",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "add-player": "node src/commands/addPlayer.js",
+    "add-players": "node src/commands/addPlayers.js",
+    "test-layouts": "node src/commands/testLayouts.js",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "playwright-core": "^1.61.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.6.0",
+    "nodemon": "^3.1.14"
+  }
+}
