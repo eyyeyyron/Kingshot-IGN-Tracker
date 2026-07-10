@@ -50,6 +50,176 @@
       }
     ]
   },
+  "289891527": {
+    "fid": "289891527",
+    "ign": "Esel",
+    "originalIGN": "Esel",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:15.835Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:15.370Z",
+    "updatedAt": "2026-07-10T14:35:15.836Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:15.835Z",
+        "ign": "Esel"
+      }
+    ]
+  },
+  "289907291": {
+    "fid": "289907291",
+    "ign": "Jesus Love",
+    "originalIGN": "Jesus Love",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:19.124Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:18.655Z",
+    "updatedAt": "2026-07-10T14:35:19.124Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:19.124Z",
+        "ign": "Jesus Love"
+      }
+    ]
+  },
+  "290235209": {
+    "fid": "290235209",
+    "ign": "來亂a",
+    "originalIGN": "來亂a",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:19.603Z",
+    "townCenterLevel": 29,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:19.125Z",
+    "updatedAt": "2026-07-10T14:35:19.603Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:19.603Z",
+        "ign": "來亂a"
+      }
+    ]
+  },
+  "290267638": {
+    "fid": "290267638",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:46.727Z",
+    "updatedAt": "2026-07-10T14:35:46.727Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:46.727Z",
+        "ign": ""
+      }
+    ]
+  },
+  "290530105": {
+    "fid": "290530105",
+    "ign": "Nagharoth#",
+    "originalIGN": "Nagharoth#",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:20.071Z",
+    "townCenterLevel": 30,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:19.605Z",
+    "updatedAt": "2026-07-10T14:35:20.072Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:20.071Z",
+        "ign": "Nagharoth#"
+      }
+    ]
+  },
+  "290595569": {
+    "fid": "290595569",
+    "ign": "Matrix",
+    "originalIGN": "Matrix",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:36:13.626Z",
+    "townCenterLevel": 26,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:36:09.775Z",
+    "updatedAt": "2026-07-10T14:36:13.626Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:36:13.626Z",
+        "ign": "Matrix"
+      }
+    ]
+  },
+  "290596073": {
+    "fid": "290596073",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:54.442Z",
+    "updatedAt": "2026-07-10T14:35:54.442Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:54.442Z",
+        "ign": ""
+      }
+    ]
+  },
+  "290678170": {
+    "fid": "290678170",
+    "ign": "Leo20",
+    "originalIGN": "Leo20",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:26.852Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:26.371Z",
+    "updatedAt": "2026-07-10T14:35:26.852Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:26.852Z",
+        "ign": "Leo20"
+      }
+    ]
+  },
+  "290808501": {
+    "fid": "290808501",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:42.876Z",
+    "updatedAt": "2026-07-10T14:35:42.876Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:42.876Z",
+        "ign": ""
+      }
+    ]
+  },
+  "290824741": {
+    "fid": "290824741",
+    "ign": "BiBiBop",
+    "originalIGN": "BiBiBop",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:27.321Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:26.854Z",
+    "updatedAt": "2026-07-10T14:35:27.321Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:27.321Z",
+        "ign": "BiBiBop"
+      }
+    ]
+  },
   "290841090": {
     "fid": "290841090",
     "ign": "Kira",
@@ -101,6 +271,57 @@
       }
     ]
   },
+  "291037901": {
+    "fid": "291037901",
+    "ign": "chicken friend",
+    "originalIGN": "chicken friend",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:17.718Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:17.256Z",
+    "updatedAt": "2026-07-10T14:35:17.718Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:17.718Z",
+        "ign": "chicken friend"
+      }
+    ]
+  },
+  "291250949": {
+    "fid": "291250949",
+    "ign": "hamburguesa",
+    "originalIGN": "hamburguesa",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:18.185Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:17.721Z",
+    "updatedAt": "2026-07-10T14:35:18.186Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:18.185Z",
+        "ign": "hamburguesa"
+      }
+    ]
+  },
+  "291365430": {
+    "fid": "291365430",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:35.150Z",
+    "updatedAt": "2026-07-10T14:35:35.150Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:35.150Z",
+        "ign": ""
+      }
+    ]
+  },
   "291431438": {
     "fid": "291431438",
     "ign": "Eyy",
@@ -125,6 +346,108 @@
     ],
     "townCenterLevel": 30,
     "state": 1892
+  },
+  "291496547": {
+    "fid": "291496547",
+    "ign": "Doxxx",
+    "originalIGN": "Doxxx",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:25.688Z",
+    "townCenterLevel": 29,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:25.223Z",
+    "updatedAt": "2026-07-10T14:35:25.689Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:25.688Z",
+        "ign": "Doxxx"
+      }
+    ]
+  },
+  "291512850": {
+    "fid": "291512850",
+    "ign": "Winter",
+    "originalIGN": "Winter",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:23.352Z",
+    "townCenterLevel": 30,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:22.888Z",
+    "updatedAt": "2026-07-10T14:35:23.353Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:23.352Z",
+        "ign": "Winter"
+      }
+    ]
+  },
+  "291562371": {
+    "fid": "291562371",
+    "ign": "༺RaNgILa༻",
+    "originalIGN": "༺RaNgILa༻",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:20.536Z",
+    "townCenterLevel": 29,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:20.074Z",
+    "updatedAt": "2026-07-10T14:35:20.537Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:20.536Z",
+        "ign": "༺RaNgILa༻"
+      }
+    ]
+  },
+  "291595568": {
+    "fid": "291595568",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:58.246Z",
+    "updatedAt": "2026-07-10T14:35:58.246Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:58.246Z",
+        "ign": ""
+      }
+    ]
+  },
+  "291627919": {
+    "fid": "291627919",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:27.322Z",
+    "updatedAt": "2026-07-10T14:35:27.322Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:27.322Z",
+        "ign": ""
+      }
+    ]
+  },
+  "291726193": {
+    "fid": "291726193",
+    "ign": "OtenDakoBiko",
+    "originalIGN": "OtenDakoBiko",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:16.788Z",
+    "townCenterLevel": 29,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:16.324Z",
+    "updatedAt": "2026-07-10T14:35:16.788Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:16.788Z",
+        "ign": "OtenDakoBiko"
+      }
+    ]
   },
   "291824155": {
     "fid": "291824155",
@@ -160,6 +483,74 @@
       }
     ]
   },
+  "291857072": {
+    "fid": "291857072",
+    "ign": "BLACK PANTHER",
+    "originalIGN": "BLACK PANTHER",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:22.885Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:22.421Z",
+    "updatedAt": "2026-07-10T14:35:22.886Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:22.885Z",
+        "ign": "BLACK PANTHER"
+      }
+    ]
+  },
+  "291987986": {
+    "fid": "291987986",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:31.182Z",
+    "updatedAt": "2026-07-10T14:35:31.182Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:31.182Z",
+        "ign": ""
+      }
+    ]
+  },
+  "292037811": {
+    "fid": "292037811",
+    "ign": "Joos",
+    "originalIGN": "Joos",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:24.284Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:23.821Z",
+    "updatedAt": "2026-07-10T14:35:24.285Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:24.284Z",
+        "ign": "Joos"
+      }
+    ]
+  },
+  "292086294": {
+    "fid": "292086294",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:36:05.910Z",
+    "updatedAt": "2026-07-10T14:36:05.910Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:36:05.910Z",
+        "ign": ""
+      }
+    ]
+  },
   "292184610": {
     "fid": "292184610",
     "ign": "金門高粱真好喝",
@@ -174,6 +565,108 @@
       {
         "updatedAt": "2026-07-08T12:22:07.840Z",
         "ign": "金門高粱真好喝"
+      }
+    ]
+  },
+  "292234177": {
+    "fid": "292234177",
+    "ign": "yanley",
+    "originalIGN": "yanley",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:26.369Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:25.690Z",
+    "updatedAt": "2026-07-10T14:35:26.369Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:26.369Z",
+        "ign": "yanley"
+      }
+    ]
+  },
+  "292299332": {
+    "fid": "292299332",
+    "ign": "SainTess_Nezuko",
+    "originalIGN": "SainTess_Nezuko",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:21.002Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:20.539Z",
+    "updatedAt": "2026-07-10T14:35:21.002Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:21.002Z",
+        "ign": "SainTess_Nezuko"
+      }
+    ]
+  },
+  "292315993": {
+    "fid": "292315993",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:39.031Z",
+    "updatedAt": "2026-07-10T14:35:39.031Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:39.031Z",
+        "ign": ""
+      }
+    ]
+  },
+  "292414397": {
+    "fid": "292414397",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:35:50.564Z",
+    "updatedAt": "2026-07-10T14:35:50.564Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:50.564Z",
+        "ign": ""
+      }
+    ]
+  },
+  "292446979": {
+    "fid": "292446979",
+    "ign": "_Vivi_",
+    "originalIGN": "_Vivi_",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:14.442Z",
+    "townCenterLevel": 31,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:13.972Z",
+    "updatedAt": "2026-07-10T14:35:14.443Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:14.442Z",
+        "ign": "_Vivi_"
+      }
+    ]
+  },
+  "292643774": {
+    "fid": "292643774",
+    "ign": "LifeIsABeach×_×",
+    "originalIGN": "LifeIsABeach×_×",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:23.819Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:23.356Z",
+    "updatedAt": "2026-07-10T14:35:23.820Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:23.819Z",
+        "ign": "LifeIsABeach×_×"
       }
     ]
   },
@@ -194,6 +687,40 @@
       }
     ]
   },
+  "292725430": {
+    "fid": "292725430",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-07-10T14:36:02.080Z",
+    "updatedAt": "2026-07-10T14:36:02.080Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:36:02.080Z",
+        "ign": ""
+      }
+    ]
+  },
+  "292807354": {
+    "fid": "292807354",
+    "ign": "duc de la Boétie",
+    "originalIGN": "duc de la Boétie",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:15.367Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:14.904Z",
+    "updatedAt": "2026-07-10T14:35:15.367Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:15.367Z",
+        "ign": "duc de la Boétie"
+      }
+    ]
+  },
   "292840286": {
     "fid": "292840286",
     "ign": "Jupiter",
@@ -211,6 +738,23 @@
       }
     ]
   },
+  "292873056": {
+    "fid": "292873056",
+    "ign": "BestQueen",
+    "originalIGN": "BestQueen",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:16.312Z",
+    "townCenterLevel": 30,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:15.838Z",
+    "updatedAt": "2026-07-10T14:35:16.323Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:16.312Z",
+        "ign": "BestQueen"
+      }
+    ]
+  },
   "292921823": {
     "fid": "292921823",
     "ign": "Sämm¥",
@@ -225,6 +769,57 @@
       {
         "updatedAt": "2026-07-09T06:06:46.809Z",
         "ign": "Sämm¥"
+      }
+    ]
+  },
+  "292938960": {
+    "fid": "292938960",
+    "ign": "Kill Machine",
+    "originalIGN": "Kill Machine",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:14.901Z",
+    "townCenterLevel": 29,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:14.444Z",
+    "updatedAt": "2026-07-10T14:35:14.902Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:14.901Z",
+        "ign": "Kill Machine"
+      }
+    ]
+  },
+  "292987525": {
+    "fid": "292987525",
+    "ign": "Mr Blank",
+    "originalIGN": "Mr Blank",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:21.470Z",
+    "townCenterLevel": 30,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:21.004Z",
+    "updatedAt": "2026-07-10T14:35:21.470Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:21.470Z",
+        "ign": "Mr Blank"
+      }
+    ]
+  },
+  "293020527": {
+    "fid": "293020527",
+    "ign": "riwoo",
+    "originalIGN": "riwoo",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:22.418Z",
+    "townCenterLevel": 29,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:21.954Z",
+    "updatedAt": "2026-07-10T14:35:22.418Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:22.418Z",
+        "ign": "riwoo"
       }
     ]
   },
@@ -257,6 +852,23 @@
     "townCenterLevel": 31,
     "state": 1892
   },
+  "293299400": {
+    "fid": "293299400",
+    "ign": "knut",
+    "originalIGN": "knut",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:13.971Z",
+    "townCenterLevel": 39,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:13.432Z",
+    "updatedAt": "2026-07-10T14:35:13.971Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:13.971Z",
+        "ign": "knut"
+      }
+    ]
+  },
   "293300550": {
     "fid": "293300550",
     "ign": "拉斐爾",
@@ -271,6 +883,125 @@
       {
         "updatedAt": "2026-07-09T07:13:20.346Z",
         "ign": "拉斐爾"
+      }
+    ]
+  },
+  "293348137": {
+    "fid": "293348137",
+    "ign": "Larry The Moose",
+    "originalIGN": "Larry The Moose",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:24.753Z",
+    "townCenterLevel": 30,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:24.287Z",
+    "updatedAt": "2026-07-10T14:35:24.753Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:24.753Z",
+        "ign": "Larry The Moose"
+      }
+    ]
+  },
+  "293430187": {
+    "fid": "293430187",
+    "ign": "拎吖罵",
+    "originalIGN": "拎吖罵",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:17.254Z",
+    "townCenterLevel": 26,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:16.790Z",
+    "updatedAt": "2026-07-10T14:35:17.254Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:17.254Z",
+        "ign": "拎吖罵"
+      }
+    ]
+  },
+  "293479272": {
+    "fid": "293479272",
+    "ign": "OGフリーク",
+    "originalIGN": "OGフリーク",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:21.952Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:21.472Z",
+    "updatedAt": "2026-07-10T14:35:21.953Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:21.952Z",
+        "ign": "OGフリーク"
+      }
+    ]
+  },
+  "293577999": {
+    "fid": "293577999",
+    "ign": "Nffc",
+    "originalIGN": "Nffc",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:25.221Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:24.755Z",
+    "updatedAt": "2026-07-10T14:35:25.221Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:25.221Z",
+        "ign": "Nffc"
+      }
+    ]
+  },
+  "293593998": {
+    "fid": "293593998",
+    "ign": "Mavis_Kate",
+    "originalIGN": "Mavis_Kate",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:36:14.104Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:36:13.628Z",
+    "updatedAt": "2026-07-10T14:36:14.104Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:36:14.104Z",
+        "ign": "Mavis_Kate"
+      }
+    ]
+  },
+  "327588897": {
+    "fid": "327588897",
+    "ign": "Kizea",
+    "originalIGN": "Kizea",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:18.651Z",
+    "townCenterLevel": 25,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:35:18.187Z",
+    "updatedAt": "2026-07-10T14:35:18.652Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:18.651Z",
+        "ign": "Kizea"
+      }
+    ]
+  },
+  "328353803": {
+    "fid": "328353803",
+    "ign": "LotsoJunior",
+    "originalIGN": "LotsoJunior",
+    "status": "tracking",
+    "lastChecked": "2026-07-10T14:35:13.430Z",
+    "townCenterLevel": 28,
+    "state": 1892,
+    "createdAt": "2026-07-10T14:34:47.512Z",
+    "updatedAt": "2026-07-10T14:35:13.431Z",
+    "history": [
+      {
+        "updatedAt": "2026-07-10T14:35:13.430Z",
+        "ign": "LotsoJunior"
       }
     ]
   }
