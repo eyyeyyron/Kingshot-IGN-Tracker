@@ -21,11 +21,11 @@
     "ign": "~Naranjita~",
     "originalIGN": "~Naranjita~",
     "status": "tracking",
-    "lastChecked": "2026-07-09T07:13:21.920Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-07-10T18:08:25.759Z",
+    "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:21.389Z",
-    "updatedAt": "2026-07-09T07:13:21.921Z",
+    "updatedAt": "2026-07-10T18:08:25.760Z",
     "history": [
       {
         "updatedAt": "2026-07-09T07:13:21.920Z",
@@ -717,15 +717,19 @@
   },
   "292725430": {
     "fid": "292725430",
-    "ign": "",
+    "ign": "하루2",
     "originalIGN": "",
     "status": "tracking",
-    "lastChecked": null,
-    "townCenterLevel": null,
-    "state": null,
+    "lastChecked": "2026-07-10T18:09:25.962Z",
+    "townCenterLevel": 26,
+    "state": 1892,
     "createdAt": "2026-07-10T14:36:02.080Z",
-    "updatedAt": "2026-07-10T14:36:02.080Z",
+    "updatedAt": "2026-07-10T18:09:25.963Z",
     "history": [
+      {
+        "updatedAt": "2026-07-10T18:09:25.963Z",
+        "ign": "하루2"
+      },
       {
         "updatedAt": "2026-07-10T14:36:02.080Z",
         "ign": ""
