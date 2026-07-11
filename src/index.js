@@ -117,8 +117,11 @@ async function scanTrackedPlayers() {
         fid: player.fid,
         originalIgn,
         currentIgn: normalizedIgn,
+        prevIgn: player.ign ?? null,
         townCenterLevel: normalizedTownLevel,
+        prevTownCenterLevel: player.townCenterLevel ?? null,
         state: normalizedState,
+        prevState: player.state ?? null,
         status: 'changed'
       });
 

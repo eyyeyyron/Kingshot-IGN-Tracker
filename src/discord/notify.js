@@ -30,13 +30,23 @@ function buildRows(playerReports) {
           ? (formatStoveLevel(report.townCenterLevel) ??
             String(report.townCenterLevel))
           : '--';
+      const prevTc =
+        report.prevTownCenterLevel != null
+          ? (formatStoveLevel(report.prevTownCenterLevel) ??
+            String(report.prevTownCenterLevel))
+          : null;
       const state = report.state != null ? String(report.state) : '--';
+      const prevState =
+        report.prevState != null ? String(report.prevState) : null;
       return {
         statusCode,
         originalIgn: truncate(report.originalIgn || '(none)', 16),
         currentIgn: truncate(report.currentIgn || '(none)', 16),
+        prevIgn: report.prevIgn != null ? truncate(report.prevIgn, 16) : null,
         tc,
-        state
+        prevTc,
+        state,
+        prevState
       };
     });
 }
@@ -167,6 +177,30 @@ function getWebhookUrl() {
   return url;
 }
 
+async function postEmbeds(embeds) {
+  const webhookUrl = getWebhookUrl();
+  if (!webhookUrl) return;
+
+  // Discord allows max 10 embeds per message
+  for (let i = 0; i < embeds.length; i += 10) {
+    const batch = embeds.slice(i, i + 10);
+    const response = await fetch(webhookUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ embeds: batch })
+    });
+    if (!response.ok) {
+      const text = await response.text().catch(() => '');
+      console.error(
+        `Discord webhook failed: ${response.status} ${response.statusText} ${text}`
+      );
+    }
+    if (i + 10 < embeds.length) {
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+    }
+  }
+}
+
 async function postEmbed(embed) {
   const webhookUrl = getWebhookUrl();
 
@@ -188,10 +222,6 @@ async function postEmbed(embed) {
       `Discord webhook failed: ${response.status} ${response.statusText} ${text}`
     );
   }
-}
-
-function formatPlayerReports(playerReports) {
-  return formatLayoutG(playerReports);
 }
 
 export async function notifyScanSummary({
@@ -227,13 +257,10 @@ export async function notifyScanSummary({
     return;
   }
 
-  const fields = [
-    {
-      name: 'Player Report',
-      value: formatPlayerReports(playerReports),
-      inline: false
-    }
-  ];
+  const rows = buildRows(playerReports);
+  const changed = rows.filter((r) => r.statusCode === '⚠️');
+  const failed = rows.filter((r) => r.statusCode === '🚫');
+  const stable = rows.filter((r) => r.statusCode === '✅');
 
   const color =
     failures > 0
@@ -249,7 +276,81 @@ export async function notifyScanSummary({
         ? `No changes detected. ${failures} lookup(s) failed.`
         : 'No changes detected.';
 
-  const description = `${statusText} • Checked: ${checked} | Updated: ${updated} | Failed: ${failures}`;
+  // Pre-build changed lines
+  const changedLines = changed.map((r) => {
+    const ignPart =
+      r.prevIgn && r.prevIgn !== r.currentIgn
+        ? `(${r.prevIgn} → ${r.currentIgn})`
+        : `(${r.currentIgn})`;
+    const tcPart =
+      r.prevTc && r.prevTc !== r.tc ? `${r.prevTc}→${r.tc}` : r.tc;
+    const statePart =
+      r.prevState && r.prevState !== r.state
+        ? `${r.prevState}→${r.state}`
+        : r.state;
+    return `⚠️ **${r.originalIgn}** ${ignPart} | ${tcPart} | ${statePart}`;
+  });
+
+  // Description: stats + With Changes section
+  let description = `${statusText} • Checked: ${checked} | Updated: ${updated} | Failed: ${failures}`;
+  if (changed.length > 0) {
+    description += `\n\n**With Changes (${changed.length})**\n${changedLines.join('\n')}`;
+  }
+
+  const fields = [];
+
+  // Stable players split across multiple fields (950 chars each to stay under 6000 total)
+  if (stable.length > 0) {
+    const stableLines = stable.map(
+      (r) => `✅ **${r.originalIgn}** (${r.currentIgn}) | ${r.tc} | ${r.state}`
+    );
+
+    let page = '';
+    let pageNum = 1;
+    let playerStart = 1;
+
+    for (let i = 0; i < stableLines.length; i++) {
+      const line = stableLines[i];
+      const next = page ? `${page}\n${line}` : line;
+      const isLast = i === stableLines.length - 1;
+
+      if (
+        next.length > 950 ||
+        (next.length > 0 && isLast && !next.includes(line))
+      ) {
+        fields.push({
+          name: pageNum === 1 ? `No Changes (${stable.length})` : '⠀',
+          value: page,
+          inline: false
+        });
+        playerStart += page.split('\n').length;
+        page = line;
+        pageNum++;
+      } else {
+        page = next;
+      }
+
+      if (isLast && page) {
+        fields.push({
+          name: pageNum === 1 ? `No Changes (${stable.length})` : '⠀',
+          value: page,
+          inline: false
+        });
+      }
+    }
+  }
+
+  // Failed players field
+  if (failed.length > 0) {
+    const failedLines = failed.map(
+      (r) => `🚫 **${r.originalIgn}** (${r.currentIgn}) | ${r.tc} | ${r.state}`
+    );
+    fields.push({
+      name: `Lookup Failed (${failed.length})`,
+      value: assembleLines(failedLines),
+      inline: false
+    });
+  }
 
   await postEmbed({
     title: '📋 Tracking Report',
@@ -261,48 +362,4 @@ export async function notifyScanSummary({
     },
     timestamp
   });
-}
-
-export async function notifyTestLayouts(playerReports) {
-  if (!getWebhookUrl()) {
-    console.log('No webhook URL set — skipping test layout notification.');
-    return;
-  }
-
-  const layouts = [
-    { label: 'Layout A — Bold name + subtext', fn: formatLayoutA },
-    { label: 'Layout B — Blockquote', fn: formatLayoutB },
-    {
-      label: 'Layout C — Inline code stats (✨ recommended)',
-      fn: formatLayoutC
-    },
-    { label: 'Layout D — Compact single line', fn: formatLayoutD },
-    {
-      label: 'Layout E — Underline TC + italic + strikethrough',
-      fn: formatLayoutE
-    },
-    { label: 'Layout F — Sections with headers', fn: formatLayoutF },
-    { label: 'Layout G — Bullet list with emphasis', fn: formatLayoutG },
-    { label: 'Layout H — Multi-line blockquote per player', fn: formatLayoutH }
-  ];
-
-  for (const layout of layouts) {
-    await postEmbed({
-      title: `🧪 ${layout.label}`,
-      color: DISCORD_COLORS.stable,
-      fields: [
-        {
-          name: 'Player Report',
-          value: layout.fn(playerReports),
-          inline: false
-        }
-      ],
-      footer: { text: LEGEND_FOOTER }
-    });
-
-    // Brief pause to avoid Discord rate limits
-    await new Promise((resolve) => {
-      setTimeout(resolve, 500);
-    });
-  }
 }
