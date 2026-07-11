@@ -564,15 +564,19 @@
   },
   "292086294": {
     "fid": "292086294",
-    "ign": "",
-    "originalIGN": "",
+    "ign": "LuckyLex",
+    "originalIGN": "LuckyLex",
     "status": "tracking",
     "lastChecked": null,
-    "townCenterLevel": null,
-    "state": null,
+    "townCenterLevel": 28,
+    "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-07-10T14:36:05.910Z",
+    "updatedAt": "2026-07-11T16:29:43.702Z",
     "history": [
+      {
+        "updatedAt": "2026-07-11T16:25:03.947Z",
+        "ign": "LuckyLex"
+      },
       {
         "updatedAt": "2026-07-10T14:36:05.910Z",
         "ign": ""
@@ -632,15 +636,19 @@
   },
   "292315993": {
     "fid": "292315993",
-    "ign": "",
-    "originalIGN": "",
+    "ign": "Lowest88",
+    "originalIGN": "Lowest88",
     "status": "tracking",
     "lastChecked": null,
-    "townCenterLevel": null,
-    "state": null,
+    "townCenterLevel": 28,
+    "state": 1892,
     "createdAt": "2026-07-10T14:35:39.031Z",
-    "updatedAt": "2026-07-10T14:35:39.031Z",
+    "updatedAt": "2026-07-11T16:29:44.515Z",
     "history": [
+      {
+        "updatedAt": "2026-07-11T16:25:04.773Z",
+        "ign": "Lowest88"
+      },
       {
         "updatedAt": "2026-07-10T14:35:39.031Z",
         "ign": ""
@@ -649,15 +657,19 @@
   },
   "292414397": {
     "fid": "292414397",
-    "ign": "",
-    "originalIGN": "",
+    "ign": "Almathus",
+    "originalIGN": "Almathus",
     "status": "tracking",
     "lastChecked": null,
-    "townCenterLevel": null,
-    "state": null,
+    "townCenterLevel": 28,
+    "state": 1892,
     "createdAt": "2026-07-10T14:35:50.564Z",
-    "updatedAt": "2026-07-10T14:35:50.564Z",
+    "updatedAt": "2026-07-11T16:29:45.230Z",
     "history": [
+      {
+        "updatedAt": "2026-07-11T16:25:05.573Z",
+        "ign": "Almathus"
+      },
       {
         "updatedAt": "2026-07-10T14:35:50.564Z",
         "ign": ""
@@ -718,13 +730,13 @@
   "292725430": {
     "fid": "292725430",
     "ign": "하루2",
-    "originalIGN": "",
+    "originalIGN": "하루2",
     "status": "tracking",
     "lastChecked": "2026-07-10T18:09:25.962Z",
     "townCenterLevel": 26,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:02.080Z",
-    "updatedAt": "2026-07-10T18:09:25.963Z",
+    "updatedAt": "2026-07-11T16:29:45.982Z",
     "history": [
       {
         "updatedAt": "2026-07-10T18:09:25.963Z",
