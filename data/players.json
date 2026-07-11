@@ -681,11 +681,11 @@
     "ign": "_Vivi_",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:14.442Z",
-    "townCenterLevel": 31,
+    "lastChecked": "2026-07-11T19:39:11.082Z",
+    "townCenterLevel": 32,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-07-10T14:35:14.443Z",
+    "updatedAt": "2026-07-11T19:39:11.082Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:14.442Z",
@@ -869,13 +869,17 @@
   },
   "293249627": {
     "fid": "293249627",
-    "ign": "_Eyy_mini",
+    "ign": "ɗɗɗоѓа",
     "originalIGN": "ɗɗɗоѓа",
     "status": "tracking",
-    "lastChecked": "2026-07-08T12:25:27.192Z",
+    "lastChecked": "2026-07-11T19:39:16.868Z",
     "createdAt": "2026-07-08T07:34:37.348Z",
-    "updatedAt": "2026-07-08T12:25:27.193Z",
+    "updatedAt": "2026-07-11T19:39:16.868Z",
     "history": [
+      {
+        "updatedAt": "2026-07-11T19:39:16.868Z",
+        "ign": "ɗɗɗоѓа"
+      },
       {
         "updatedAt": "2026-07-08T12:25:27.193Z",
         "ign": "_Eyy_mini"
