@@ -112,16 +112,30 @@ jobs:
             };
           });
 
-          const playerList = playerDetails
-            .map(p => \`• **\${p.fid}** - \${p.ign} | TC: \${p.tc} | State: \${p.state}\`)
-            .join('\\n');
+          const lines = playerDetails
+            .map(p => \`• **\${p.fid}** - \${p.ign} | TC: \${p.tc} | State: \${p.state}\`);
+
+          // Truncate to fit within 1024 character field limit
+          let playerList = '';
+          let included = 0;
+          for (const line of lines) {
+            const next = playerList ? \`\${playerList}\\n\${line}\` : line;
+            if (next.length > 1000) break;
+            playerList = next;
+            included += 1;
+          }
+
+          const remaining = lines.length - included;
+          if (remaining > 0) {
+            playerList += \`\\n...and \${remaining} more player(s)\`;
+          }
 
           const embed = {
             title: '✅ Players Successfully Added',
             description: \`Added **\${fids.length}** player(s) to the tracker.\`,
             color: 5763719,
             fields: [
-              { name: 'Players Added', value: playerList, inline: false }
+              { name: 'Players Added', value: playerList || 'No players to display', inline: false }
             ],
             timestamp: new Date().toISOString()
           };
@@ -132,19 +146,3 @@ jobs:
             body: JSON.stringify({ embeds: [embed] })
           }).then(r => r.ok ? console.log('✅ Discord notification sent') : console.error('❌ Failed to send notification'));
           "
-            fields: [
-              { name: 'FID', value: '${{ inputs.fid }}', inline: true },
-              { name: 'IGN', value: ign, inline: true },
-              { name: 'TC Level', value: String(tc), inline: true },
-              { name: 'State', value: String(state), inline: true }
-            ],
-            timestamp: new Date().toISOString()
-          };
-
-          fetch('${{ env.DISCORD_WEBHOOK }}', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ embeds: [embed] })
-          }).then(r => r.ok ? console.log('✅ Discord notification sent') : console.error('❌ Failed to send notification'));
-          "
-          git push
