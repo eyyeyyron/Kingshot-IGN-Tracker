@@ -282,8 +282,7 @@ export async function notifyScanSummary({
       r.prevIgn && r.prevIgn !== r.currentIgn
         ? `(${r.prevIgn} → ${r.currentIgn})`
         : `(${r.currentIgn})`;
-    const tcPart =
-      r.prevTc && r.prevTc !== r.tc ? `${r.prevTc}→${r.tc}` : r.tc;
+    const tcPart = r.prevTc && r.prevTc !== r.tc ? `${r.prevTc}→${r.tc}` : r.tc;
     const statePart =
       r.prevState && r.prevState !== r.state
         ? `${r.prevState}→${r.state}`
