@@ -35,15 +35,19 @@
   },
   "289759789": {
     "fid": "289759789",
-    "ign": "Grekkey",
+    "ign": "Mikeyyyyy",
     "originalIGN": "Grekkey",
     "status": "tracking",
-    "lastChecked": "2026-07-09T19:33:29.794Z",
+    "lastChecked": "2026-07-15T16:53:35.861Z",
     "townCenterLevel": 33,
     "state": 1892,
     "createdAt": "2026-07-09T19:33:29.172Z",
-    "updatedAt": "2026-07-09T19:33:29.795Z",
+    "updatedAt": "2026-07-15T16:53:35.861Z",
     "history": [
+      {
+        "updatedAt": "2026-07-15T16:53:35.861Z",
+        "ign": "Mikeyyyyy"
+      },
       {
         "updatedAt": "2026-07-09T19:33:29.794Z",
         "ign": "Grekkey"
