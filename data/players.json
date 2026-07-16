@@ -203,11 +203,11 @@
     "ign": "Klerb",
     "originalIGN": "Klerb",
     "status": "tracking",
-    "lastChecked": "2026-07-10T15:05:54.382Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-07-16T16:50:39.115Z",
+    "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:42.876Z",
-    "updatedAt": "2026-07-10T15:05:54.383Z",
+    "updatedAt": "2026-07-16T16:50:39.115Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:54.383Z",
@@ -272,15 +272,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Elezard",
+    "ign": "Lotso_さかな",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:35.889Z",
+    "lastChecked": "2026-07-16T16:50:40.997Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-07-13T11:43:35.889Z",
+    "updatedAt": "2026-07-16T16:50:40.998Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:50:40.998Z",
+        "ign": "Lotso_さかな"
+      },
       {
         "updatedAt": "2026-07-09T07:13:19.793Z",
         "ign": "Elezard"
@@ -348,13 +352,17 @@
   },
   "291431438": {
     "fid": "291431438",
-    "ign": "Eyy",
+    "ign": "Lotso ピカチュウ",
     "originalIGN": "Eyy",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:37.958Z",
+    "lastChecked": "2026-07-16T16:50:42.880Z",
     "createdAt": "2026-07-08T07:34:12.229Z",
-    "updatedAt": "2026-07-13T11:43:37.959Z",
+    "updatedAt": "2026-07-16T16:50:42.881Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:50:42.881Z",
+        "ign": "Lotso ピカチュウ"
+      },
       {
         "updatedAt": "2026-07-08T09:57:38.068Z",
         "ign": "Eyy"
@@ -466,15 +474,19 @@
   },
   "291726193": {
     "fid": "291726193",
-    "ign": "OtenDakoBiko",
+    "ign": "MASIS",
     "originalIGN": "OtenDakoBiko",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:16.788Z",
+    "lastChecked": "2026-07-16T16:50:45.683Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.324Z",
-    "updatedAt": "2026-07-10T14:35:16.788Z",
+    "updatedAt": "2026-07-16T16:50:45.683Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:50:45.683Z",
+        "ign": "MASIS"
+      },
       {
         "updatedAt": "2026-07-10T14:35:16.788Z",
         "ign": "OtenDakoBiko"
@@ -483,15 +495,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༒༻࿐Shika࿐༺༒",
+    "ign": "༒༻࿐Lotsomaru࿐༺༒",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:58.107Z",
+    "lastChecked": "2026-07-16T16:51:02.678Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-07-13T11:43:58.108Z",
+    "updatedAt": "2026-07-16T16:51:02.679Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:51:02.679Z",
+        "ign": "༒༻࿐Lotsomaru࿐༺༒"
+      },
       {
         "updatedAt": "2026-07-08T12:11:51.608Z",
         "ign": "༒༻࿐Shika࿐༺༒"
@@ -792,15 +808,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "BestQueen",
+    "ign": "LOTSO BestQ",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-07-13T18:20:56.449Z",
+    "lastChecked": "2026-07-16T16:51:10.592Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-07-13T18:20:56.450Z",
+    "updatedAt": "2026-07-16T16:51:10.593Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:51:10.593Z",
+        "ign": "LOTSO BestQ"
+      },
       {
         "updatedAt": "2026-07-10T14:35:16.312Z",
         "ign": "BestQueen"
@@ -826,15 +846,19 @@
   },
   "292938960": {
     "fid": "292938960",
-    "ign": "Kill Machine",
+    "ign": "Lotso_Trouble",
     "originalIGN": "Kill Machine",
     "status": "tracking",
-    "lastChecked": "2026-07-15T07:31:17.012Z",
+    "lastChecked": "2026-07-16T16:51:11.512Z",
     "townCenterLevel": 31,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.444Z",
-    "updatedAt": "2026-07-15T07:31:17.012Z",
+    "updatedAt": "2026-07-16T16:51:11.512Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:51:11.512Z",
+        "ign": "Lotso_Trouble"
+      },
       {
         "updatedAt": "2026-07-10T14:35:14.901Z",
         "ign": "Kill Machine"
@@ -877,13 +901,17 @@
   },
   "293249627": {
     "fid": "293249627",
-    "ign": "ɗɗɗоѓа",
+    "ign": "Lotso_さくら",
     "originalIGN": "ɗɗɗоѓа",
     "status": "tracking",
-    "lastChecked": "2026-07-13T18:20:58.933Z",
+    "lastChecked": "2026-07-16T16:51:12.913Z",
     "createdAt": "2026-07-08T07:34:37.348Z",
-    "updatedAt": "2026-07-13T18:20:58.934Z",
+    "updatedAt": "2026-07-16T16:51:12.913Z",
     "history": [
+      {
+        "updatedAt": "2026-07-16T16:51:12.913Z",
+        "ign": "Lotso_さくら"
+      },
       {
         "updatedAt": "2026-07-11T19:08:00.941Z",
         "ign": "ɗɗɗоѓа"
