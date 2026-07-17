@@ -56,15 +56,19 @@
   },
   "289891527": {
     "fid": "289891527",
-    "ign": "Esel",
+    "ign": "Eselotso",
     "originalIGN": "Esel",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:15.835Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-07-17T07:35:38.741Z",
+    "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.370Z",
-    "updatedAt": "2026-07-10T14:35:15.836Z",
+    "updatedAt": "2026-07-17T07:35:38.742Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:35:38.742Z",
+        "ign": "Eselotso"
+      },
       {
         "updatedAt": "2026-07-10T14:35:15.835Z",
         "ign": "Esel"
@@ -110,11 +114,11 @@
     "ign": "ViKing",
     "originalIGN": "ViKing",
     "status": "tracking",
-    "lastChecked": "2026-07-10T15:05:51.868Z",
-    "townCenterLevel": 26,
+    "lastChecked": "2026-07-17T07:35:40.338Z",
+    "townCenterLevel": 27,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:46.727Z",
-    "updatedAt": "2026-07-10T15:05:51.868Z",
+    "updatedAt": "2026-07-17T07:35:40.338Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:51.868Z",
@@ -148,11 +152,11 @@
     "ign": "Matrix",
     "originalIGN": "Matrix",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:32.221Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-07-17T07:35:41.354Z",
+    "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:09.775Z",
-    "updatedAt": "2026-07-13T11:43:32.221Z",
+    "updatedAt": "2026-07-17T07:35:41.354Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:36:13.626Z",
@@ -221,15 +225,19 @@
   },
   "290824741": {
     "fid": "290824741",
-    "ign": "BiBiBop",
+    "ign": "Lotso_Love_Bibi",
     "originalIGN": "BiBiBop",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:27.321Z",
+    "lastChecked": "2026-07-17T07:35:43.341Z",
     "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.854Z",
-    "updatedAt": "2026-07-10T14:35:27.321Z",
+    "updatedAt": "2026-07-17T07:35:43.341Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:35:43.341Z",
+        "ign": "Lotso_Love_Bibi"
+      },
       {
         "updatedAt": "2026-07-10T14:35:27.321Z",
         "ign": "BiBiBop"
@@ -415,15 +423,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "༺RaNgILa༻",
+    "ign": "༆ RaNG § LoTs0 ༆",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:39.507Z",
+    "lastChecked": "2026-07-17T07:35:48.370Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-07-13T11:43:39.508Z",
+    "updatedAt": "2026-07-17T07:35:48.370Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:35:48.370Z",
+        "ign": "༆ RaNG § LoTs0 ༆"
+      },
       {
         "updatedAt": "2026-07-10T14:35:20.536Z",
         "ign": "༺RaNgILa༻"
@@ -533,15 +545,19 @@
   },
   "291857072": {
     "fid": "291857072",
-    "ign": "BLACK PANTHER",
+    "ign": "BLACK LOTSO",
     "originalIGN": "BLACK PANTHER",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:59.179Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-07-17T07:36:08.390Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.421Z",
-    "updatedAt": "2026-07-13T11:43:59.180Z",
+    "updatedAt": "2026-07-17T07:36:08.390Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:08.390Z",
+        "ign": "BLACK LOTSO"
+      },
       {
         "updatedAt": "2026-07-10T14:35:22.885Z",
         "ign": "BLACK PANTHER"
@@ -609,15 +625,19 @@
   },
   "292184610": {
     "fid": "292184610",
-    "ign": "金門高粱真好喝",
+    "ign": "Kinmen Lotso",
     "originalIGN": "金門高粱真好喝",
     "status": "tracking",
-    "lastChecked": "2026-07-14T16:43:55.700Z",
-    "townCenterLevel": 39,
+    "lastChecked": "2026-07-17T07:36:10.368Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-08T12:22:05.618Z",
-    "updatedAt": "2026-07-14T16:43:55.700Z",
+    "updatedAt": "2026-07-17T07:36:10.369Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:10.369Z",
+        "ign": "Kinmen Lotso"
+      },
       {
         "updatedAt": "2026-07-08T12:22:07.840Z",
         "ign": "金門高粱真好喝"
@@ -681,15 +701,19 @@
   },
   "292414397": {
     "fid": "292414397",
-    "ign": "Almathus",
+    "ign": "LotsoMathus",
     "originalIGN": "Almathus",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:44:03.446Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-07-17T07:36:12.303Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:50.564Z",
-    "updatedAt": "2026-07-13T11:44:03.446Z",
+    "updatedAt": "2026-07-17T07:36:12.303Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:12.303Z",
+        "ign": "LotsoMathus"
+      },
       {
         "updatedAt": "2026-07-11T16:25:05.573Z",
         "ign": "Almathus"
@@ -702,15 +726,19 @@
   },
   "292446979": {
     "fid": "292446979",
-    "ign": "_Vivi_",
+    "ign": "Lotso_fangirl",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-07-14T07:24:56.478Z",
+    "lastChecked": "2026-07-17T07:36:12.835Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-07-14T07:24:56.478Z",
+    "updatedAt": "2026-07-17T07:36:12.836Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:12.836Z",
+        "ign": "Lotso_fangirl"
+      },
       {
         "updatedAt": "2026-07-10T14:35:14.442Z",
         "ign": "_Vivi_"
@@ -867,15 +895,19 @@
   },
   "292987525": {
     "fid": "292987525",
-    "ign": "Mr Blank",
+    "ign": "LotsoSaurus",
     "originalIGN": "Mr Blank",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:21.470Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-07-17T07:36:17.335Z",
+    "townCenterLevel": 31,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.004Z",
-    "updatedAt": "2026-07-10T14:35:21.470Z",
+    "updatedAt": "2026-07-17T07:36:17.335Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:17.335Z",
+        "ign": "LotsoSaurus"
+      },
       {
         "updatedAt": "2026-07-10T14:35:21.470Z",
         "ign": "Mr Blank"
@@ -938,15 +970,19 @@
   },
   "293299400": {
     "fid": "293299400",
-    "ign": "knut",
+    "ign": "lotsobeer",
     "originalIGN": "knut",
     "status": "tracking",
-    "lastChecked": "2026-07-11T07:22:58.565Z",
+    "lastChecked": "2026-07-17T07:36:18.853Z",
     "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.432Z",
-    "updatedAt": "2026-07-11T07:22:58.566Z",
+    "updatedAt": "2026-07-17T07:36:18.853Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:18.853Z",
+        "ign": "lotsobeer"
+      },
       {
         "updatedAt": "2026-07-10T14:35:13.971Z",
         "ign": "knut"
@@ -955,15 +991,19 @@
   },
   "293300550": {
     "fid": "293300550",
-    "ign": "拉斐爾",
+    "ign": "Lotso Club",
     "originalIGN": "拉斐爾",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:44:10.981Z",
+    "lastChecked": "2026-07-17T07:36:19.385Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:19.796Z",
-    "updatedAt": "2026-07-13T11:44:10.982Z",
+    "updatedAt": "2026-07-17T07:36:19.386Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:19.386Z",
+        "ign": "Lotso Club"
+      },
       {
         "updatedAt": "2026-07-09T07:13:20.346Z",
         "ign": "拉斐爾"
@@ -1023,15 +1063,19 @@
   },
   "293577999": {
     "fid": "293577999",
-    "ign": "Nffc",
+    "ign": "Lotsogo",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:44:13.096Z",
+    "lastChecked": "2026-07-17T07:36:21.454Z",
     "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-07-13T11:44:13.096Z",
+    "updatedAt": "2026-07-17T07:36:21.454Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:21.454Z",
+        "ign": "Lotsogo"
+      },
       {
         "updatedAt": "2026-07-10T14:35:25.221Z",
         "ign": "Nffc"
@@ -1040,15 +1084,19 @@
   },
   "293593998": {
     "fid": "293593998",
-    "ign": "Mavis_Kate",
+    "ign": "Lotso_CAKE#28",
     "originalIGN": "Mavis_Kate",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:36:14.104Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-07-17T07:36:21.986Z",
+    "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:13.628Z",
-    "updatedAt": "2026-07-10T14:36:14.104Z",
+    "updatedAt": "2026-07-17T07:36:21.986Z",
     "history": [
+      {
+        "updatedAt": "2026-07-17T07:36:21.986Z",
+        "ign": "Lotso_CAKE#28"
+      },
       {
         "updatedAt": "2026-07-10T14:36:14.104Z",
         "ign": "Mavis_Kate"
