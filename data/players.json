@@ -329,11 +329,11 @@
     "ign": "hamburguesa",
     "originalIGN": "hamburguesa",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:18.185Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-07-18T15:33:18.354Z",
+    "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:17.721Z",
-    "updatedAt": "2026-07-10T14:35:18.186Z",
+    "updatedAt": "2026-07-18T15:33:18.355Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:18.185Z",
@@ -413,11 +413,11 @@
     "ign": "Winter",
     "originalIGN": "Winter",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:10.657Z",
-    "townCenterLevel": 32,
+    "lastChecked": "2026-07-18T15:33:20.384Z",
+    "townCenterLevel": 33,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.888Z",
-    "updatedAt": "2026-07-18T07:12:10.658Z",
+    "updatedAt": "2026-07-18T15:33:20.385Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:23.352Z",
@@ -835,15 +835,19 @@
   },
   "292840286": {
     "fid": "292840286",
-    "ign": "Jupiter",
+    "ign": "JupitersLotso",
     "originalIGN": "Jupiter",
     "status": "tracking",
-    "lastChecked": "2026-07-09T07:13:21.388Z",
+    "lastChecked": "2026-07-18T15:33:47.625Z",
     "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.875Z",
-    "updatedAt": "2026-07-09T07:13:21.388Z",
+    "updatedAt": "2026-07-18T15:33:47.625Z",
     "history": [
+      {
+        "updatedAt": "2026-07-18T15:33:47.625Z",
+        "ign": "JupitersLotso"
+      },
       {
         "updatedAt": "2026-07-09T07:13:21.388Z",
         "ign": "Jupiter"
@@ -932,15 +936,19 @@
   },
   "293020527": {
     "fid": "293020527",
-    "ign": "riwoo",
+    "ign": "Lotso_riwoo",
     "originalIGN": "riwoo",
     "status": "tracking",
-    "lastChecked": "2026-07-15T07:31:18.046Z",
+    "lastChecked": "2026-07-18T15:33:50.128Z",
     "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.954Z",
-    "updatedAt": "2026-07-15T07:31:18.046Z",
+    "updatedAt": "2026-07-18T15:33:50.128Z",
     "history": [
+      {
+        "updatedAt": "2026-07-18T15:33:50.128Z",
+        "ign": "Lotso_riwoo"
+      },
       {
         "updatedAt": "2026-07-10T14:35:22.418Z",
         "ign": "riwoo"
