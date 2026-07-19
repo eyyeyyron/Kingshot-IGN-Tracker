@@ -376,13 +376,17 @@
   },
   "291431438": {
     "fid": "291431438",
-    "ign": "Eyy",
+    "ign": "LIPOP",
     "originalIGN": "Eyy",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:12.911Z",
+    "lastChecked": "2026-07-19T15:34:23.879Z",
     "createdAt": "2026-07-08T07:34:12.229Z",
-    "updatedAt": "2026-07-19T07:51:12.912Z",
+    "updatedAt": "2026-07-19T15:34:23.880Z",
     "history": [
+      {
+        "updatedAt": "2026-07-19T15:34:23.880Z",
+        "ign": "LIPOP"
+      },
       {
         "updatedAt": "2026-07-19T07:51:12.912Z",
         "ign": "Eyy"
@@ -510,15 +514,19 @@
   },
   "291726193": {
     "fid": "291726193",
-    "ign": "LOTSO MASIS",
+    "ign": "ARMORTECH",
     "originalIGN": "OtenDakoBiko",
     "status": "tracking",
-    "lastChecked": "2026-07-17T16:38:25.325Z",
+    "lastChecked": "2026-07-19T15:34:27.068Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.324Z",
-    "updatedAt": "2026-07-17T16:38:25.326Z",
+    "updatedAt": "2026-07-19T15:34:27.068Z",
     "history": [
+      {
+        "updatedAt": "2026-07-19T15:34:27.068Z",
+        "ign": "ARMORTECH"
+      },
       {
         "updatedAt": "2026-07-17T16:38:25.326Z",
         "ign": "LOTSO MASIS"
