@@ -376,13 +376,17 @@
   },
   "291431438": {
     "fid": "291431438",
-    "ign": "LIPOP",
+    "ign": "Eyy",
     "originalIGN": "Eyy",
     "status": "tracking",
-    "lastChecked": "2026-07-19T15:34:23.879Z",
+    "lastChecked": "2026-07-20T10:33:00.325Z",
     "createdAt": "2026-07-08T07:34:12.229Z",
-    "updatedAt": "2026-07-19T15:34:23.880Z",
+    "updatedAt": "2026-07-20T10:33:00.326Z",
     "history": [
+      {
+        "updatedAt": "2026-07-20T10:33:00.326Z",
+        "ign": "Eyy"
+      },
       {
         "updatedAt": "2026-07-19T15:34:23.880Z",
         "ign": "LIPOP"
@@ -517,11 +521,11 @@
     "ign": "ARMORTECH",
     "originalIGN": "OtenDakoBiko",
     "status": "tracking",
-    "lastChecked": "2026-07-19T15:34:27.068Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-07-20T10:33:03.722Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.324Z",
-    "updatedAt": "2026-07-19T15:34:27.068Z",
+    "updatedAt": "2026-07-20T10:33:03.723Z",
     "history": [
       {
         "updatedAt": "2026-07-19T15:34:27.068Z",
@@ -875,15 +879,19 @@
   },
   "292840286": {
     "fid": "292840286",
-    "ign": "JupitersLotso",
+    "ign": "Jupiter",
     "originalIGN": "Jupiter",
     "status": "tracking",
-    "lastChecked": "2026-07-18T15:33:47.625Z",
+    "lastChecked": "2026-07-20T10:33:28.990Z",
     "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.875Z",
-    "updatedAt": "2026-07-18T15:33:47.625Z",
+    "updatedAt": "2026-07-20T10:33:28.990Z",
     "history": [
+      {
+        "updatedAt": "2026-07-20T10:33:28.990Z",
+        "ign": "Jupiter"
+      },
       {
         "updatedAt": "2026-07-18T15:33:47.625Z",
         "ign": "JupitersLotso"
@@ -896,15 +904,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "LOTSO BestQ",
+    "ign": "BestQueen",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-07-16T16:51:10.592Z",
+    "lastChecked": "2026-07-20T10:33:29.504Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-07-16T16:51:10.593Z",
+    "updatedAt": "2026-07-20T10:33:29.504Z",
     "history": [
+      {
+        "updatedAt": "2026-07-20T10:33:29.504Z",
+        "ign": "BestQueen"
+      },
       {
         "updatedAt": "2026-07-16T16:51:10.593Z",
         "ign": "LOTSO BestQ"
@@ -937,11 +949,11 @@
     "ign": "Lotso_Trouble",
     "originalIGN": "Kill Machine",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:39.870Z",
-    "townCenterLevel": 32,
+    "lastChecked": "2026-07-20T10:33:30.540Z",
+    "townCenterLevel": 33,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.444Z",
-    "updatedAt": "2026-07-18T07:12:39.871Z",
+    "updatedAt": "2026-07-20T10:33:30.540Z",
     "history": [
       {
         "updatedAt": "2026-07-16T16:51:11.512Z",
@@ -1046,15 +1058,19 @@
   },
   "293299400": {
     "fid": "293299400",
-    "ign": "lotsobeer",
+    "ign": "knut",
     "originalIGN": "knut",
     "status": "tracking",
-    "lastChecked": "2026-07-17T07:36:18.853Z",
+    "lastChecked": "2026-07-20T10:33:32.586Z",
     "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.432Z",
-    "updatedAt": "2026-07-17T07:36:18.853Z",
+    "updatedAt": "2026-07-20T10:33:32.586Z",
     "history": [
+      {
+        "updatedAt": "2026-07-20T10:33:32.586Z",
+        "ign": "knut"
+      },
       {
         "updatedAt": "2026-07-17T07:36:18.853Z",
         "ign": "lotsobeer"
