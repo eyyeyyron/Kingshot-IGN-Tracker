@@ -56,15 +56,19 @@
   },
   "289891527": {
     "fid": "289891527",
-    "ign": "Eselotso",
+    "ign": "Esel",
     "originalIGN": "Esel",
     "status": "tracking",
-    "lastChecked": "2026-07-17T07:35:38.741Z",
+    "lastChecked": "2026-07-20T17:09:24.236Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.370Z",
-    "updatedAt": "2026-07-17T07:35:38.742Z",
+    "updatedAt": "2026-07-20T17:09:24.237Z",
     "history": [
+      {
+        "updatedAt": "2026-07-20T17:09:24.237Z",
+        "ign": "Esel"
+      },
       {
         "updatedAt": "2026-07-17T07:35:38.742Z",
         "ign": "Eselotso"
@@ -970,11 +974,11 @@
     "ign": "￴ ￴ ￴ ￴",
     "originalIGN": "Mr Blank",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:41.959Z",
-    "townCenterLevel": 32,
+    "lastChecked": "2026-07-20T17:10:00.780Z",
+    "townCenterLevel": 33,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.004Z",
-    "updatedAt": "2026-07-19T07:51:41.959Z",
+    "updatedAt": "2026-07-20T17:10:00.781Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:41.959Z",
@@ -1145,11 +1149,11 @@
     "ign": "OGフリーク",
     "originalIGN": "OGフリーク",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:21.952Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-07-20T17:10:04.206Z",
+    "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.472Z",
-    "updatedAt": "2026-07-10T14:35:21.953Z",
+    "updatedAt": "2026-07-20T17:10:04.206Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:21.952Z",
