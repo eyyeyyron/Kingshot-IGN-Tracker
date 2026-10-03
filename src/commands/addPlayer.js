@@ -1,8 +1,6 @@
+import 'dotenv/config';
 import { addPlayer, savePlayer } from '../storage/storage.js';
-import {
-  fetchCurrentIgn,
-  closeLookupClient
-} from '../lookup/fetchCurrentIgn.js';
+import { fetchCurrentIgn } from '../lookup/fetchCurrentIgn.js';
 
 async function main() {
   const fid = String(process.argv[2] ?? '').trim();
@@ -16,31 +14,25 @@ async function main() {
 
   console.log(`Added player ${player.fid}. Running initial lookup…`);
 
-  try {
-    const profile = await fetchCurrentIgn(fid);
+  const profile = await fetchCurrentIgn(fid);
 
-    if (profile) {
-      const now = new Date().toISOString();
-      player.ign = profile.ign;
-      player.originalIGN = profile.ign;
-      player.state = profile.state;
-      player.townCenterLevel = profile.townCenterLevel;
-      player.lastChecked = now;
-      // Replace the empty-string placeholder so history starts with the real IGN
-      player.history = [{ updatedAt: now, ign: profile.ign }];
+  if (profile) {
+    const now = new Date().toISOString();
+    player.ign = profile.ign;
+    player.originalIGN = profile.ign;
+    player.state = profile.state;
+    player.townCenterLevel = profile.townCenterLevel;
+    player.lastChecked = now;
+    // Replace the empty-string placeholder so history starts with the real IGN
+    player.history = [{ updatedAt: now, ign: profile.ign }];
 
-      await savePlayer(player);
+    await savePlayer(player);
 
-      console.log(
-        `Player ${player.fid} populated: IGN="${profile.ign}", state=${profile.state}, TC=${profile.townCenterLevel}`
-      );
-    } else {
-      console.warn(
-        `Lookup returned no data for ${player.fid}. Fields left blank.`
-      );
-    }
-  } finally {
-    await closeLookupClient();
+    console.log(
+      `Player ${player.fid} populated: IGN="${profile.ign}", state=${profile.state}, TC=${profile.townCenterLevel}`
+    );
+  } else {
+    console.warn(`Lookup returned no data for ${player.fid}. Fields left blank.`);
   }
 }
 

@@ -4,21 +4,10 @@
  */
 
 export const LOOKUP_CONFIG = {
-  URL: 'https://ks-giftcode.centurygame.com/',
-  REQUEST_TIMEOUT_MS: 15000,
-  MAX_ATTEMPTS: 5,
+  API_URL: 'https://api.mightpulse.com/v1/players',
+  REQUEST_TIMEOUT_MS: 100000,
+  MAX_ATTEMPTS: 3,
   RETRY_BASE_DELAY_MS: 2000
-};
-
-export const BROWSER_CONFIG = {
-  CANDIDATES: [
-    'C:/Program Files/Microsoft/Edge/Application/msedge.exe',
-    'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',
-    'C:/Program Files/Google/Chrome/Application/chrome.exe',
-    '/usr/bin/microsoft-edge',
-    '/usr/bin/google-chrome',
-    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-  ]
 };
 
 export const VALIDATION_CONFIG = {

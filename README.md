@@ -1,16 +1,14 @@
 # Kingshot IGN Tracker
 
-Tracks Kingshot player IGN changes using FID (player ID). Runs as a one-time scan job, looks up live profiles from the Kingshot Gift Code site, persists changes to local JSON storage, and sends a single Discord tracking report per run.
+Tracks Kingshot player IGN changes using FID (player ID). Runs as a one-time scan job, looks up live profiles from MightPulse, persists changes to local JSON storage, and sends a single Discord tracking report per run.
 
 ## Features
 
 - One-time scan job execution with optional scheduling via GitHub Actions
-- Live player profile lookup via headless browser automation (Playwright)
-- Auto-detected browser (Edge or Chrome), or custom via `LOOKUP_BROWSER_PATH`
+- Live player profile lookup via the MightPulse API
 - Immediate lookup on player creation (populates IGN, TC level, state)
 - Bulk add players with comma-separated FIDs
-- Closes Playwright browser resources after each run for clean process exit
-- Retry with exponential backoff on lookup failures (up to 3 attempts)
+- Retries transient API failures with exponential backoff (up to 3 attempts)
 - Per-player IGN change history (newest-first)
 - Tracks Town Center Level and State per player
 - **Smart stove level display:**
@@ -39,7 +37,7 @@ Kingshot-IGN-Tracker/
 │   ├── discord/
 │   │   └── notify.js         (Discord webhook integration)
 │   ├── lookup/
-│   │   └── fetchCurrentIgn.js (browser-based player lookup)
+│   │   └── fetchCurrentIgn.js (MightPulse player lookup)
 │   ├── storage/
 │   │   ├── jsonStorage.js    (JSON file operations)
 │   │   └── storage.js        (player data management)
@@ -59,10 +57,7 @@ Kingshot-IGN-Tracker/
 ## Requirements
 
 - Node.js 18+
-- A Chromium-based browser installed:
-  - Microsoft Edge (default)
-  - Google Chrome
-  - Or set custom path via `LOOKUP_BROWSER_PATH`
+- A MightPulse API key created after signing in with Discord at https://api.mightpulse.com/
 
 ## Setup
 
@@ -86,8 +81,10 @@ Edit `.env`:
 
 ```
 DISCORD_WEBHOOK=https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN
-LOOKUP_BROWSER_PATH=          # (optional, auto-detected if not set)
+MIGHTPULSE_API_KEY=kss_...
 ```
+
+Player data may be cached for up to 60 minutes. A stale lookup can take up to 90 seconds while MightPulse refreshes it.
 
 ### 3. Set Up GitHub Actions (Optional)
 
@@ -182,30 +179,10 @@ npm run lint
 
 ## Environment Variables
 
-| Variable              | Required | Description                                         |
-| --------------------- | -------- | --------------------------------------------------- |
-| `DISCORD_WEBHOOK`     | Yes      | Discord incoming webhook URL for notifications      |
-| `LOOKUP_BROWSER_PATH` | No       | Absolute path to browser executable (auto-detected) |
-
-### Examples
-
-**Windows:**
-
-```
-LOOKUP_BROWSER_PATH=C:/Program Files/Microsoft/Edge/Application/msedge.exe
-```
-
-**macOS:**
-
-```
-LOOKUP_BROWSER_PATH=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
-```
-
-**Linux:**
-
-```
-LOOKUP_BROWSER_PATH=/usr/bin/microsoft-edge
-```
+| Variable             | Required | Description                                    |
+| -------------------- | -------- | ---------------------------------------------- |
+| `DISCORD_WEBHOOK`    | Yes      | Discord incoming webhook URL for notifications |
+| `MIGHTPULSE_API_KEY` | Yes      | MightPulse key used for player profile lookups |
 
 ## GitHub Actions Workflows
 
@@ -392,19 +369,9 @@ Log levels: `DEBUG`, `INFO`, `WARN`, `ERROR`
 
 ## Troubleshooting
 
-### ❌ "No compatible browser executable found"
+### MightPulse lookup returns 401
 
-**Causes:**
-
-- Edge/Chrome not installed
-- Custom browser path is wrong
-
-**Fix:**
-
-```bash
-# Install Edge or Chrome, or set custom path:
-LOOKUP_BROWSER_PATH=/path/to/browser npm start
-```
+Check that `MIGHTPULSE_API_KEY` contains a valid key created at MightPulse, not a Discord bot token.
 
 ### ❌ "Invalid FID"
 
@@ -519,14 +486,13 @@ If `DISCORD_WEBHOOK` is not set or is invalid, notifications are silently skippe
 
 ## Lookup Flow
 
-The lookup uses Playwright to automate the Kingshot Gift Code site:
+The lookup calls the MightPulse player endpoint with the tracked FID:
 
-1. Opens https://ks-giftcode.centurygame.com in a headless browser
-2. Enters the player FID and clicks Login
-3. Intercepts the `POST /api/player` API response
-4. Parses `nickname` (IGN), `stove_lv_content`/`stove_lv` (Town Center Level), and `kid` (State)
+1. Requests `GET /v1/players/{fid}?include=base`
+2. Authenticates using `MIGHTPULSE_API_KEY`
+3. Parses `player.nick_name` (IGN), `player.town_center_level`, and `player.kid` (State)
 
-If a lookup fails, it retries up to 3 times with exponential backoff, resetting the browser session between attempts.
+Transient failures are retried up to 3 times with exponential backoff. MightPulse allows 60 requests per minute and 5,000 per day per key.
 
 ## Data Model
 

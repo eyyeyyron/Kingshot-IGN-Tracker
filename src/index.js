@@ -1,9 +1,6 @@
 import 'dotenv/config';
 import { getPlayers, updatePlayer } from './storage/storage.js';
-import {
-  closeLookupClient,
-  fetchCurrentIgn
-} from './lookup/fetchCurrentIgn.js';
+import { fetchCurrentIgn } from './lookup/fetchCurrentIgn.js';
 import { notifyScanSummary } from './discord/notify.js';
 import { logger } from './utils/logger.js';
 import { SCAN_CONFIG } from './config/config.js';
@@ -83,16 +80,11 @@ async function scanTrackedPlayers() {
         continue;
       }
 
-      const normalizedTownLevel = Number.isFinite(latestProfile.townCenterLevel)
-        ? latestProfile.townCenterLevel
-        : null;
-      const normalizedState = Number.isFinite(latestProfile.state)
-        ? latestProfile.state
-        : null;
+      const normalizedTownLevel = Number.isFinite(latestProfile.townCenterLevel) ? latestProfile.townCenterLevel : null;
+      const normalizedState = Number.isFinite(latestProfile.state) ? latestProfile.state : null;
 
       const ignChanged = normalizedIgn !== (player.ign ?? '');
-      const townLevelChanged =
-        normalizedTownLevel !== (player.townCenterLevel ?? null);
+      const townLevelChanged = normalizedTownLevel !== (player.townCenterLevel ?? null);
       const stateChanged = normalizedState !== (player.state ?? null);
 
       if (!ignChanged && !townLevelChanged && !stateChanged) {
@@ -126,19 +118,13 @@ async function scanTrackedPlayers() {
       });
 
       if (ignChanged) {
-        logger.info(
-          `IGN changed for ${player.fid}: "${player.ign}" -> "${normalizedIgn}"`
-        );
+        logger.info(`IGN changed for ${player.fid}: "${player.ign}" -> "${normalizedIgn}"`);
       } else {
-        logger.info(
-          `Profile updated for ${player.fid}: Town Center=${normalizedTownLevel}, State=${normalizedState}`
-        );
+        logger.info(`Profile updated for ${player.fid}: Town Center=${normalizedTownLevel}, State=${normalizedState}`);
       }
     }
 
-    logger.info(
-      `Scan complete. checked=${checked}, updated=${updated}, failures=${failures}`
-    );
+    logger.info(`Scan complete. checked=${checked}, updated=${updated}, failures=${failures}`);
 
     await notifyScanSummary({
       checked,
@@ -221,28 +207,23 @@ async function sendStartupNotification(validationResult) {
 async function main() {
   logger.info('Kingshot tracker one-time scan job started.');
 
-  try {
-    // Run startup validation
-    if (SCAN_CONFIG.STARTUP_CHECK_ENABLED) {
-      logger.info('Running startup validation checks...');
-      const validationResult = await validateStartup();
+  // Run startup validation
+  if (SCAN_CONFIG.STARTUP_CHECK_ENABLED) {
+    logger.info('Running startup validation checks...');
+    const validationResult = await validateStartup();
 
-      if (!validationResult.valid) {
-        await sendStartupNotification(validationResult);
-        logger.error('Startup validation failed. Exiting.');
-        process.exit(1);
-      }
-
-      if (validationResult.warnings.length > 0) {
-        await sendStartupNotification(validationResult);
-      }
+    if (!validationResult.valid) {
+      await sendStartupNotification(validationResult);
+      logger.error('Startup validation failed. Exiting.');
+      process.exit(1);
     }
 
-    await scanTrackedPlayers();
-  } finally {
-    await closeLookupClient();
+    if (validationResult.warnings.length > 0) {
+      await sendStartupNotification(validationResult);
+    }
   }
 
+  await scanTrackedPlayers();
   logger.info('Kingshot tracker one-time scan job completed.');
 }
 

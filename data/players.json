@@ -21,11 +21,11 @@
     "ign": "~Naranjita~",
     "originalIGN": "~Naranjita~",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:11:59.968Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-10-02T21:05:44.385Z",
+    "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:21.389Z",
-    "updatedAt": "2026-07-18T07:11:59.969Z",
+    "updatedAt": "2026-10-02T21:05:44.385Z",
     "history": [
       {
         "updatedAt": "2026-07-09T07:13:21.920Z",
@@ -35,15 +35,19 @@
   },
   "289759789": {
     "fid": "289759789",
-    "ign": "Mikeyyyyy",
+    "ign": "Mikeyyy",
     "originalIGN": "Grekkey",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:00.530Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:05:45.628Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-09T19:33:29.172Z",
-    "updatedAt": "2026-07-18T07:12:00.531Z",
+    "updatedAt": "2026-10-02T21:05:45.628Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:05:45.628Z",
+        "ign": "Mikeyyy"
+      },
       {
         "updatedAt": "2026-07-15T16:53:35.861Z",
         "ign": "Mikeyyyyy"
@@ -59,11 +63,11 @@
     "ign": "Esel",
     "originalIGN": "Esel",
     "status": "tracking",
-    "lastChecked": "2026-07-20T17:09:24.236Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-10-02T21:05:46.888Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.370Z",
-    "updatedAt": "2026-07-20T17:09:24.237Z",
+    "updatedAt": "2026-10-02T21:05:46.888Z",
     "history": [
       {
         "updatedAt": "2026-07-20T17:09:24.237Z",
@@ -84,11 +88,11 @@
     "ign": "Jesus Love",
     "originalIGN": "Jesus Love",
     "status": "tracking",
-    "lastChecked": "2026-07-15T07:30:36.938Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:05:48.133Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:18.655Z",
-    "updatedAt": "2026-07-15T07:30:36.939Z",
+    "updatedAt": "2026-10-02T21:05:48.133Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:19.124Z",
@@ -101,11 +105,11 @@
     "ign": "來亂a",
     "originalIGN": "來亂a",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:43:30.662Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-10-02T21:05:49.361Z",
+    "townCenterLevel": 36,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:19.125Z",
-    "updatedAt": "2026-07-13T11:43:30.663Z",
+    "updatedAt": "2026-10-02T21:05:49.361Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:19.603Z",
@@ -118,11 +122,11 @@
     "ign": "ViKing",
     "originalIGN": "ViKing",
     "status": "tracking",
-    "lastChecked": "2026-07-17T07:35:40.338Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-10-02T21:05:50.631Z",
+    "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:46.727Z",
-    "updatedAt": "2026-07-17T07:35:40.338Z",
+    "updatedAt": "2026-10-02T21:05:50.631Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:51.868Z",
@@ -139,11 +143,11 @@
     "ign": "Nagharoth",
     "originalIGN": "Nagharoth#",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:07.233Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-02T21:05:51.853Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:19.605Z",
-    "updatedAt": "2026-07-19T07:51:07.233Z",
+    "updatedAt": "2026-10-02T21:05:51.853Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:07.233Z",
@@ -164,11 +168,11 @@
     "ign": "Matrix",
     "originalIGN": "Matrix",
     "status": "tracking",
-    "lastChecked": "2026-07-17T07:35:41.354Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:05:53.088Z",
+    "townCenterLevel": 34,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:09.775Z",
-    "updatedAt": "2026-07-17T07:35:41.354Z",
+    "updatedAt": "2026-10-02T21:05:53.088Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:36:13.626Z",
@@ -178,15 +182,19 @@
   },
   "290596073": {
     "fid": "290596073",
-    "ign": "JR 44",
+    "ign": "JR 45",
     "originalIGN": "JR 44",
     "status": "tracking",
-    "lastChecked": "2026-07-10T15:05:53.382Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:05:54.334Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:54.442Z",
-    "updatedAt": "2026-07-10T15:05:53.382Z",
+    "updatedAt": "2026-10-02T21:05:54.334Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:05:54.334Z",
+        "ign": "JR 45"
+      },
       {
         "updatedAt": "2026-07-10T15:05:53.382Z",
         "ign": "JR 44"
@@ -199,15 +207,19 @@
   },
   "290678170": {
     "fid": "290678170",
-    "ign": "Leo20",
+    "ign": "Shiryu",
     "originalIGN": "Leo20",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:26.852Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:05:55.554Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.371Z",
-    "updatedAt": "2026-07-10T14:35:26.852Z",
+    "updatedAt": "2026-10-02T21:05:55.554Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:05:55.554Z",
+        "ign": "Shiryu"
+      },
       {
         "updatedAt": "2026-07-10T14:35:26.852Z",
         "ign": "Leo20"
@@ -219,11 +231,11 @@
     "ign": "Klerb",
     "originalIGN": "Klerb",
     "status": "tracking",
-    "lastChecked": "2026-07-16T16:50:39.115Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:05:56.804Z",
+    "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:42.876Z",
-    "updatedAt": "2026-07-16T16:50:39.115Z",
+    "updatedAt": "2026-10-02T21:05:56.804Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:54.383Z",
@@ -240,11 +252,11 @@
     "ign": "Bibibop",
     "originalIGN": "BiBiBop",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:09.595Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-10-02T21:05:58.079Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.854Z",
-    "updatedAt": "2026-07-19T07:51:09.595Z",
+    "updatedAt": "2026-10-02T21:05:58.079Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:09.595Z",
@@ -265,11 +277,11 @@
     "ign": "Kira",
     "originalIGN": "Kira",
     "status": "tracking",
-    "lastChecked": "2026-07-09T18:26:46.109Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:05:59.364Z",
+    "townCenterLevel": 49,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.349Z",
-    "updatedAt": "2026-07-09T18:26:46.109Z",
+    "updatedAt": "2026-10-02T21:05:59.364Z",
     "history": [
       {
         "updatedAt": "2026-07-09T07:13:20.873Z",
@@ -282,11 +294,11 @@
     "ign": "Lotso",
     "originalIGN": "Lotso",
     "status": "tracking",
-    "lastChecked": "2026-07-17T16:38:19.565Z",
-    "townCenterLevel": 43,
+    "lastChecked": "2026-10-02T21:06:00.581Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T10:44:05.621Z",
-    "updatedAt": "2026-07-17T16:38:19.566Z",
+    "updatedAt": "2026-10-02T21:06:00.581Z",
     "history": [
       {
         "updatedAt": "2026-07-08T10:44:08.294Z",
@@ -299,11 +311,11 @@
     "ign": "Elezard",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:10.997Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:06:01.814Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-07-19T07:51:10.997Z",
+    "updatedAt": "2026-10-02T21:06:01.814Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:10.997Z",
@@ -324,11 +336,11 @@
     "ign": "KING F4LCON",
     "originalIGN": "chicken friend",
     "status": "tracking",
-    "lastChecked": "2026-07-14T07:24:28.711Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:03.066Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:17.256Z",
-    "updatedAt": "2026-07-14T07:24:28.711Z",
+    "updatedAt": "2026-10-02T21:06:03.066Z",
     "history": [
       {
         "updatedAt": "2026-07-14T07:24:28.711Z",
@@ -345,11 +357,11 @@
     "ign": "hamburguesa",
     "originalIGN": "hamburguesa",
     "status": "tracking",
-    "lastChecked": "2026-07-18T15:33:18.354Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:04.293Z",
+    "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:17.721Z",
-    "updatedAt": "2026-07-18T15:33:18.355Z",
+    "updatedAt": "2026-10-02T21:06:04.293Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:18.185Z",
@@ -362,11 +374,11 @@
     "ign": "skweeKz",
     "originalIGN": "skweeKz",
     "status": "tracking",
-    "lastChecked": "2026-07-10T15:05:57.882Z",
+    "lastChecked": "2026-10-02T21:06:05.525Z",
     "townCenterLevel": 25,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:35.150Z",
-    "updatedAt": "2026-07-10T15:05:57.882Z",
+    "updatedAt": "2026-10-02T21:06:05.525Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:57.882Z",
@@ -383,9 +395,9 @@
     "ign": "Eyy",
     "originalIGN": "Eyy",
     "status": "tracking",
-    "lastChecked": "2026-07-20T10:33:00.325Z",
+    "lastChecked": "2026-10-02T21:06:06.797Z",
     "createdAt": "2026-07-08T07:34:12.229Z",
-    "updatedAt": "2026-07-20T10:33:00.326Z",
+    "updatedAt": "2026-10-02T21:06:06.797Z",
     "history": [
       {
         "updatedAt": "2026-07-20T10:33:00.326Z",
@@ -416,7 +428,7 @@
         "ign": "Eyy"
       }
     ],
-    "townCenterLevel": 35,
+    "townCenterLevel": 49,
     "state": 1892
   },
   "291496547": {
@@ -424,11 +436,11 @@
     "ign": "Doxxx",
     "originalIGN": "Doxxx",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:10.139Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-10-02T21:06:08.041Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:25.223Z",
-    "updatedAt": "2026-07-18T07:12:10.139Z",
+    "updatedAt": "2026-10-02T21:06:08.041Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:25.688Z",
@@ -438,15 +450,19 @@
   },
   "291512850": {
     "fid": "291512850",
-    "ign": "Winter",
+    "ign": "Spring",
     "originalIGN": "Winter",
     "status": "tracking",
-    "lastChecked": "2026-07-18T15:33:20.384Z",
-    "townCenterLevel": 33,
+    "lastChecked": "2026-10-02T21:06:09.269Z",
+    "townCenterLevel": 44,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.888Z",
-    "updatedAt": "2026-07-18T15:33:20.385Z",
+    "updatedAt": "2026-10-02T21:06:09.269Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:09.269Z",
+        "ign": "Spring"
+      },
       {
         "updatedAt": "2026-07-10T14:35:23.352Z",
         "ign": "Winter"
@@ -455,15 +471,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "༆ RaNGiLa ༆",
+    "ign": "༄ᶦᵅᶬ᭄ѕPJ࿐",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:14.312Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:06:10.716Z",
+    "townCenterLevel": 46,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-07-19T07:51:14.313Z",
+    "updatedAt": "2026-10-02T21:06:10.716Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:10.716Z",
+        "ign": "༄ᶦᵅᶬ᭄ѕPJ࿐"
+      },
       {
         "updatedAt": "2026-07-19T07:51:14.313Z",
         "ign": "༆ RaNGiLa ༆"
@@ -483,11 +503,11 @@
     "ign": "Valery",
     "originalIGN": "Valery",
     "status": "tracking",
-    "lastChecked": "2026-07-11T15:33:27.177Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-10-02T21:06:11.943Z",
+    "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:58.246Z",
-    "updatedAt": "2026-07-11T15:33:27.178Z",
+    "updatedAt": "2026-10-02T21:06:11.943Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:06:00.435Z",
@@ -504,11 +524,11 @@
     "ign": "immererster",
     "originalIGN": "immererster",
     "status": "tracking",
-    "lastChecked": "2026-07-14T16:43:35.583Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-10-02T21:06:13.232Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:27.322Z",
-    "updatedAt": "2026-07-14T16:43:35.584Z",
+    "updatedAt": "2026-10-02T21:06:13.232Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:06:00.951Z",
@@ -525,11 +545,11 @@
     "ign": "ARMORTECH",
     "originalIGN": "OtenDakoBiko",
     "status": "tracking",
-    "lastChecked": "2026-07-20T10:33:03.722Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-10-02T21:06:14.456Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.324Z",
-    "updatedAt": "2026-07-20T10:33:03.723Z",
+    "updatedAt": "2026-10-02T21:06:14.456Z",
     "history": [
       {
         "updatedAt": "2026-07-19T15:34:27.068Z",
@@ -551,15 +571,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༒༻࿐Shika࿐༺༒",
+    "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:32.607Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:06:15.683Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-07-19T07:51:32.609Z",
+    "updatedAt": "2026-10-02T21:06:15.683Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:15.683Z",
+        "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐"
+      },
       {
         "updatedAt": "2026-07-19T07:51:32.609Z",
         "ign": "༒༻࿐Shika࿐༺༒"
@@ -576,15 +600,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "Christy D Nami",
+    "ign": "Namichy",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:30.380Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-02T21:06:16.930Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-07-18T07:12:30.381Z",
+    "updatedAt": "2026-10-02T21:06:16.930Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:16.930Z",
+        "ign": "Namichy"
+      },
       {
         "updatedAt": "2026-07-08T15:48:10.068Z",
         "ign": "Christy D Nami"
@@ -593,15 +621,19 @@
   },
   "291857072": {
     "fid": "291857072",
-    "ign": "BLACK LOTSO",
+    "ign": "LOST COCONUT",
     "originalIGN": "BLACK PANTHER",
     "status": "tracking",
-    "lastChecked": "2026-07-17T07:36:08.390Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-10-02T21:06:18.170Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.421Z",
-    "updatedAt": "2026-07-17T07:36:08.390Z",
+    "updatedAt": "2026-10-02T21:06:18.170Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:18.170Z",
+        "ign": "LOST COCONUT"
+      },
       {
         "updatedAt": "2026-07-17T07:36:08.390Z",
         "ign": "BLACK LOTSO"
@@ -617,11 +649,11 @@
     "ign": "God of space",
     "originalIGN": "God of space",
     "status": "tracking",
-    "lastChecked": "2026-07-10T15:06:03.572Z",
+    "lastChecked": "2026-10-02T21:06:19.452Z",
     "townCenterLevel": 27,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:31.182Z",
-    "updatedAt": "2026-07-10T15:06:03.572Z",
+    "updatedAt": "2026-10-02T21:06:19.452Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:06:03.572Z",
@@ -638,11 +670,11 @@
     "ign": "Joos",
     "originalIGN": "Joos",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:24.284Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-10-02T21:06:20.768Z",
+    "townCenterLevel": 32,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:23.821Z",
-    "updatedAt": "2026-07-10T14:35:24.285Z",
+    "updatedAt": "2026-10-02T21:06:20.768Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:24.284Z",
@@ -655,11 +687,11 @@
     "ign": "LuckyLex",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": null,
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:22.066Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-07-11T16:29:43.702Z",
+    "updatedAt": "2026-10-02T21:06:22.066Z",
     "history": [
       {
         "updatedAt": "2026-07-11T16:25:03.947Z",
@@ -676,11 +708,11 @@
     "ign": "金門高粱真好喝",
     "originalIGN": "金門高粱真好喝",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:35.412Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-10-02T21:06:23.310Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-08T12:22:05.618Z",
-    "updatedAt": "2026-07-19T07:51:35.412Z",
+    "updatedAt": "2026-10-02T21:06:23.310Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:35.412Z",
@@ -701,11 +733,11 @@
     "ign": "yanley",
     "originalIGN": "yanley",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:26.369Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:24.539Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:25.690Z",
-    "updatedAt": "2026-07-10T14:35:26.369Z",
+    "updatedAt": "2026-10-02T21:06:24.539Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:26.369Z",
@@ -718,11 +750,11 @@
     "ign": "SainTess_Nezuko",
     "originalIGN": "SainTess_Nezuko",
     "status": "tracking",
-    "lastChecked": "2026-07-17T16:38:46.629Z",
+    "lastChecked": "2026-10-02T21:06:25.795Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.539Z",
-    "updatedAt": "2026-07-17T16:38:46.629Z",
+    "updatedAt": "2026-10-02T21:06:25.795Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:21.002Z",
@@ -735,11 +767,11 @@
     "ign": "Lowest88",
     "originalIGN": "Lowest88",
     "status": "tracking",
-    "lastChecked": null,
+    "lastChecked": "2026-10-02T21:06:27.033Z",
     "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:39.031Z",
-    "updatedAt": "2026-07-11T16:29:44.515Z",
+    "updatedAt": "2026-10-02T21:06:27.033Z",
     "history": [
       {
         "updatedAt": "2026-07-11T16:25:04.773Z",
@@ -753,15 +785,19 @@
   },
   "292414397": {
     "fid": "292414397",
-    "ign": "LotsoMathus",
+    "ign": "Almathus",
     "originalIGN": "Almathus",
     "status": "tracking",
-    "lastChecked": "2026-07-17T07:36:12.303Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-10-02T21:06:28.273Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:50.564Z",
-    "updatedAt": "2026-07-17T07:36:12.303Z",
+    "updatedAt": "2026-10-02T21:06:28.273Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:28.273Z",
+        "ign": "Almathus"
+      },
       {
         "updatedAt": "2026-07-17T07:36:12.303Z",
         "ign": "LotsoMathus"
@@ -781,11 +817,11 @@
     "ign": "_Vivi_",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:37.744Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-02T21:06:29.497Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-07-19T07:51:37.745Z",
+    "updatedAt": "2026-10-02T21:06:29.497Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:37.745Z",
@@ -810,11 +846,11 @@
     "ign": "Lotsoflove!",
     "originalIGN": "LifeIsABeach×_×",
     "status": "tracking",
-    "lastChecked": "2026-07-17T16:38:48.722Z",
+    "lastChecked": "2026-10-02T21:06:30.782Z",
     "townCenterLevel": 28,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:23.356Z",
-    "updatedAt": "2026-07-17T16:38:48.723Z",
+    "updatedAt": "2026-10-02T21:06:30.782Z",
     "history": [
       {
         "updatedAt": "2026-07-17T16:38:48.723Z",
@@ -831,11 +867,11 @@
     "ign": "༄Brook࿐",
     "originalIGN": "༄Brook࿐",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:36.729Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-10-02T21:06:32.000Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T19:32:37.534Z",
-    "updatedAt": "2026-07-18T07:12:36.729Z",
+    "updatedAt": "2026-10-02T21:06:32.000Z",
     "history": [
       {
         "updatedAt": "2026-07-09T19:33:29.170Z",
@@ -848,11 +884,11 @@
     "ign": "하루2",
     "originalIGN": "하루2",
     "status": "tracking",
-    "lastChecked": "2026-07-10T18:09:25.962Z",
-    "townCenterLevel": 26,
+    "lastChecked": "2026-10-02T21:06:33.256Z",
+    "townCenterLevel": 27,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:02.080Z",
-    "updatedAt": "2026-07-11T16:29:45.982Z",
+    "updatedAt": "2026-10-02T21:06:33.256Z",
     "history": [
       {
         "updatedAt": "2026-07-10T18:09:25.963Z",
@@ -869,11 +905,11 @@
     "ign": "duc de la Boétie",
     "originalIGN": "duc de la Boétie",
     "status": "tracking",
-    "lastChecked": "2026-07-18T07:12:37.793Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:34.516Z",
+    "townCenterLevel": 36,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.904Z",
-    "updatedAt": "2026-07-18T07:12:37.794Z",
+    "updatedAt": "2026-10-02T21:06:34.516Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:15.367Z",
@@ -886,11 +922,11 @@
     "ign": "Jupiter",
     "originalIGN": "Jupiter",
     "status": "tracking",
-    "lastChecked": "2026-07-20T10:33:28.990Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:35.746Z",
+    "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.875Z",
-    "updatedAt": "2026-07-20T10:33:28.990Z",
+    "updatedAt": "2026-10-02T21:06:35.746Z",
     "history": [
       {
         "updatedAt": "2026-07-20T10:33:28.990Z",
@@ -908,15 +944,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "BestQueen",
+    "ign": "༄ᶦᵅᶬ᭄BestQueen࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-07-20T10:33:29.504Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:06:37.067Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-07-20T10:33:29.504Z",
+    "updatedAt": "2026-10-02T21:06:37.067Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:37.067Z",
+        "ign": "༄ᶦᵅᶬ᭄BestQueen࿐"
+      },
       {
         "updatedAt": "2026-07-20T10:33:29.504Z",
         "ign": "BestQueen"
@@ -936,11 +976,11 @@
     "ign": "Sämm¥",
     "originalIGN": "Sämm¥",
     "status": "tracking",
-    "lastChecked": "2026-07-15T07:31:16.498Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-02T21:06:38.347Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-09T06:06:27.263Z",
-    "updatedAt": "2026-07-15T07:31:16.498Z",
+    "updatedAt": "2026-10-02T21:06:38.347Z",
     "history": [
       {
         "updatedAt": "2026-07-09T06:06:46.809Z",
@@ -950,15 +990,19 @@
   },
   "292938960": {
     "fid": "292938960",
-    "ign": "Lotso_Trouble",
+    "ign": "Kill_Machine",
     "originalIGN": "Kill Machine",
     "status": "tracking",
-    "lastChecked": "2026-07-20T10:33:30.540Z",
-    "townCenterLevel": 33,
+    "lastChecked": "2026-10-02T21:06:39.611Z",
+    "townCenterLevel": 39,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.444Z",
-    "updatedAt": "2026-07-20T10:33:30.540Z",
+    "updatedAt": "2026-10-02T21:06:39.611Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:39.611Z",
+        "ign": "Kill_Machine"
+      },
       {
         "updatedAt": "2026-07-16T16:51:11.512Z",
         "ign": "Lotso_Trouble"
@@ -974,11 +1018,11 @@
     "ign": "￴ ￴ ￴ ￴",
     "originalIGN": "Mr Blank",
     "status": "tracking",
-    "lastChecked": "2026-07-20T17:10:00.780Z",
-    "townCenterLevel": 33,
+    "lastChecked": "2026-10-02T21:06:40.861Z",
+    "townCenterLevel": 44,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.004Z",
-    "updatedAt": "2026-07-20T17:10:00.781Z",
+    "updatedAt": "2026-10-02T21:06:40.861Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:41.959Z",
@@ -999,11 +1043,11 @@
     "ign": "riwoo",
     "originalIGN": "riwoo",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:42.427Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-10-02T21:06:42.072Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.954Z",
-    "updatedAt": "2026-07-19T07:51:42.427Z",
+    "updatedAt": "2026-10-02T21:06:42.072Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:42.427Z",
@@ -1024,9 +1068,9 @@
     "ign": "ɗɗɗоѓа",
     "originalIGN": "ɗɗɗоѓа",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:42.891Z",
+    "lastChecked": "2026-10-02T21:06:43.376Z",
     "createdAt": "2026-07-08T07:34:37.348Z",
-    "updatedAt": "2026-07-19T07:51:42.892Z",
+    "updatedAt": "2026-10-02T21:06:43.376Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:42.892Z",
@@ -1057,7 +1101,7 @@
         "ign": "ɗɗɗоѓа"
       }
     ],
-    "townCenterLevel": 40,
+    "townCenterLevel": 50,
     "state": 1892
   },
   "293299400": {
@@ -1065,11 +1109,11 @@
     "ign": "knut",
     "originalIGN": "knut",
     "status": "tracking",
-    "lastChecked": "2026-07-20T10:33:32.586Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-10-02T21:06:44.594Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.432Z",
-    "updatedAt": "2026-07-20T10:33:32.586Z",
+    "updatedAt": "2026-10-02T21:06:44.594Z",
     "history": [
       {
         "updatedAt": "2026-07-20T10:33:32.586Z",
@@ -1090,11 +1134,11 @@
     "ign": "拉斐爾",
     "originalIGN": "拉斐爾",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:43.830Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-02T21:06:45.912Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:19.796Z",
-    "updatedAt": "2026-07-19T07:51:43.830Z",
+    "updatedAt": "2026-10-02T21:06:45.912Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:43.830Z",
@@ -1112,15 +1156,19 @@
   },
   "293348137": {
     "fid": "293348137",
-    "ign": "Larry The Moose",
+    "ign": "Marlin",
     "originalIGN": "Larry The Moose",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:44:11.513Z",
-    "townCenterLevel": 35,
-    "state": 1892,
+    "lastChecked": "2026-10-02T21:06:47.301Z",
+    "townCenterLevel": 43,
+    "state": 1944,
     "createdAt": "2026-07-10T14:35:24.287Z",
-    "updatedAt": "2026-07-13T11:44:11.513Z",
+    "updatedAt": "2026-10-02T21:06:47.301Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:47.301Z",
+        "ign": "Marlin"
+      },
       {
         "updatedAt": "2026-07-10T14:35:24.753Z",
         "ign": "Larry The Moose"
@@ -1132,11 +1180,11 @@
     "ign": "拎吖罵",
     "originalIGN": "拎吖罵",
     "status": "tracking",
-    "lastChecked": "2026-07-13T18:21:01.033Z",
-    "townCenterLevel": 27,
+    "lastChecked": "2026-10-02T21:06:48.563Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.790Z",
-    "updatedAt": "2026-07-13T18:21:01.033Z",
+    "updatedAt": "2026-10-02T21:06:48.563Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:17.254Z",
@@ -1146,15 +1194,19 @@
   },
   "293479272": {
     "fid": "293479272",
-    "ign": "OGフリーク",
+    "ign": "亗INUYASHA亗",
     "originalIGN": "OGフリーク",
     "status": "tracking",
-    "lastChecked": "2026-07-20T17:10:04.206Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-10-02T21:06:49.810Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.472Z",
-    "updatedAt": "2026-07-20T17:10:04.206Z",
+    "updatedAt": "2026-10-02T21:06:49.810Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:49.810Z",
+        "ign": "亗INUYASHA亗"
+      },
       {
         "updatedAt": "2026-07-10T14:35:21.952Z",
         "ign": "OGフリーク"
@@ -1166,11 +1218,11 @@
     "ign": "NFFC",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:45.710Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-10-02T21:06:51.078Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-07-19T07:51:45.711Z",
+    "updatedAt": "2026-10-02T21:06:51.078Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:45.711Z",
@@ -1191,11 +1243,11 @@
     "ign": "MavisKate_27",
     "originalIGN": "Mavis_Kate",
     "status": "tracking",
-    "lastChecked": "2026-07-19T07:51:46.175Z",
+    "lastChecked": "2026-10-02T21:06:52.353Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:13.628Z",
-    "updatedAt": "2026-07-19T07:51:46.175Z",
+    "updatedAt": "2026-10-02T21:06:52.353Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:46.175Z",
@@ -1216,11 +1268,11 @@
     "ign": "Kizea",
     "originalIGN": "Kizea",
     "status": "tracking",
-    "lastChecked": "2026-07-10T14:35:18.651Z",
-    "townCenterLevel": 25,
+    "lastChecked": "2026-10-02T21:06:53.601Z",
+    "townCenterLevel": 33,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:18.187Z",
-    "updatedAt": "2026-07-10T14:35:18.652Z",
+    "updatedAt": "2026-10-02T21:06:53.601Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:18.651Z",
@@ -1230,15 +1282,19 @@
   },
   "328353803": {
     "fid": "328353803",
-    "ign": "LotsoJunior",
+    "ign": "Lotso Junior",
     "originalIGN": "LotsoJunior",
     "status": "tracking",
-    "lastChecked": "2026-07-13T11:45:05.195Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-10-02T21:06:54.857Z",
+    "townCenterLevel": 47,
     "state": 1892,
     "createdAt": "2026-07-10T14:34:47.512Z",
-    "updatedAt": "2026-07-13T11:45:05.195Z",
+    "updatedAt": "2026-10-02T21:06:54.857Z",
     "history": [
+      {
+        "updatedAt": "2026-10-02T21:06:54.857Z",
+        "ign": "Lotso Junior"
+      },
       {
         "updatedAt": "2026-07-10T14:35:13.430Z",
         "ign": "LotsoJunior"
