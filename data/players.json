@@ -352,6 +352,23 @@
       }
     ]
   },
+  "291087355": {
+    "fid": "291087355",
+    "ign": "",
+    "originalIGN": "",
+    "status": "tracking",
+    "lastChecked": null,
+    "townCenterLevel": null,
+    "state": null,
+    "createdAt": "2026-10-03T17:40:01.424Z",
+    "updatedAt": "2026-10-03T17:40:01.424Z",
+    "history": [
+      {
+        "updatedAt": "2026-10-03T17:40:01.424Z",
+        "ign": ""
+      }
+    ]
+  },
   "291250949": {
     "fid": "291250949",
     "ign": "hamburguesa",
