@@ -29,6 +29,7 @@ jobs:
       - name: Run scan
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          MIGHTPULSE_API_KEY: ${{ secrets.MIGHTPULSE_API_KEY }}
         run: npm start
 
       - name: Commit updated player data if changed

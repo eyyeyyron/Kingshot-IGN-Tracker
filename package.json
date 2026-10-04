@@ -13,6 +13,7 @@
     "dev": "nodemon src/index.js",
     "bot": "node bot.js",
     "bot-dev": "nodemon bot.js",
+    "test": "node --test \"test/*.test.js\"",
     "lint": "eslint ."
   },
   "keywords": [],

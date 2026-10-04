@@ -42,10 +42,14 @@ jobs:
 
       - name: Add player (single)
         if: steps.operation.outputs.type == 'single'
+        env:
+          MIGHTPULSE_API_KEY: ${{ secrets.MIGHTPULSE_API_KEY }}
         run: npm run add-player -- "${{ steps.operation.outputs.fids }}"
 
       - name: Add players (bulk)
         if: steps.operation.outputs.type == 'bulk'
+        env:
+          MIGHTPULSE_API_KEY: ${{ secrets.MIGHTPULSE_API_KEY }}
         run: npm run add-players -- "${{ steps.operation.outputs.fids }}"
 
       - name: Commit updated players data

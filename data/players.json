@@ -21,11 +21,11 @@
     "ign": "~Naranjita~",
     "originalIGN": "~Naranjita~",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:05:44.385Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-04T11:42:51.862Z",
+    "townCenterLevel": 36,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:21.389Z",
-    "updatedAt": "2026-10-02T21:05:44.385Z",
+    "updatedAt": "2026-10-04T11:42:51.866Z",
     "history": [
       {
         "updatedAt": "2026-07-09T07:13:21.920Z",
@@ -168,11 +168,11 @@
     "ign": "Matrix",
     "originalIGN": "Matrix",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:05:53.088Z",
-    "townCenterLevel": 34,
+    "lastChecked": "2026-10-04T11:43:00.052Z",
+    "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:09.775Z",
-    "updatedAt": "2026-10-02T21:05:53.088Z",
+    "updatedAt": "2026-10-04T11:43:00.054Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:36:13.626Z",
@@ -354,15 +354,19 @@
   },
   "291087355": {
     "fid": "291087355",
-    "ign": "",
+    "ign": "『 C G 』",
     "originalIGN": "",
     "status": "tracking",
-    "lastChecked": null,
-    "townCenterLevel": null,
-    "state": null,
+    "lastChecked": "2026-10-04T11:43:08.237Z",
+    "townCenterLevel": 55,
+    "state": 1892,
     "createdAt": "2026-10-03T17:40:01.424Z",
-    "updatedAt": "2026-10-03T17:40:01.424Z",
+    "updatedAt": "2026-10-04T11:43:08.240Z",
     "history": [
+      {
+        "updatedAt": "2026-10-04T11:43:08.240Z",
+        "ign": "『 C G 』"
+      },
       {
         "updatedAt": "2026-10-03T17:40:01.424Z",
         "ign": ""
@@ -562,11 +566,11 @@
     "ign": "ARMORTECH",
     "originalIGN": "OtenDakoBiko",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:14.456Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-10-04T11:43:16.021Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.324Z",
-    "updatedAt": "2026-10-02T21:06:14.456Z",
+    "updatedAt": "2026-10-04T11:43:16.023Z",
     "history": [
       {
         "updatedAt": "2026-07-19T15:34:27.068Z",
@@ -641,11 +645,11 @@
     "ign": "LOST COCONUT",
     "originalIGN": "BLACK PANTHER",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:18.170Z",
-    "townCenterLevel": 42,
+    "lastChecked": "2026-10-04T11:43:17.865Z",
+    "townCenterLevel": 43,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.421Z",
-    "updatedAt": "2026-10-02T21:06:18.170Z",
+    "updatedAt": "2026-10-04T11:43:17.867Z",
     "history": [
       {
         "updatedAt": "2026-10-02T21:06:18.170Z",
@@ -687,11 +691,11 @@
     "ign": "Joos",
     "originalIGN": "Joos",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:20.768Z",
-    "townCenterLevel": 32,
+    "lastChecked": "2026-10-04T11:43:22.375Z",
+    "townCenterLevel": 33,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:23.821Z",
-    "updatedAt": "2026-10-02T21:06:20.768Z",
+    "updatedAt": "2026-10-04T11:43:22.376Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:24.284Z",
@@ -922,11 +926,11 @@
     "ign": "duc de la Boétie",
     "originalIGN": "duc de la Boétie",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:34.516Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-04T11:43:31.625Z",
+    "townCenterLevel": 37,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.904Z",
-    "updatedAt": "2026-10-02T21:06:34.516Z",
+    "updatedAt": "2026-10-04T11:43:31.627Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:15.367Z",
@@ -1173,15 +1177,19 @@
   },
   "293348137": {
     "fid": "293348137",
-    "ign": "Marlin",
+    "ign": "Larry The Moose",
     "originalIGN": "Larry The Moose",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:47.301Z",
+    "lastChecked": "2026-10-04T11:43:38.049Z",
     "townCenterLevel": 43,
     "state": 1944,
     "createdAt": "2026-07-10T14:35:24.287Z",
-    "updatedAt": "2026-10-02T21:06:47.301Z",
+    "updatedAt": "2026-10-04T11:43:38.051Z",
     "history": [
+      {
+        "updatedAt": "2026-10-04T11:43:38.051Z",
+        "ign": "Larry The Moose"
+      },
       {
         "updatedAt": "2026-10-02T21:06:47.301Z",
         "ign": "Marlin"
