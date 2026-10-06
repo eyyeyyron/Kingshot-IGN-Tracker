@@ -1403,6 +1403,23 @@
       }
     ]
   },
+  "293266090": {
+    "fid": "293266090",
+    "ign": "Keepyousohigh",
+    "originalIGN": "Keepyousohigh",
+    "status": "tracking",
+    "lastChecked": "2026-10-06T13:00:34.007Z",
+    "townCenterLevel": 55,
+    "state": 1892,
+    "createdAt": "2026-10-06T13:00:32.160Z",
+    "updatedAt": "2026-10-06T13:00:34.009Z",
+    "history": [
+      {
+        "updatedAt": "2026-10-06T13:00:34.007Z",
+        "ign": "Keepyousohigh"
+      }
+    ]
+  },
   "293299400": {
     "fid": "293299400",
     "ign": "knut",
