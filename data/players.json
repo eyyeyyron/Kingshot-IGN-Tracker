@@ -35,15 +35,19 @@
   },
   "289759789": {
     "fid": "289759789",
-    "ign": "Mikeyyy",
+    "ign": "Mikeyyy Stark",
     "originalIGN": "Grekkey",
     "status": "tracking",
-    "lastChecked": "2026-10-05T11:22:06.072Z",
+    "lastChecked": "2026-10-06T05:24:10.230Z",
     "townCenterLevel": 46,
     "state": 1892,
     "createdAt": "2026-07-09T19:33:29.172Z",
-    "updatedAt": "2026-10-05T11:22:06.072Z",
+    "updatedAt": "2026-10-06T05:24:10.231Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:10.231Z",
+        "ign": "Mikeyyy Stark"
+      },
       {
         "updatedAt": "2026-10-02T21:05:45.628Z",
         "ign": "Mikeyyy"
@@ -143,11 +147,11 @@
     "ign": "Nagharoth",
     "originalIGN": "Nagharoth#",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:05:51.853Z",
-    "townCenterLevel": 50,
+    "lastChecked": "2026-10-06T05:24:13.337Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:19.605Z",
-    "updatedAt": "2026-10-02T21:05:51.853Z",
+    "updatedAt": "2026-10-06T05:24:13.338Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:07.233Z",
@@ -252,11 +256,11 @@
     "ign": "Bibibop",
     "originalIGN": "BiBiBop",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:05:58.079Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-10-06T05:24:16.862Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.854Z",
-    "updatedAt": "2026-10-02T21:05:58.079Z",
+    "updatedAt": "2026-10-06T05:24:16.862Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:09.595Z",
@@ -274,15 +278,19 @@
   },
   "290841090": {
     "fid": "290841090",
-    "ign": "Kira",
+    "ign": "Sansa Stark",
     "originalIGN": "Kira",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:05:59.364Z",
-    "townCenterLevel": 49,
+    "lastChecked": "2026-10-06T05:24:18.222Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.349Z",
-    "updatedAt": "2026-10-02T21:05:59.364Z",
+    "updatedAt": "2026-10-06T05:24:18.223Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:18.223Z",
+        "ign": "Sansa Stark"
+      },
       {
         "updatedAt": "2026-07-09T07:13:20.873Z",
         "ign": "Kira"
@@ -291,15 +299,19 @@
   },
   "290874773": {
     "fid": "290874773",
-    "ign": "Lotso",
+    "ign": "Samwellotso",
     "originalIGN": "Lotso",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:00.581Z",
+    "lastChecked": "2026-10-06T05:24:18.549Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T10:44:05.621Z",
-    "updatedAt": "2026-10-02T21:06:00.581Z",
+    "updatedAt": "2026-10-06T05:24:18.550Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:18.550Z",
+        "ign": "Samwellotso"
+      },
       {
         "updatedAt": "2026-07-08T10:44:08.294Z",
         "ign": "Lotso"
@@ -308,15 +320,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Elezard",
+    "ign": "༒Drogon༒",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-10-05T11:22:14.261Z",
+    "lastChecked": "2026-10-06T05:24:18.885Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-10-05T11:22:14.261Z",
+    "updatedAt": "2026-10-06T05:24:18.885Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:18.885Z",
+        "ign": "༒Drogon༒"
+      },
       {
         "updatedAt": "2026-07-19T07:51:10.997Z",
         "ign": "Elezard"
@@ -354,15 +370,19 @@
   },
   "291087355": {
     "fid": "291087355",
-    "ign": "『 C G 』",
+    "ign": "『 C Gendry 』",
     "originalIGN": "",
     "status": "tracking",
-    "lastChecked": "2026-10-04T11:43:08.237Z",
+    "lastChecked": "2026-10-06T05:24:21.815Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-03T17:40:01.424Z",
-    "updatedAt": "2026-10-04T11:43:08.240Z",
+    "updatedAt": "2026-10-06T05:24:21.815Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:21.815Z",
+        "ign": "『 C Gendry 』"
+      },
       {
         "updatedAt": "2026-10-04T11:43:08.240Z",
         "ign": "『 C G 』"
@@ -592,15 +612,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐",
+    "ign": "༄ᶦᵅᶬ᭄Daemon࿐",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-10-05T11:22:22.168Z",
+    "lastChecked": "2026-10-06T05:24:33.050Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-10-05T11:22:22.169Z",
+    "updatedAt": "2026-10-06T05:24:33.051Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:33.051Z",
+        "ign": "༄ᶦᵅᶬ᭄Daemon࿐"
+      },
       {
         "updatedAt": "2026-10-02T21:06:15.683Z",
         "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐"
@@ -646,15 +670,19 @@
   },
   "291857072": {
     "fid": "291857072",
-    "ign": "LOST COCONUT",
+    "ign": "Khal Drogo",
     "originalIGN": "BLACK PANTHER",
     "status": "tracking",
-    "lastChecked": "2026-10-05T11:22:24.404Z",
-    "townCenterLevel": 44,
+    "lastChecked": "2026-10-06T05:24:35.547Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.421Z",
-    "updatedAt": "2026-10-05T11:22:24.404Z",
+    "updatedAt": "2026-10-06T05:24:35.547Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:35.547Z",
+        "ign": "Khal Drogo"
+      },
       {
         "updatedAt": "2026-10-02T21:06:18.170Z",
         "ign": "LOST COCONUT"
@@ -969,15 +997,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "༄ᶦᵅᶬ᭄BestQueen࿐",
+    "ign": "༄ᶦᵅᶬ᭄Daenerys࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:37.067Z",
+    "lastChecked": "2026-10-06T05:24:47.177Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-10-02T21:06:37.067Z",
+    "updatedAt": "2026-10-06T05:24:47.178Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:47.178Z",
+        "ign": "༄ᶦᵅᶬ᭄Daenerys࿐"
+      },
       {
         "updatedAt": "2026-10-02T21:06:37.067Z",
         "ign": "༄ᶦᵅᶬ᭄BestQueen࿐"
@@ -1090,13 +1122,17 @@
   },
   "293249627": {
     "fid": "293249627",
-    "ign": "ɗɗɗоѓа",
+    "ign": "Arya Stark",
     "originalIGN": "ɗɗɗоѓа",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:43.376Z",
+    "lastChecked": "2026-10-06T05:24:51.556Z",
     "createdAt": "2026-07-08T07:34:37.348Z",
-    "updatedAt": "2026-10-02T21:06:43.376Z",
+    "updatedAt": "2026-10-06T05:24:51.557Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:51.557Z",
+        "ign": "Arya Stark"
+      },
       {
         "updatedAt": "2026-07-19T07:51:42.892Z",
         "ign": "ɗɗɗоѓа"
@@ -1126,7 +1162,7 @@
         "ign": "ɗɗɗоѓа"
       }
     ],
-    "townCenterLevel": 50,
+    "townCenterLevel": 55,
     "state": 1892
   },
   "293299400": {
@@ -1184,11 +1220,11 @@
     "ign": "Larry The Moose",
     "originalIGN": "Larry The Moose",
     "status": "tracking",
-    "lastChecked": "2026-10-04T11:43:38.049Z",
-    "townCenterLevel": 43,
+    "lastChecked": "2026-10-06T05:24:55.658Z",
+    "townCenterLevel": 45,
     "state": 1944,
     "createdAt": "2026-07-10T14:35:24.287Z",
-    "updatedAt": "2026-10-04T11:43:38.051Z",
+    "updatedAt": "2026-10-06T05:24:55.659Z",
     "history": [
       {
         "updatedAt": "2026-10-04T11:43:38.051Z",
@@ -1244,15 +1280,19 @@
   },
   "293577999": {
     "fid": "293577999",
-    "ign": "NFFC",
+    "ign": "Robb",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:51.078Z",
+    "lastChecked": "2026-10-06T05:24:59.458Z",
     "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-10-02T21:06:51.078Z",
+    "updatedAt": "2026-10-06T05:24:59.459Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T05:24:59.459Z",
+        "ign": "Robb"
+      },
       {
         "updatedAt": "2026-07-19T07:51:45.711Z",
         "ign": "NFFC"
