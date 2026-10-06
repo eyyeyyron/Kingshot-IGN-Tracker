@@ -1590,5 +1590,22 @@
         "ign": "LotsoJunior"
       }
     ]
+  },
+  "359584596": {
+    "fid": "359584596",
+    "ign": "EvilCookie",
+    "originalIGN": "EvilCookie",
+    "status": "tracking",
+    "lastChecked": "2026-10-06T12:54:03.219Z",
+    "townCenterLevel": 27,
+    "state": 1892,
+    "createdAt": "2026-10-06T12:54:02.216Z",
+    "updatedAt": "2026-10-06T12:54:03.221Z",
+    "history": [
+      {
+        "updatedAt": "2026-10-06T12:54:03.219Z",
+        "ign": "EvilCookie"
+      }
+    ]
   }
 }
