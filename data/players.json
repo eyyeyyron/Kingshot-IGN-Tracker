@@ -195,15 +195,19 @@
   },
   "290530105": {
     "fid": "290530105",
-    "ign": "Nagharoth",
+    "ign": "Hodor",
     "originalIGN": "Nagharoth#",
     "status": "tracking",
-    "lastChecked": "2026-10-06T05:24:13.337Z",
+    "lastChecked": "2026-10-06T18:03:46.965Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:19.605Z",
-    "updatedAt": "2026-10-06T05:24:13.338Z",
+    "updatedAt": "2026-10-06T18:03:46.966Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T18:03:46.966Z",
+        "ign": "Hodor"
+      },
       {
         "updatedAt": "2026-07-19T07:51:07.233Z",
         "ign": "Nagharoth"
@@ -535,13 +539,17 @@
   },
   "291431438": {
     "fid": "291431438",
-    "ign": "Eyy",
+    "ign": "RhEyygar",
     "originalIGN": "Eyy",
     "status": "tracking",
-    "lastChecked": "2026-10-05T11:22:17.688Z",
+    "lastChecked": "2026-10-06T18:04:07.171Z",
     "createdAt": "2026-07-08T07:34:12.229Z",
-    "updatedAt": "2026-10-05T11:22:17.688Z",
+    "updatedAt": "2026-10-06T18:04:07.172Z",
     "history": [
+      {
+        "updatedAt": "2026-10-06T18:04:07.172Z",
+        "ign": "RhEyygar"
+      },
       {
         "updatedAt": "2026-07-20T10:33:00.326Z",
         "ign": "Eyy"
@@ -897,11 +905,11 @@
     "ign": "kk333kaushik",
     "originalIGN": "kk333kaushik",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:24.168Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-06T18:04:16.264Z",
+    "townCenterLevel": 37,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.701Z",
-    "updatedAt": "2026-10-06T10:11:24.169Z",
+    "updatedAt": "2026-10-06T18:04:16.265Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:24.168Z",
