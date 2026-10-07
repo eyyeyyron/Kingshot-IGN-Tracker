@@ -158,7 +158,7 @@
   "290249223": {
     "fid": "290249223",
     "ign": "Sera°Melisandre",
-    "originalIGN": "Sera°Melisandre",
+    "originalIGN": "Seraphina",
     "status": "tracking",
     "lastChecked": "2026-10-06T10:11:21.097Z",
     "townCenterLevel": 55,
@@ -477,7 +477,7 @@
   "291087355": {
     "fid": "291087355",
     "ign": "『 C Gendry 』",
-    "originalIGN": "",
+    "originalIGN": "CG",
     "status": "tracking",
     "lastChecked": "2026-10-06T05:24:21.815Z",
     "townCenterLevel": 55,
@@ -838,27 +838,6 @@
       {
         "updatedAt": "2026-10-06T10:11:25.359Z",
         "ign": "Aegon"
-      }
-    ]
-  },
-  "291987986": {
-    "fid": "291987986",
-    "ign": "God of space",
-    "originalIGN": "God of space",
-    "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:19.452Z",
-    "townCenterLevel": 27,
-    "state": 1892,
-    "createdAt": "2026-07-10T14:35:31.182Z",
-    "updatedAt": "2026-10-02T21:06:19.452Z",
-    "history": [
-      {
-        "updatedAt": "2026-07-10T15:06:03.572Z",
-        "ign": "God of space"
-      },
-      {
-        "updatedAt": "2026-07-10T14:35:31.182Z",
-        "ign": ""
       }
     ]
   },
@@ -1414,7 +1393,7 @@
   "293266090": {
     "fid": "293266090",
     "ign": "Keepyousohigh",
-    "originalIGN": "Keepyousohigh",
+    "originalIGN": "JOK3R",
     "status": "tracking",
     "lastChecked": "2026-10-06T13:00:34.007Z",
     "townCenterLevel": 55,
@@ -1475,31 +1454,6 @@
       {
         "updatedAt": "2026-07-09T07:13:20.346Z",
         "ign": "拉斐爾"
-      }
-    ]
-  },
-  "293348137": {
-    "fid": "293348137",
-    "ign": "Larry The Moose",
-    "originalIGN": "Larry The Moose",
-    "status": "tracking",
-    "lastChecked": "2026-10-06T05:24:55.658Z",
-    "townCenterLevel": 45,
-    "state": 1944,
-    "createdAt": "2026-07-10T14:35:24.287Z",
-    "updatedAt": "2026-10-06T05:24:55.659Z",
-    "history": [
-      {
-        "updatedAt": "2026-10-04T11:43:38.051Z",
-        "ign": "Larry The Moose"
-      },
-      {
-        "updatedAt": "2026-10-02T21:06:47.301Z",
-        "ign": "Marlin"
-      },
-      {
-        "updatedAt": "2026-07-10T14:35:24.753Z",
-        "ign": "Larry The Moose"
       }
     ]
   },
