@@ -224,15 +224,19 @@
   },
   "290560644": {
     "fid": "290560644",
-    "ign": "《B》",
+    "ign": "《WildlngPrincss》",
     "originalIGN": "《B》",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:24.583Z",
+    "lastChecked": "2026-10-07T18:36:07.690Z",
     "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.179Z",
-    "updatedAt": "2026-10-06T10:11:24.584Z",
+    "updatedAt": "2026-10-07T18:36:07.691Z",
     "history": [
+      {
+        "updatedAt": "2026-10-07T18:36:07.691Z",
+        "ign": "《WildlngPrincss》"
+      },
       {
         "updatedAt": "2026-10-06T10:11:24.583Z",
         "ign": "《B》"
@@ -244,11 +248,11 @@
     "ign": "Matrix",
     "originalIGN": "Matrix",
     "status": "tracking",
-    "lastChecked": "2026-10-04T11:43:00.052Z",
-    "townCenterLevel": 35,
+    "lastChecked": "2026-10-07T18:36:08.153Z",
+    "townCenterLevel": 36,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:09.775Z",
-    "updatedAt": "2026-10-04T11:43:00.054Z",
+    "updatedAt": "2026-10-07T18:36:08.154Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:36:13.626Z",
@@ -359,15 +363,19 @@
   },
   "290824741": {
     "fid": "290824741",
-    "ign": "Bibibop",
+    "ign": "Bibi of Tarth",
     "originalIGN": "BiBiBop",
     "status": "tracking",
-    "lastChecked": "2026-10-06T05:24:16.862Z",
+    "lastChecked": "2026-10-07T18:36:10.379Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.854Z",
-    "updatedAt": "2026-10-06T05:24:16.862Z",
+    "updatedAt": "2026-10-07T18:36:10.380Z",
     "history": [
+      {
+        "updatedAt": "2026-10-07T18:36:10.380Z",
+        "ign": "Bibi of Tarth"
+      },
       {
         "updatedAt": "2026-07-19T07:51:09.595Z",
         "ign": "Bibibop"
@@ -1007,15 +1015,19 @@
   },
   "292446979": {
     "fid": "292446979",
-    "ign": "_Vivi_",
+    "ign": "༒Ghost༒",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-10-05T11:22:31.208Z",
+    "lastChecked": "2026-10-07T18:36:22.332Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-10-05T11:22:31.208Z",
+    "updatedAt": "2026-10-07T18:36:22.332Z",
     "history": [
+      {
+        "updatedAt": "2026-10-07T18:36:22.332Z",
+        "ign": "༒Ghost༒"
+      },
       {
         "updatedAt": "2026-07-19T07:51:37.745Z",
         "ign": "_Vivi_"
@@ -1166,11 +1178,11 @@
     "ign": "duc de la Boétie",
     "originalIGN": "duc de la Boétie",
     "status": "tracking",
-    "lastChecked": "2026-10-04T11:43:31.625Z",
-    "townCenterLevel": 37,
+    "lastChecked": "2026-10-07T18:36:25.165Z",
+    "townCenterLevel": 38,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.904Z",
-    "updatedAt": "2026-10-04T11:43:31.627Z",
+    "updatedAt": "2026-10-07T18:36:25.166Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:15.367Z",
@@ -1283,11 +1295,11 @@
     "ign": "￴ ￴ ￴ ￴",
     "originalIGN": "Mr Blank",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:40.861Z",
-    "townCenterLevel": 44,
+    "lastChecked": "2026-10-07T18:36:27.027Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.004Z",
-    "updatedAt": "2026-10-02T21:06:40.861Z",
+    "updatedAt": "2026-10-07T18:36:27.027Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:41.959Z",
