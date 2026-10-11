@@ -287,15 +287,19 @@
   },
   "290642434": {
     "fid": "290642434",
-    "ign": "Shaggydog",
+    "ign": "Inu",
     "originalIGN": "Shaggydog",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:20.700Z",
+    "lastChecked": "2026-10-11T04:09:05.323Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.324Z",
-    "updatedAt": "2026-10-06T10:11:20.700Z",
+    "updatedAt": "2026-10-11T04:09:05.323Z",
     "history": [
+      {
+        "updatedAt": "2026-10-11T04:09:05.323Z",
+        "ign": "Inu"
+      },
       {
         "updatedAt": "2026-10-06T10:11:20.700Z",
         "ign": "Shaggydog"
