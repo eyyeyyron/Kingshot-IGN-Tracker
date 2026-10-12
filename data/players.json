@@ -161,15 +161,19 @@
   },
   "290249223": {
     "fid": "290249223",
-    "ign": "Sera°Melisandre",
+    "ign": "Seraphina",
     "originalIGN": "Seraphina",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:21.097Z",
+    "lastChecked": "2026-10-12T21:01:49.710Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.703Z",
-    "updatedAt": "2026-10-06T10:11:21.097Z",
+    "updatedAt": "2026-10-12T21:01:49.710Z",
     "history": [
+      {
+        "updatedAt": "2026-10-12T21:01:49.710Z",
+        "ign": "Seraphina"
+      },
       {
         "updatedAt": "2026-10-06T10:11:21.097Z",
         "ign": "Sera°Melisandre"
@@ -761,11 +765,11 @@
     "ign": "ARMORTECH",
     "originalIGN": "OtenDakoBiko",
     "status": "tracking",
-    "lastChecked": "2026-10-04T11:43:16.021Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-10-12T21:01:59.296Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.324Z",
-    "updatedAt": "2026-10-04T11:43:16.023Z",
+    "updatedAt": "2026-10-12T21:01:59.296Z",
     "history": [
       {
         "updatedAt": "2026-07-19T15:34:27.068Z",
@@ -944,11 +948,11 @@
     "ign": "kk333kaushik",
     "originalIGN": "kk333kaushik",
     "status": "tracking",
-    "lastChecked": "2026-10-09T18:06:38.180Z",
-    "townCenterLevel": 38,
+    "lastChecked": "2026-10-12T21:02:01.898Z",
+    "townCenterLevel": 39,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.701Z",
-    "updatedAt": "2026-10-09T18:06:38.181Z",
+    "updatedAt": "2026-10-12T21:02:01.899Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:24.168Z",
@@ -1234,11 +1238,11 @@
     "ign": "duc de la Boétie",
     "originalIGN": "duc de la Boétie",
     "status": "tracking",
-    "lastChecked": "2026-10-09T18:06:47.634Z",
-    "townCenterLevel": 39,
+    "lastChecked": "2026-10-12T21:02:07.406Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.904Z",
-    "updatedAt": "2026-10-09T18:06:47.635Z",
+    "updatedAt": "2026-10-12T21:02:07.406Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:15.367Z",
