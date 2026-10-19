@@ -52,15 +52,19 @@
   },
   "289727456": {
     "fid": "289727456",
-    "ign": "~Naranjita~",
+    "ign": "~Yuuki Cross~",
     "originalIGN": "~Naranjita~",
     "status": "tracking",
-    "lastChecked": "2026-10-04T11:42:51.862Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-10-19T03:43:57.107Z",
+    "townCenterLevel": 37,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:21.389Z",
-    "updatedAt": "2026-10-04T11:42:51.866Z",
+    "updatedAt": "2026-10-19T03:43:57.108Z",
     "history": [
+      {
+        "updatedAt": "2026-10-19T03:43:57.108Z",
+        "ign": "~Yuuki Cross~"
+      },
       {
         "updatedAt": "2026-07-09T07:13:21.920Z",
         "ign": "~Naranjita~"
