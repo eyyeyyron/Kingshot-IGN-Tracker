@@ -519,15 +519,19 @@
   },
   "291037901": {
     "fid": "291037901",
-    "ign": "KING F4LCON",
+    "ign": "2737746637",
     "originalIGN": "chicken friend",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:03.066Z",
+    "lastChecked": "2026-10-21T03:46:07.199Z",
     "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:17.256Z",
-    "updatedAt": "2026-10-02T21:06:03.066Z",
+    "updatedAt": "2026-10-21T03:46:07.200Z",
     "history": [
+      {
+        "updatedAt": "2026-10-21T03:46:07.200Z",
+        "ign": "2737746637"
+      },
       {
         "updatedAt": "2026-07-14T07:24:28.711Z",
         "ign": "KING F4LCON"
@@ -1190,11 +1194,11 @@
     "ign": "Born manic",
     "originalIGN": "Born manic",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:20.244Z",
-    "townCenterLevel": 50,
+    "lastChecked": "2026-10-21T03:47:07.124Z",
+    "townCenterLevel": 51,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:19.795Z",
-    "updatedAt": "2026-10-06T10:11:20.244Z",
+    "updatedAt": "2026-10-21T03:47:07.124Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:20.244Z",
