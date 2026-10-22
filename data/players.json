@@ -486,15 +486,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Elezard",
+    "ign": "༒Billy༒",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-10-12T04:53:53.023Z",
+    "lastChecked": "2026-10-22T03:45:01.859Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-10-12T04:53:53.024Z",
+    "updatedAt": "2026-10-22T03:45:01.860Z",
     "history": [
+      {
+        "updatedAt": "2026-10-22T03:45:01.860Z",
+        "ign": "༒Billy༒"
+      },
       {
         "updatedAt": "2026-10-12T04:53:53.024Z",
         "ign": "Elezard"
@@ -1099,15 +1103,19 @@
   },
   "292446979": {
     "fid": "292446979",
-    "ign": "_Vivi_",
+    "ign": "KUROMI",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-10-12T04:54:18.330Z",
+    "lastChecked": "2026-10-22T03:45:42.942Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-10-12T04:54:18.331Z",
+    "updatedAt": "2026-10-22T03:45:42.943Z",
     "history": [
+      {
+        "updatedAt": "2026-10-22T03:45:42.943Z",
+        "ign": "KUROMI"
+      },
       {
         "updatedAt": "2026-10-12T04:54:18.331Z",
         "ign": "_Vivi_"
