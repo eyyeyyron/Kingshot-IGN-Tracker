@@ -240,15 +240,19 @@
   },
   "290560644": {
     "fid": "290560644",
-    "ign": "《B》",
+    "ign": "ANNA《B》ELLE",
     "originalIGN": "《B》",
     "status": "tracking",
-    "lastChecked": "2026-10-20T16:34:13.752Z",
+    "lastChecked": "2026-10-23T03:49:12.976Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.179Z",
-    "updatedAt": "2026-10-20T16:34:13.753Z",
+    "updatedAt": "2026-10-23T03:49:12.977Z",
     "history": [
+      {
+        "updatedAt": "2026-10-23T03:49:12.977Z",
+        "ign": "ANNA《B》ELLE"
+      },
       {
         "updatedAt": "2026-10-14T16:45:34.140Z",
         "ign": "《B》"
@@ -860,15 +864,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "Nami",
+    "ign": "Bloody Nami",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-10-12T04:54:07.487Z",
+    "lastChecked": "2026-10-23T03:49:56.209Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-10-12T04:54:07.487Z",
+    "updatedAt": "2026-10-23T03:49:56.210Z",
     "history": [
+      {
+        "updatedAt": "2026-10-23T03:49:56.210Z",
+        "ign": "Bloody Nami"
+      },
       {
         "updatedAt": "2026-10-12T04:54:07.487Z",
         "ign": "Nami"
@@ -1202,11 +1210,11 @@
     "ign": "Born manic",
     "originalIGN": "Born manic",
     "status": "tracking",
-    "lastChecked": "2026-10-21T03:47:07.124Z",
-    "townCenterLevel": 51,
+    "lastChecked": "2026-10-23T03:50:45.126Z",
+    "townCenterLevel": 53,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:19.795Z",
-    "updatedAt": "2026-10-21T03:47:07.124Z",
+    "updatedAt": "2026-10-23T03:50:45.127Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:20.244Z",
@@ -1494,11 +1502,11 @@
     "ign": "JCGrange",
     "originalIGN": "JCGrange",
     "status": "tracking",
-    "lastChecked": "2026-10-17T03:29:12.644Z",
-    "townCenterLevel": 43,
+    "lastChecked": "2026-10-23T03:51:24.749Z",
+    "townCenterLevel": 44,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.590Z",
-    "updatedAt": "2026-10-17T03:29:12.645Z",
+    "updatedAt": "2026-10-23T03:51:24.750Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:24.946Z",
@@ -1678,11 +1686,11 @@
     "ign": "Kizea",
     "originalIGN": "Kizea",
     "status": "tracking",
-    "lastChecked": "2026-10-20T03:57:36.446Z",
-    "townCenterLevel": 39,
+    "lastChecked": "2026-10-23T03:51:45.405Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:18.187Z",
-    "updatedAt": "2026-10-20T03:57:36.447Z",
+    "updatedAt": "2026-10-23T03:51:45.406Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:18.651Z",
