@@ -968,15 +968,19 @@
   },
   "292086294": {
     "fid": "292086294",
-    "ign": "LuckyLex",
+    "ign": "SpookyLex",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": "2026-10-14T03:59:16.481Z",
+    "lastChecked": "2026-10-24T15:34:22.025Z",
     "townCenterLevel": 35,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-10-14T03:59:16.481Z",
+    "updatedAt": "2026-10-24T15:34:22.027Z",
     "history": [
+      {
+        "updatedAt": "2026-10-24T15:34:22.027Z",
+        "ign": "SpookyLex"
+      },
       {
         "updatedAt": "2026-07-11T16:25:03.947Z",
         "ign": "LuckyLex"
