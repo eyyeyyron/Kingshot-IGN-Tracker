@@ -55,11 +55,11 @@
     "ign": "~Yuuki Cross~",
     "originalIGN": "~Naranjita~",
     "status": "tracking",
-    "lastChecked": "2026-10-19T03:43:57.107Z",
-    "townCenterLevel": 37,
+    "lastChecked": "2026-10-24T03:43:36.986Z",
+    "townCenterLevel": 38,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:21.389Z",
-    "updatedAt": "2026-10-19T03:43:57.108Z",
+    "updatedAt": "2026-10-24T03:43:36.986Z",
     "history": [
       {
         "updatedAt": "2026-10-19T03:43:57.108Z",
@@ -276,11 +276,11 @@
     "ign": "Matrix",
     "originalIGN": "Matrix",
     "status": "tracking",
-    "lastChecked": "2026-10-18T15:32:45.258Z",
-    "townCenterLevel": 38,
+    "lastChecked": "2026-10-24T03:43:53.214Z",
+    "townCenterLevel": 39,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:09.775Z",
-    "updatedAt": "2026-10-18T15:32:45.259Z",
+    "updatedAt": "2026-10-24T03:43:53.215Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:36:13.626Z",
@@ -823,15 +823,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༄ᶦᵅᶬ᭄fιѕhкαmαru࿐",
+    "ign": "༄ᶦᵅᶬ᭄JasoNamaru࿐",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-10-17T03:27:58.475Z",
+    "lastChecked": "2026-10-24T03:44:32.951Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-10-17T03:27:58.476Z",
+    "updatedAt": "2026-10-24T03:44:32.952Z",
     "history": [
+      {
+        "updatedAt": "2026-10-24T03:44:32.952Z",
+        "ign": "༄ᶦᵅᶬ᭄JasoNamaru࿐"
+      },
       {
         "updatedAt": "2026-10-17T03:27:58.476Z",
         "ign": "༄ᶦᵅᶬ᭄fιѕhкαmαru࿐"
@@ -1245,15 +1249,19 @@
   },
   "292740151": {
     "fid": "292740151",
-    "ign": "Toaster",
+    "ign": "Creepy Toaster",
     "originalIGN": "Toaster",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:23.333Z",
+    "lastChecked": "2026-10-24T03:45:07.993Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:22.990Z",
-    "updatedAt": "2026-10-06T10:11:23.334Z",
+    "updatedAt": "2026-10-24T03:45:07.994Z",
     "history": [
+      {
+        "updatedAt": "2026-10-24T03:45:07.994Z",
+        "ign": "Creepy Toaster"
+      },
       {
         "updatedAt": "2026-10-06T10:11:23.333Z",
         "ign": "Toaster"
@@ -1324,11 +1332,11 @@
     "ign": "༄ᶦᵅᶬ᭄BestQueen࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-10-17T15:11:19.867Z",
-    "townCenterLevel": 49,
+    "lastChecked": "2026-10-24T03:45:17.112Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-10-17T15:11:19.867Z",
+    "updatedAt": "2026-10-24T03:45:17.113Z",
     "history": [
       {
         "updatedAt": "2026-10-12T04:54:26.753Z",
@@ -1628,11 +1636,11 @@
     "ign": "NFFC",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-10-19T18:29:31.424Z",
-    "townCenterLevel": 42,
+    "lastChecked": "2026-10-24T03:45:51.438Z",
+    "townCenterLevel": 43,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-10-19T18:29:31.424Z",
+    "updatedAt": "2026-10-24T03:45:51.439Z",
     "history": [
       {
         "updatedAt": "2026-10-12T04:54:45.147Z",
