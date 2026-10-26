@@ -240,15 +240,19 @@
   },
   "290560644": {
     "fid": "290560644",
-    "ign": "ANNA《B》ELLE",
+    "ign": "《B》",
     "originalIGN": "《B》",
     "status": "tracking",
-    "lastChecked": "2026-10-23T03:49:12.976Z",
+    "lastChecked": "2026-10-26T18:24:29.548Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.179Z",
-    "updatedAt": "2026-10-23T03:49:12.977Z",
+    "updatedAt": "2026-10-26T18:24:29.549Z",
     "history": [
+      {
+        "updatedAt": "2026-10-26T18:24:29.549Z",
+        "ign": "《B》"
+      },
       {
         "updatedAt": "2026-10-23T03:49:12.977Z",
         "ign": "ANNA《B》ELLE"
@@ -1297,11 +1301,11 @@
     "ign": "Sunny Climate",
     "originalIGN": "Sunny Climate",
     "status": "tracking",
-    "lastChecked": "2026-10-14T03:59:33.651Z",
-    "townCenterLevel": 45,
+    "lastChecked": "2026-10-26T18:25:19.143Z",
+    "townCenterLevel": 47,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.336Z",
-    "updatedAt": "2026-10-14T03:59:33.652Z",
+    "updatedAt": "2026-10-26T18:25:19.144Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:23.682Z",
