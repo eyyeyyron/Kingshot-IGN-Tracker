@@ -498,15 +498,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Elezard",
+    "ign": "SparkyEle",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-10-25T03:46:07.192Z",
+    "lastChecked": "2026-10-27T04:12:42.760Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-10-25T03:46:07.193Z",
+    "updatedAt": "2026-10-27T04:12:42.761Z",
     "history": [
+      {
+        "updatedAt": "2026-10-27T04:12:42.761Z",
+        "ign": "SparkyEle"
+      },
       {
         "updatedAt": "2026-10-25T03:46:07.193Z",
         "ign": "Elezard"
@@ -884,15 +888,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "Cindy",
+    "ign": "Zeronami",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-10-25T03:50:38.142Z",
+    "lastChecked": "2026-10-27T04:15:53.748Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-10-25T03:50:38.142Z",
+    "updatedAt": "2026-10-27T04:15:53.749Z",
     "history": [
+      {
+        "updatedAt": "2026-10-27T04:15:53.749Z",
+        "ign": "Zeronami"
+      },
       {
         "updatedAt": "2026-10-25T03:50:38.142Z",
         "ign": "Cindy"
