@@ -1560,15 +1560,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "J0k3R",
+    "ign": "༄the VILLAIN࿐",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-10-09T18:07:03.878Z",
+    "lastChecked": "2026-10-28T18:40:23.769Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-10-09T18:07:03.879Z",
+    "updatedAt": "2026-10-28T18:40:23.770Z",
     "history": [
+      {
+        "updatedAt": "2026-10-28T18:40:23.770Z",
+        "ign": "༄the VILLAIN࿐"
+      },
       {
         "updatedAt": "2026-10-09T18:07:03.879Z",
         "ign": "J0k3R"
