@@ -319,15 +319,19 @@
   },
   "290642434": {
     "fid": "290642434",
-    "ign": "Inu",
+    "ign": "WayneWereWolf",
     "originalIGN": "Shaggydog",
     "status": "tracking",
-    "lastChecked": "2026-10-11T04:09:05.323Z",
+    "lastChecked": "2026-10-29T18:17:47.962Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.324Z",
-    "updatedAt": "2026-10-11T04:09:05.323Z",
+    "updatedAt": "2026-10-29T18:17:47.963Z",
     "history": [
+      {
+        "updatedAt": "2026-10-29T18:17:47.963Z",
+        "ign": "WayneWereWolf"
+      },
       {
         "updatedAt": "2026-10-11T04:09:05.323Z",
         "ign": "Inu"
@@ -1309,11 +1313,11 @@
     "ign": "Sunny Climate",
     "originalIGN": "Sunny Climate",
     "status": "tracking",
-    "lastChecked": "2026-10-26T18:25:19.143Z",
-    "townCenterLevel": 47,
+    "lastChecked": "2026-10-29T18:28:51.122Z",
+    "townCenterLevel": 48,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.336Z",
-    "updatedAt": "2026-10-26T18:25:19.144Z",
+    "updatedAt": "2026-10-29T18:28:51.123Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:23.682Z",
@@ -1365,15 +1369,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "༄ᶦᵅᶬ᭄BestQueen࿐",
+    "ign": "༄ᶦᵅᶬ᭄ÇA࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-10-24T03:45:17.112Z",
+    "lastChecked": "2026-10-29T18:29:14.720Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-10-24T03:45:17.113Z",
+    "updatedAt": "2026-10-29T18:29:14.720Z",
     "history": [
+      {
+        "updatedAt": "2026-10-29T18:29:14.720Z",
+        "ign": "༄ᶦᵅᶬ᭄ÇA࿐"
+      },
       {
         "updatedAt": "2026-10-12T04:54:26.753Z",
         "ign": "༄ᶦᵅᶬ᭄BestQueen࿐"
