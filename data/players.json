@@ -1,15 +1,19 @@
 {
   "197530226": {
     "fid": "197530226",
-    "ign": "Yos69",
+    "ign": "WifeY",
     "originalIGN": "Yos69",
     "status": "tracking",
-    "lastChecked": "2026-10-06T12:55:52.474Z",
+    "lastChecked": "2026-10-30T17:49:11.323Z",
     "townCenterLevel": 55,
     "state": 1367,
     "createdAt": "2026-10-06T12:55:51.966Z",
-    "updatedAt": "2026-10-06T12:55:52.476Z",
+    "updatedAt": "2026-10-30T17:49:11.324Z",
     "history": [
+      {
+        "updatedAt": "2026-10-30T17:49:11.324Z",
+        "ign": "WifeY"
+      },
       {
         "updatedAt": "2026-10-06T12:55:52.474Z",
         "ign": "Yos69"
@@ -1413,11 +1417,11 @@
     "ign": "Sämm¥",
     "originalIGN": "Sämm¥",
     "status": "tracking",
-    "lastChecked": "2026-10-02T21:06:38.347Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-10-30T17:50:19.262Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-09T06:06:27.263Z",
-    "updatedAt": "2026-10-02T21:06:38.347Z",
+    "updatedAt": "2026-10-30T17:50:19.262Z",
     "history": [
       {
         "updatedAt": "2026-07-09T06:06:46.809Z",
