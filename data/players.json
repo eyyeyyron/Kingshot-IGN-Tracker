@@ -4,11 +4,11 @@
     "ign": "Yos69",
     "originalIGN": "Yos69",
     "status": "tracking",
-    "lastChecked": "2026-10-31T04:35:42.949Z",
-    "townCenterLevel": 55,
+    "lastChecked": "2026-11-02T04:56:16.077Z",
+    "townCenterLevel": 70,
     "state": 1367,
     "createdAt": "2026-10-06T12:55:51.966Z",
-    "updatedAt": "2026-10-31T04:35:42.950Z",
+    "updatedAt": "2026-11-02T04:56:16.077Z",
     "history": [
       {
         "updatedAt": "2026-10-31T04:35:42.950Z",
@@ -330,11 +330,11 @@
     "ign": "Inu",
     "originalIGN": "Shaggydog",
     "status": "tracking",
-    "lastChecked": "2026-11-01T17:48:35.888Z",
-    "townCenterLevel": 50,
+    "lastChecked": "2026-11-02T04:58:05.709Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.324Z",
-    "updatedAt": "2026-11-01T17:48:35.889Z",
+    "updatedAt": "2026-11-02T04:58:05.709Z",
     "history": [
       {
         "updatedAt": "2026-11-01T17:48:35.889Z",
@@ -359,11 +359,11 @@
     "ign": "◉ ʟǟɖʏ ʍ ◉",
     "originalIGN": "༺ ʟǟɖʏ ʍ ༻",
     "status": "tracking",
-    "lastChecked": "2026-11-01T04:59:55.650Z",
-    "townCenterLevel": 47,
+    "lastChecked": "2026-11-02T04:58:15.558Z",
+    "townCenterLevel": 49,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:18.494Z",
-    "updatedAt": "2026-11-01T04:59:55.652Z",
+    "updatedAt": "2026-11-02T04:58:15.559Z",
     "history": [
       {
         "updatedAt": "2026-10-25T15:43:38.455Z",
@@ -1023,11 +1023,11 @@
     "ign": "SpookyLex",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": "2026-10-27T17:43:12.063Z",
-    "townCenterLevel": 36,
+    "lastChecked": "2026-11-02T05:12:35.201Z",
+    "townCenterLevel": 38,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-10-27T17:43:12.064Z",
+    "updatedAt": "2026-11-02T05:12:35.202Z",
     "history": [
       {
         "updatedAt": "2026-10-24T15:34:22.027Z",
@@ -1048,11 +1048,11 @@
     "ign": "kk333kaushik",
     "originalIGN": "kk333kaushik",
     "status": "tracking",
-    "lastChecked": "2026-10-31T16:59:03.153Z",
-    "townCenterLevel": 42,
+    "lastChecked": "2026-11-02T05:13:02.992Z",
+    "townCenterLevel": 43,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.701Z",
-    "updatedAt": "2026-10-31T16:59:03.154Z",
+    "updatedAt": "2026-11-02T05:13:02.993Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:24.168Z",
@@ -1312,11 +1312,11 @@
     "ign": "Creepy Toaster",
     "originalIGN": "Toaster",
     "status": "tracking",
-    "lastChecked": "2026-10-24T03:45:07.993Z",
-    "townCenterLevel": 45,
+    "lastChecked": "2026-11-02T05:19:48.653Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:22.990Z",
-    "updatedAt": "2026-10-24T03:45:07.994Z",
+    "updatedAt": "2026-11-02T05:19:48.654Z",
     "history": [
       {
         "updatedAt": "2026-10-24T03:45:07.994Z",
@@ -1705,15 +1705,19 @@
   },
   "293577999": {
     "fid": "293577999",
-    "ign": "NFFC",
+    "ign": "GRRR",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-10-30T04:54:04.529Z",
+    "lastChecked": "2026-11-02T05:26:23.672Z",
     "townCenterLevel": 44,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-10-30T04:54:04.529Z",
+    "updatedAt": "2026-11-02T05:26:23.673Z",
     "history": [
+      {
+        "updatedAt": "2026-11-02T05:26:23.673Z",
+        "ign": "GRRR"
+      },
       {
         "updatedAt": "2026-10-12T04:54:45.147Z",
         "ign": "NFFC"
@@ -1804,11 +1808,11 @@
     "ign": "Vhagar",
     "originalIGN": "EvilCookie",
     "status": "tracking",
-    "lastChecked": "2026-10-14T03:59:54.835Z",
-    "townCenterLevel": 28,
+    "lastChecked": "2026-11-02T05:28:21.068Z",
+    "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-10-06T12:54:02.216Z",
-    "updatedAt": "2026-10-14T03:59:54.836Z",
+    "updatedAt": "2026-11-02T05:28:21.069Z",
     "history": [
       {
         "updatedAt": "2026-10-14T03:59:54.836Z",
