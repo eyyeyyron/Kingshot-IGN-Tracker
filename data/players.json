@@ -368,15 +368,19 @@
   },
   "290677636": {
     "fid": "290677636",
-    "ign": "◉ ʟǟɖʏ ʍ ◉",
+    "ign": "Mιɳԃყ Sιɱɱσɳʂ",
     "originalIGN": "༺ ʟǟɖʏ ʍ ༻",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:31:47.412Z",
+    "lastChecked": "2026-11-03T19:25:15.798Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:18.494Z",
-    "updatedAt": "2026-11-02T21:31:47.413Z",
+    "updatedAt": "2026-11-03T19:25:15.799Z",
     "history": [
+      {
+        "updatedAt": "2026-11-03T19:25:15.799Z",
+        "ign": "Mιɳԃყ Sιɱɱσɳʂ"
+      },
       {
         "updatedAt": "2026-10-25T15:43:38.455Z",
         "ign": "◉ ʟǟɖʏ ʍ ◉"
@@ -468,15 +472,19 @@
   },
   "290841090": {
     "fid": "290841090",
-    "ign": "TingeltangelKira",
+    "ign": "Lord23456",
     "originalIGN": "Kira",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:31:57.592Z",
+    "lastChecked": "2026-11-03T19:27:36.559Z",
     "townCenterLevel": 54,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.349Z",
-    "updatedAt": "2026-11-02T21:31:57.593Z",
+    "updatedAt": "2026-11-03T19:27:36.560Z",
     "history": [
+      {
+        "updatedAt": "2026-11-03T19:27:36.560Z",
+        "ign": "Lord23456"
+      },
       {
         "updatedAt": "2026-11-02T21:31:57.593Z",
         "ign": "TingeltangelKira"
@@ -891,15 +899,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༄ᶦᵅᶬ᭄NelsoNmαru࿐",
+    "ign": "Lord291824155",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:32:30.044Z",
+    "lastChecked": "2026-11-03T19:42:47.502Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-11-02T21:32:30.045Z",
+    "updatedAt": "2026-11-03T19:42:47.503Z",
     "history": [
+      {
+        "updatedAt": "2026-11-03T19:42:47.503Z",
+        "ign": "Lord291824155"
+      },
       {
         "updatedAt": "2026-11-02T21:32:30.045Z",
         "ign": "༄ᶦᵅᶬ᭄NelsoNmαru࿐"
@@ -1063,11 +1075,11 @@
     "ign": "SpookyLex",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": "2026-11-02T05:12:35.201Z",
-    "townCenterLevel": 38,
+    "lastChecked": "2026-11-03T19:46:18.487Z",
+    "townCenterLevel": 39,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-11-02T05:12:35.202Z",
+    "updatedAt": "2026-11-03T19:46:18.488Z",
     "history": [
       {
         "updatedAt": "2026-10-24T15:34:22.027Z",
@@ -1726,11 +1738,11 @@
     "ign": "拎吖罵",
     "originalIGN": "拎吖罵",
     "status": "tracking",
-    "lastChecked": "2026-10-22T16:49:45.977Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-11-03T19:57:02.604Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.790Z",
-    "updatedAt": "2026-10-22T16:49:45.977Z",
+    "updatedAt": "2026-11-03T19:57:02.605Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:17.254Z",
@@ -1847,11 +1859,11 @@
     "ign": "Lotso Junior",
     "originalIGN": "LotsoJunior",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:34:13.374Z",
-    "townCenterLevel": 51,
+    "lastChecked": "2026-11-03T19:58:34.968Z",
+    "townCenterLevel": 52,
     "state": 1892,
     "createdAt": "2026-07-10T14:34:47.512Z",
-    "updatedAt": "2026-11-02T21:34:13.375Z",
+    "updatedAt": "2026-11-03T19:58:34.969Z",
     "history": [
       {
         "updatedAt": "2026-10-02T21:06:54.857Z",
