@@ -608,15 +608,19 @@
   },
   "291087355": {
     "fid": "291087355",
-    "ign": "『 ComicbookGuy』",
+    "ign": "『 C G 』",
     "originalIGN": "CG",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:32:05.363Z",
+    "lastChecked": "2026-11-03T05:45:25.812Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-03T17:40:01.424Z",
-    "updatedAt": "2026-11-02T21:32:05.363Z",
+    "updatedAt": "2026-11-03T05:45:25.812Z",
     "history": [
+      {
+        "updatedAt": "2026-11-03T05:45:25.812Z",
+        "ign": "『 C G 』"
+      },
       {
         "updatedAt": "2026-11-02T21:32:05.363Z",
         "ign": "『 ComicbookGuy』"
@@ -1084,11 +1088,11 @@
     "ign": "kk333kaushik",
     "originalIGN": "kk333kaushik",
     "status": "tracking",
-    "lastChecked": "2026-11-02T05:13:02.992Z",
-    "townCenterLevel": 43,
+    "lastChecked": "2026-11-03T05:45:53.457Z",
+    "townCenterLevel": 44,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.701Z",
-    "updatedAt": "2026-11-02T05:13:02.993Z",
+    "updatedAt": "2026-11-03T05:45:53.457Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:24.168Z",
@@ -1377,11 +1381,11 @@
     "ign": "Sunny Climate",
     "originalIGN": "Sunny Climate",
     "status": "tracking",
-    "lastChecked": "2026-10-29T18:28:51.122Z",
-    "townCenterLevel": 48,
+    "lastChecked": "2026-11-03T05:46:35.450Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.336Z",
-    "updatedAt": "2026-10-29T18:28:51.123Z",
+    "updatedAt": "2026-11-03T05:46:35.451Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:23.682Z",
