@@ -899,15 +899,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "Lord291824155",
+    "ign": "Pain",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-11-03T19:42:47.502Z",
+    "lastChecked": "2026-11-04T05:29:36.110Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-11-03T19:42:47.503Z",
+    "updatedAt": "2026-11-04T05:29:36.111Z",
     "history": [
+      {
+        "updatedAt": "2026-11-04T05:29:36.111Z",
+        "ign": "Pain"
+      },
       {
         "updatedAt": "2026-11-03T19:42:47.503Z",
         "ign": "Lord291824155"
