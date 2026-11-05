@@ -201,11 +201,11 @@
     "ign": "ViKing",
     "originalIGN": "ViKing",
     "status": "tracking",
-    "lastChecked": "2026-10-14T03:58:41.527Z",
-    "townCenterLevel": 30,
+    "lastChecked": "2026-11-05T19:39:28.918Z",
+    "townCenterLevel": 31,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:46.727Z",
-    "updatedAt": "2026-10-14T03:58:41.528Z",
+    "updatedAt": "2026-11-05T19:39:28.918Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:51.868Z",
@@ -256,15 +256,19 @@
   },
   "290560644": {
     "fid": "290560644",
-    "ign": "《B》impson'sDonut",
+    "ign": "《Donut》",
     "originalIGN": "《B》",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:31:37.192Z",
-    "townCenterLevel": 45,
+    "lastChecked": "2026-11-05T19:39:37.577Z",
+    "townCenterLevel": 46,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.179Z",
-    "updatedAt": "2026-11-02T21:31:37.193Z",
+    "updatedAt": "2026-11-05T19:39:37.577Z",
     "history": [
+      {
+        "updatedAt": "2026-11-05T19:39:37.577Z",
+        "ign": "《Donut》"
+      },
       {
         "updatedAt": "2026-11-02T21:31:37.193Z",
         "ign": "《B》impson'sDonut"
@@ -1514,15 +1518,19 @@
   },
   "292921823": {
     "fid": "292921823",
-    "ign": "Sämm¥",
+    "ign": "Säichi",
     "originalIGN": "Sämm¥",
     "status": "tracking",
-    "lastChecked": "2026-10-30T17:50:19.262Z",
+    "lastChecked": "2026-11-05T19:43:28.863Z",
     "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-09T06:06:27.263Z",
-    "updatedAt": "2026-10-30T17:50:19.262Z",
+    "updatedAt": "2026-11-05T19:43:28.863Z",
     "history": [
+      {
+        "updatedAt": "2026-11-05T19:43:28.863Z",
+        "ign": "Säichi"
+      },
       {
         "updatedAt": "2026-07-09T06:06:46.809Z",
         "ign": "Sämm¥"
@@ -1862,11 +1870,11 @@
     "ign": "Kizea",
     "originalIGN": "Kizea",
     "status": "tracking",
-    "lastChecked": "2026-10-23T03:51:45.405Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-11-05T19:44:21.562Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:18.187Z",
-    "updatedAt": "2026-10-23T03:51:45.406Z",
+    "updatedAt": "2026-11-05T19:44:21.562Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:18.651Z",
