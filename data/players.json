@@ -517,15 +517,19 @@
   },
   "290874773": {
     "fid": "290874773",
-    "ign": "Panadol",
+    "ign": "Lotsosimpson",
     "originalIGN": "Lotso",
     "status": "tracking",
-    "lastChecked": "2026-11-04T19:30:05.396Z",
+    "lastChecked": "2026-11-05T05:54:57.854Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T10:44:05.621Z",
-    "updatedAt": "2026-11-04T19:30:05.397Z",
+    "updatedAt": "2026-11-05T05:54:57.855Z",
     "history": [
+      {
+        "updatedAt": "2026-11-05T05:54:57.855Z",
+        "ign": "Lotsosimpson"
+      },
       {
         "updatedAt": "2026-11-04T19:30:05.397Z",
         "ign": "Panadol"
