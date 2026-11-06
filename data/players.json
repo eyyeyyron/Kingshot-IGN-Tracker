@@ -479,11 +479,11 @@
     "ign": "Overkill",
     "originalIGN": "Kira",
     "status": "tracking",
-    "lastChecked": "2026-11-04T19:30:02.328Z",
-    "townCenterLevel": 54,
+    "lastChecked": "2026-11-06T05:41:13.936Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.349Z",
-    "updatedAt": "2026-11-04T19:30:02.329Z",
+    "updatedAt": "2026-11-06T05:41:13.936Z",
     "history": [
       {
         "updatedAt": "2026-11-04T19:30:02.329Z",
@@ -1124,11 +1124,11 @@
     "ign": "kk333kaushik",
     "originalIGN": "kk333kaushik",
     "status": "tracking",
-    "lastChecked": "2026-11-03T05:45:53.457Z",
-    "townCenterLevel": 44,
+    "lastChecked": "2026-11-06T05:45:56.985Z",
+    "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:23.701Z",
-    "updatedAt": "2026-11-03T05:45:53.457Z",
+    "updatedAt": "2026-11-06T05:45:56.986Z",
     "history": [
       {
         "updatedAt": "2026-10-06T10:11:24.168Z",
@@ -1680,15 +1680,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "Iཞish ᴿᴱᴮᴼᴿᴺ",
+    "ign": "ﾌㄖӄɛཞ ᴿᴱᴮᴼᴿᴺ",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:33:56.214Z",
+    "lastChecked": "2026-11-06T05:50:30.360Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-02T21:33:56.215Z",
+    "updatedAt": "2026-11-06T05:50:30.361Z",
     "history": [
+      {
+        "updatedAt": "2026-11-06T05:50:30.361Z",
+        "ign": "ﾌㄖӄɛཞ ᴿᴱᴮᴼᴿᴺ"
+      },
       {
         "updatedAt": "2026-11-02T21:33:56.215Z",
         "ign": "Iཞish ᴿᴱᴮᴼᴿᴺ"
