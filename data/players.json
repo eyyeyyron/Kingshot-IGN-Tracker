@@ -1680,15 +1680,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "ﾌㄖӄɛཞ ᴿᴱᴮᴼᴿᴺ",
+    "ign": "J0kɛཞ ᴿᴱᴮᴼᴿᴺ",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-06T05:50:30.360Z",
+    "lastChecked": "2026-11-06T19:08:34.658Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-06T05:50:30.361Z",
+    "updatedAt": "2026-11-06T19:08:34.659Z",
     "history": [
+      {
+        "updatedAt": "2026-11-06T19:08:34.659Z",
+        "ign": "J0kɛཞ ᴿᴱᴮᴼᴿᴺ"
+      },
       {
         "updatedAt": "2026-11-06T05:50:30.361Z",
         "ign": "ﾌㄖӄɛཞ ᴿᴱᴮᴼᴿᴺ"
@@ -1888,15 +1892,19 @@
   },
   "328353803": {
     "fid": "328353803",
-    "ign": "Lotso Junior",
+    "ign": "Lotso The Mime",
     "originalIGN": "LotsoJunior",
     "status": "tracking",
-    "lastChecked": "2026-11-03T19:58:34.968Z",
+    "lastChecked": "2026-11-06T19:08:55.197Z",
     "townCenterLevel": 52,
     "state": 1892,
     "createdAt": "2026-07-10T14:34:47.512Z",
-    "updatedAt": "2026-11-03T19:58:34.969Z",
+    "updatedAt": "2026-11-06T19:08:55.198Z",
     "history": [
+      {
+        "updatedAt": "2026-11-06T19:08:55.198Z",
+        "ign": "Lotso The Mime"
+      },
       {
         "updatedAt": "2026-10-02T21:06:54.857Z",
         "ign": "Lotso Junior"
