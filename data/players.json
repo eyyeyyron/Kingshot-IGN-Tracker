@@ -201,11 +201,11 @@
     "ign": "ViKing",
     "originalIGN": "ViKing",
     "status": "tracking",
-    "lastChecked": "2026-11-05T19:39:28.918Z",
-    "townCenterLevel": 31,
+    "lastChecked": "2026-11-07T17:44:28.801Z",
+    "townCenterLevel": 32,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:46.727Z",
-    "updatedAt": "2026-11-05T19:39:28.918Z",
+    "updatedAt": "2026-11-07T17:44:28.801Z",
     "history": [
       {
         "updatedAt": "2026-07-10T15:05:51.868Z",
@@ -256,15 +256,19 @@
   },
   "290560644": {
     "fid": "290560644",
-    "ign": "《Donut》",
+    "ign": "《B》",
     "originalIGN": "《B》",
     "status": "tracking",
-    "lastChecked": "2026-11-05T19:39:37.577Z",
-    "townCenterLevel": 46,
+    "lastChecked": "2026-11-07T17:45:42.158Z",
+    "townCenterLevel": 47,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.179Z",
-    "updatedAt": "2026-11-05T19:39:37.577Z",
+    "updatedAt": "2026-11-07T17:45:42.159Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T17:45:42.159Z",
+        "ign": "《B》"
+      },
       {
         "updatedAt": "2026-11-05T19:39:37.577Z",
         "ign": "《Donut》"
@@ -372,15 +376,19 @@
   },
   "290677636": {
     "fid": "290677636",
-    "ign": "Mιɳԃყ Sιɱɱσɳʂ",
+    "ign": "◉ ʟǟɖʏ ʍ ◉",
     "originalIGN": "༺ ʟǟɖʏ ʍ ༻",
     "status": "tracking",
-    "lastChecked": "2026-11-03T19:25:15.798Z",
+    "lastChecked": "2026-11-07T17:51:23.855Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:18.494Z",
-    "updatedAt": "2026-11-03T19:25:15.799Z",
+    "updatedAt": "2026-11-07T17:51:23.855Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T17:51:23.855Z",
+        "ign": "◉ ʟǟɖʏ ʍ ◉"
+      },
       {
         "updatedAt": "2026-11-03T19:25:15.799Z",
         "ign": "Mιɳԃყ Sιɱɱσɳʂ"
@@ -476,15 +484,19 @@
   },
   "290841090": {
     "fid": "290841090",
-    "ign": "Overkill",
+    "ign": "Lord 12344888",
     "originalIGN": "Kira",
     "status": "tracking",
-    "lastChecked": "2026-11-06T05:41:13.936Z",
+    "lastChecked": "2026-11-07T17:54:49.165Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.349Z",
-    "updatedAt": "2026-11-06T05:41:13.936Z",
+    "updatedAt": "2026-11-07T17:54:49.165Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T17:54:49.165Z",
+        "ign": "Lord 12344888"
+      },
       {
         "updatedAt": "2026-11-04T19:30:02.329Z",
         "ign": "Overkill"
@@ -554,15 +566,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "MissWyoming",
+    "ign": "Elezard",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:32:01.213Z",
+    "lastChecked": "2026-11-07T17:55:46.165Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-11-02T21:32:01.214Z",
+    "updatedAt": "2026-11-07T17:55:46.165Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T17:55:46.165Z",
+        "ign": "Elezard"
+      },
       {
         "updatedAt": "2026-11-02T21:32:01.214Z",
         "ign": "MissWyoming"
@@ -980,15 +996,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "Prof Frinknami",
+    "ign": "Nami",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:32:33.456Z",
+    "lastChecked": "2026-11-07T18:09:56.016Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-11-02T21:32:33.457Z",
+    "updatedAt": "2026-11-07T18:09:56.017Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T18:09:56.017Z",
+        "ign": "Nami"
+      },
       {
         "updatedAt": "2026-11-02T21:32:33.457Z",
         "ign": "Prof Frinknami"
@@ -1099,11 +1119,11 @@
     "ign": "SpookyLex",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": "2026-11-03T19:46:18.487Z",
-    "townCenterLevel": 39,
+    "lastChecked": "2026-11-07T18:14:56.809Z",
+    "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-11-03T19:46:18.488Z",
+    "updatedAt": "2026-11-07T18:14:56.809Z",
     "history": [
       {
         "updatedAt": "2026-10-24T15:34:22.027Z",
@@ -1473,15 +1493,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "༄ᶦᵅᶬ᭄Maggie࿐",
+    "ign": "༄ᶦᵅᶬ᭄BestQueen࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:33:45.370Z",
+    "lastChecked": "2026-11-07T18:33:00.107Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-11-02T21:33:45.370Z",
+    "updatedAt": "2026-11-07T18:33:00.108Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T18:33:00.108Z",
+        "ign": "༄ᶦᵅᶬ᭄BestQueen࿐"
+      },
       {
         "updatedAt": "2026-11-02T21:33:45.370Z",
         "ign": "༄ᶦᵅᶬ᭄Maggie࿐"
@@ -1680,15 +1704,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "J0kɛཞ ᴿᴱᴮᴼᴿᴺ",
+    "ign": "J0k3R ᴿᴱᴮᴼᴿᴺ",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-06T19:08:34.658Z",
+    "lastChecked": "2026-11-07T18:37:22.683Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-06T19:08:34.659Z",
+    "updatedAt": "2026-11-07T18:37:22.683Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T18:37:22.683Z",
+        "ign": "J0k3R ᴿᴱᴮᴼᴿᴺ"
+      },
       {
         "updatedAt": "2026-11-06T19:08:34.659Z",
         "ign": "J0kɛཞ ᴿᴱᴮᴼᴿᴺ"
@@ -1809,15 +1837,19 @@
   },
   "293577999": {
     "fid": "293577999",
-    "ign": "Flanders",
+    "ign": "NFFC",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:34:07.522Z",
+    "lastChecked": "2026-11-07T18:42:04.543Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-11-02T21:34:07.523Z",
+    "updatedAt": "2026-11-07T18:42:04.543Z",
     "history": [
+      {
+        "updatedAt": "2026-11-07T18:42:04.543Z",
+        "ign": "NFFC"
+      },
       {
         "updatedAt": "2026-11-02T21:34:07.523Z",
         "ign": "Flanders"
