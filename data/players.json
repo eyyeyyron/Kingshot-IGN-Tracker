@@ -384,15 +384,19 @@
   },
   "290677636": {
     "fid": "290677636",
-    "ign": "◉ ʟǟɖʏ ʍ ◉",
+    "ign": "ʚɞ ʟǟɖʏ ʍ ᥫ᭡",
     "originalIGN": "༺ ʟǟɖʏ ʍ ༻",
     "status": "tracking",
-    "lastChecked": "2026-11-07T17:51:23.855Z",
+    "lastChecked": "2026-11-08T17:50:37.248Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:18.494Z",
-    "updatedAt": "2026-11-07T17:51:23.855Z",
+    "updatedAt": "2026-11-08T17:50:37.249Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T17:50:37.249Z",
+        "ign": "ʚɞ ʟǟɖʏ ʍ ᥫ᭡"
+      },
       {
         "updatedAt": "2026-11-07T17:51:23.855Z",
         "ign": "◉ ʟǟɖʏ ʍ ◉"
@@ -492,15 +496,19 @@
   },
   "290841090": {
     "fid": "290841090",
-    "ign": "Lord 12344888",
+    "ign": "Kira",
     "originalIGN": "Kira",
     "status": "tracking",
-    "lastChecked": "2026-11-07T17:54:49.165Z",
+    "lastChecked": "2026-11-08T17:52:01.489Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:20.349Z",
-    "updatedAt": "2026-11-07T17:54:49.165Z",
+    "updatedAt": "2026-11-08T17:52:01.490Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T17:52:01.490Z",
+        "ign": "Kira"
+      },
       {
         "updatedAt": "2026-11-07T17:54:49.165Z",
         "ign": "Lord 12344888"
@@ -1128,15 +1136,19 @@
   },
   "292086294": {
     "fid": "292086294",
-    "ign": "SpookyLex",
+    "ign": "LuckyLex",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": "2026-11-07T18:14:56.809Z",
+    "lastChecked": "2026-11-08T17:59:24.452Z",
     "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-11-07T18:14:56.809Z",
+    "updatedAt": "2026-11-08T17:59:24.453Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T17:59:24.453Z",
+        "ign": "LuckyLex"
+      },
       {
         "updatedAt": "2026-10-24T15:34:22.027Z",
         "ign": "SpookyLex"
@@ -1253,11 +1265,11 @@
     "ign": "Almathus",
     "originalIGN": "Almathus",
     "status": "tracking",
-    "lastChecked": "2026-10-17T03:28:22.206Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-11-08T18:05:10.634Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:50.564Z",
-    "updatedAt": "2026-10-17T03:28:22.206Z",
+    "updatedAt": "2026-11-08T18:05:10.634Z",
     "history": [
       {
         "updatedAt": "2026-10-02T21:06:28.273Z",
@@ -1720,15 +1732,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "Chai SUTTA",
+    "ign": "J0k3R",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-08T05:30:46.948Z",
+    "lastChecked": "2026-11-08T18:27:46.256Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-08T05:30:46.949Z",
+    "updatedAt": "2026-11-08T18:27:46.256Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T18:27:46.256Z",
+        "ign": "J0k3R"
+      },
       {
         "updatedAt": "2026-11-08T05:30:46.949Z",
         "ign": "Chai SUTTA"
