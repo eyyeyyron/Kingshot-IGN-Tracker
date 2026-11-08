@@ -173,15 +173,19 @@
   },
   "290249223": {
     "fid": "290249223",
-    "ign": "Sera Wiggu",
+    "ign": "Seraphina",
     "originalIGN": "Seraphina",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:31:24.260Z",
+    "lastChecked": "2026-11-08T05:00:54.294Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.703Z",
-    "updatedAt": "2026-11-02T21:31:24.261Z",
+    "updatedAt": "2026-11-08T05:00:54.295Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T05:00:54.295Z",
+        "ign": "Seraphina"
+      },
       {
         "updatedAt": "2026-11-02T21:31:24.261Z",
         "ign": "Sera Wiggu"
@@ -219,15 +223,19 @@
   },
   "290530105": {
     "fid": "290530105",
-    "ign": "Mr Burns",
+    "ign": "Nagharoth",
     "originalIGN": "Nagharoth#",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:31:31.806Z",
+    "lastChecked": "2026-11-08T05:01:48.973Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:19.605Z",
-    "updatedAt": "2026-11-02T21:31:31.807Z",
+    "updatedAt": "2026-11-08T05:01:48.974Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T05:01:48.974Z",
+        "ign": "Nagharoth"
+      },
       {
         "updatedAt": "2026-11-02T21:31:31.807Z",
         "ign": "Mr Burns"
@@ -810,15 +818,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "Dr Hibbert",
+    "ign": "SARPANCH",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:32:20.079Z",
+    "lastChecked": "2026-11-08T05:10:41.942Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-11-02T21:32:20.079Z",
+    "updatedAt": "2026-11-08T05:10:41.942Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T05:10:41.942Z",
+        "ign": "SARPANCH"
+      },
       {
         "updatedAt": "2026-11-02T21:32:20.079Z",
         "ign": "Dr Hibbert"
@@ -1267,15 +1279,19 @@
   },
   "292446979": {
     "fid": "292446979",
-    "ign": "Snowball V",
+    "ign": "_Vivi_",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:33:24.959Z",
+    "lastChecked": "2026-11-08T05:21:58.202Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-11-02T21:33:24.960Z",
+    "updatedAt": "2026-11-08T05:21:58.203Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T05:21:58.203Z",
+        "ign": "_Vivi_"
+      },
       {
         "updatedAt": "2026-11-02T21:33:24.960Z",
         "ign": "Snowball V"
@@ -1704,15 +1720,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "J0k3R ᴿᴱᴮᴼᴿᴺ",
+    "ign": "Chai SUTTA",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-07T18:37:22.683Z",
+    "lastChecked": "2026-11-08T05:30:46.948Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-07T18:37:22.683Z",
+    "updatedAt": "2026-11-08T05:30:46.949Z",
     "history": [
+      {
+        "updatedAt": "2026-11-08T05:30:46.949Z",
+        "ign": "Chai SUTTA"
+      },
       {
         "updatedAt": "2026-11-07T18:37:22.683Z",
         "ign": "J0k3R ᴿᴱᴮᴼᴿᴺ"
