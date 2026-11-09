@@ -1382,15 +1382,19 @@
   },
   "292709124": {
     "fid": "292709124",
-    "ign": "༄Ralph Wiggum࿐",
+    "ign": "༄Brook࿐",
     "originalIGN": "༄Brook࿐",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:33:33.782Z",
+    "lastChecked": "2026-11-09T05:30:36.704Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T19:32:37.534Z",
-    "updatedAt": "2026-11-02T21:33:33.782Z",
+    "updatedAt": "2026-11-09T05:30:36.705Z",
     "history": [
+      {
+        "updatedAt": "2026-11-09T05:30:36.705Z",
+        "ign": "༄Brook࿐"
+      },
       {
         "updatedAt": "2026-11-02T21:33:33.782Z",
         "ign": "༄Ralph Wiggum࿐"
@@ -1570,15 +1574,19 @@
   },
   "292921823": {
     "fid": "292921823",
-    "ign": "Säichi",
+    "ign": "Sämm¥",
     "originalIGN": "Sämm¥",
     "status": "tracking",
-    "lastChecked": "2026-11-05T19:43:28.863Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-11-09T05:32:46.284Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-09T06:06:27.263Z",
-    "updatedAt": "2026-11-05T19:43:28.863Z",
+    "updatedAt": "2026-11-09T05:32:46.285Z",
     "history": [
+      {
+        "updatedAt": "2026-11-09T05:32:46.285Z",
+        "ign": "Sämm¥"
+      },
       {
         "updatedAt": "2026-11-05T19:43:28.863Z",
         "ign": "Säichi"
@@ -1838,11 +1846,11 @@
     "ign": "拎吖罵",
     "originalIGN": "拎吖罵",
     "status": "tracking",
-    "lastChecked": "2026-11-03T19:57:02.604Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-11-09T05:34:56.810Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.790Z",
-    "updatedAt": "2026-11-03T19:57:02.605Z",
+    "updatedAt": "2026-11-09T05:34:56.811Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:17.254Z",
