@@ -582,15 +582,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Elezard",
+    "ign": "Oompa Loompa Ele",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-11-07T17:55:46.165Z",
+    "lastChecked": "2026-11-09T22:17:42.381Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-11-07T17:55:46.165Z",
+    "updatedAt": "2026-11-09T22:17:42.382Z",
     "history": [
+      {
+        "updatedAt": "2026-11-09T22:17:42.382Z",
+        "ign": "Oompa Loompa Ele"
+      },
       {
         "updatedAt": "2026-11-07T17:55:46.165Z",
         "ign": "Elezard"
@@ -951,15 +955,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐",
+    "ign": "༄ᶦᵅᶬ᭄ѕhιкywonka࿐",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-11-04T19:30:53.991Z",
+    "lastChecked": "2026-11-09T22:18:56.550Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-11-04T19:30:53.992Z",
+    "updatedAt": "2026-11-09T22:18:56.551Z",
     "history": [
+      {
+        "updatedAt": "2026-11-09T22:18:56.551Z",
+        "ign": "༄ᶦᵅᶬ᭄ѕhιкywonka࿐"
+      },
       {
         "updatedAt": "2026-11-04T19:30:53.992Z",
         "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐"
