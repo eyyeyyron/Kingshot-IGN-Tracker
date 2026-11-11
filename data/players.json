@@ -1,15 +1,19 @@
 {
   "197530226": {
     "fid": "197530226",
-    "ign": "Yos69",
+    "ign": "NotYos",
     "originalIGN": "Yos69",
     "status": "tracking",
-    "lastChecked": "2026-11-02T04:56:16.077Z",
+    "lastChecked": "2026-11-11T05:09:53.884Z",
     "townCenterLevel": 70,
     "state": 1367,
     "createdAt": "2026-10-06T12:55:51.966Z",
-    "updatedAt": "2026-11-02T04:56:16.077Z",
+    "updatedAt": "2026-11-11T05:09:53.885Z",
     "history": [
+      {
+        "updatedAt": "2026-11-11T05:09:53.885Z",
+        "ign": "NotYos"
+      },
       {
         "updatedAt": "2026-10-31T04:35:42.950Z",
         "ign": "Yos69"
@@ -316,11 +320,11 @@
     "ign": "Matrix",
     "originalIGN": "Matrix",
     "status": "tracking",
-    "lastChecked": "2026-10-25T15:43:29.403Z",
-    "townCenterLevel": 40,
+    "lastChecked": "2026-11-11T05:09:57.008Z",
+    "townCenterLevel": 41,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:09.775Z",
-    "updatedAt": "2026-10-25T15:43:29.404Z",
+    "updatedAt": "2026-11-11T05:09:57.009Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:36:13.626Z",
@@ -1533,15 +1537,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "༄ᶦᵅᶬ᭄BestQueen࿐",
+    "ign": "༄ᶦᵅᶬ᭄Violet࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-11-07T18:33:00.107Z",
+    "lastChecked": "2026-11-11T05:10:06.089Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-11-07T18:33:00.108Z",
+    "updatedAt": "2026-11-11T05:10:06.090Z",
     "history": [
+      {
+        "updatedAt": "2026-11-11T05:10:06.090Z",
+        "ign": "༄ᶦᵅᶬ᭄Violet࿐"
+      },
       {
         "updatedAt": "2026-11-07T18:33:00.108Z",
         "ign": "༄ᶦᵅᶬ᭄BestQueen࿐"
