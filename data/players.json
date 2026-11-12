@@ -474,11 +474,11 @@
     "ign": "Bibibop",
     "originalIGN": "BiBiBop",
     "status": "tracking",
-    "lastChecked": "2026-11-07T05:32:13.583Z",
-    "townCenterLevel": 48,
+    "lastChecked": "2026-11-12T19:39:31.856Z",
+    "townCenterLevel": 49,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.854Z",
-    "updatedAt": "2026-11-07T05:32:13.584Z",
+    "updatedAt": "2026-11-12T19:39:31.857Z",
     "history": [
       {
         "updatedAt": "2026-10-12T04:53:49.405Z",
@@ -590,15 +590,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Oompa Loompa Ele",
+    "ign": "Elezard",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-11-09T22:17:42.381Z",
+    "lastChecked": "2026-11-12T19:39:32.475Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-11-09T22:17:42.382Z",
+    "updatedAt": "2026-11-12T19:39:32.476Z",
     "history": [
+      {
+        "updatedAt": "2026-11-12T19:39:32.476Z",
+        "ign": "Elezard"
+      },
       {
         "updatedAt": "2026-11-09T22:17:42.382Z",
         "ign": "Oompa Loompa Ele"
@@ -967,15 +971,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༄ᶦᵅᶬ᭄ѕhιкywonka࿐",
+    "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-11-09T22:18:56.550Z",
+    "lastChecked": "2026-11-12T19:39:35.001Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-11-09T22:18:56.551Z",
+    "updatedAt": "2026-11-12T19:39:35.002Z",
     "history": [
+      {
+        "updatedAt": "2026-11-12T19:39:35.002Z",
+        "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐"
+      },
       {
         "updatedAt": "2026-11-09T22:18:56.551Z",
         "ign": "༄ᶦᵅᶬ᭄ѕhιкywonka࿐"
