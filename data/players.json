@@ -838,15 +838,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "SARPANCH",
+    "ign": "༄᭄RaNGiLa᭄࿐",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-11-08T05:10:41.942Z",
+    "lastChecked": "2026-11-12T06:14:52.449Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-11-08T05:10:41.942Z",
+    "updatedAt": "2026-11-12T06:14:52.449Z",
     "history": [
+      {
+        "updatedAt": "2026-11-12T06:14:52.449Z",
+        "ign": "༄᭄RaNGiLa᭄࿐"
+      },
       {
         "updatedAt": "2026-11-08T05:10:41.942Z",
         "ign": "SARPANCH"
@@ -1763,11 +1767,11 @@
     "ign": "J0k3R",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-08T18:27:46.256Z",
+    "lastChecked": "2026-11-12T06:15:02.149Z",
     "townCenterLevel": 55,
-    "state": 1892,
+    "state": 1789,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-08T18:27:46.256Z",
+    "updatedAt": "2026-11-12T06:15:02.149Z",
     "history": [
       {
         "updatedAt": "2026-11-08T18:27:46.256Z",
