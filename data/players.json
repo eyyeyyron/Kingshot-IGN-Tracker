@@ -1609,11 +1609,11 @@
     "ign": "Sämm¥",
     "originalIGN": "Sämm¥",
     "status": "tracking",
-    "lastChecked": "2026-11-09T05:32:46.284Z",
+    "lastChecked": "2026-11-13T05:35:57.270Z",
     "townCenterLevel": 42,
-    "state": 1892,
+    "state": 1933,
     "createdAt": "2026-07-09T06:06:27.263Z",
-    "updatedAt": "2026-11-09T05:32:46.285Z",
+    "updatedAt": "2026-11-13T05:35:57.271Z",
     "history": [
       {
         "updatedAt": "2026-11-09T05:32:46.285Z",
@@ -1772,15 +1772,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "J0k3R",
+    "ign": "J0k3R ᴿᴱᴮᴼᴿᴺ",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-12T06:15:02.149Z",
+    "lastChecked": "2026-11-13T05:36:01.342Z",
     "townCenterLevel": 55,
     "state": 1789,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-12T06:15:02.149Z",
+    "updatedAt": "2026-11-13T05:36:01.343Z",
     "history": [
+      {
+        "updatedAt": "2026-11-13T05:36:01.343Z",
+        "ign": "J0k3R ᴿᴱᴮᴼᴿᴺ"
+      },
       {
         "updatedAt": "2026-11-08T18:27:46.256Z",
         "ign": "J0k3R"
@@ -1878,11 +1882,11 @@
     "ign": "拎吖罵",
     "originalIGN": "拎吖罵",
     "status": "tracking",
-    "lastChecked": "2026-11-09T05:34:56.810Z",
-    "townCenterLevel": 42,
+    "lastChecked": "2026-11-13T05:36:02.257Z",
+    "townCenterLevel": 43,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:16.790Z",
-    "updatedAt": "2026-11-09T05:34:56.811Z",
+    "updatedAt": "2026-11-13T05:36:02.258Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:17.254Z",
@@ -2025,15 +2029,19 @@
   },
   "359584596": {
     "fid": "359584596",
-    "ign": "Vhagar",
+    "ign": "სპილოს ტანგა",
     "originalIGN": "EvilCookie",
     "status": "tracking",
-    "lastChecked": "2026-11-02T05:28:21.068Z",
+    "lastChecked": "2026-11-13T05:36:04.550Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-10-06T12:54:02.216Z",
-    "updatedAt": "2026-11-02T05:28:21.069Z",
+    "updatedAt": "2026-11-13T05:36:04.550Z",
     "history": [
+      {
+        "updatedAt": "2026-11-13T05:36:04.550Z",
+        "ign": "სპილოს ტანგა"
+      },
       {
         "updatedAt": "2026-10-14T03:59:54.836Z",
         "ign": "Vhagar"
