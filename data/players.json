@@ -1044,15 +1044,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "InsufferableNami",
+    "ign": "Nami",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-11-15T18:35:51.624Z",
+    "lastChecked": "2026-11-16T21:44:49.290Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-11-15T18:35:51.624Z",
+    "updatedAt": "2026-11-16T21:44:49.291Z",
     "history": [
+      {
+        "updatedAt": "2026-11-16T21:44:49.291Z",
+        "ign": "Nami"
+      },
       {
         "updatedAt": "2026-11-15T18:35:51.624Z",
         "ign": "InsufferableNami"
@@ -1297,11 +1301,11 @@
     "ign": "Almathus",
     "originalIGN": "Almathus",
     "status": "tracking",
-    "lastChecked": "2026-11-08T18:05:10.634Z",
-    "townCenterLevel": 42,
+    "lastChecked": "2026-11-16T21:44:52.559Z",
+    "townCenterLevel": 43,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:50.564Z",
-    "updatedAt": "2026-11-08T18:05:10.634Z",
+    "updatedAt": "2026-11-16T21:44:52.560Z",
     "history": [
       {
         "updatedAt": "2026-10-02T21:06:28.273Z",
@@ -1518,11 +1522,11 @@
     "ign": "duc de la Boétie",
     "originalIGN": "duc de la Boétie",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:33:42.936Z",
-    "townCenterLevel": 45,
+    "lastChecked": "2026-11-16T21:44:55.194Z",
+    "townCenterLevel": 46,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:14.904Z",
-    "updatedAt": "2026-11-02T21:33:42.937Z",
+    "updatedAt": "2026-11-16T21:44:55.194Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:15.367Z",
@@ -1613,11 +1617,11 @@
     "ign": "Sämm¥",
     "originalIGN": "Sämm¥",
     "status": "tracking",
-    "lastChecked": "2026-11-13T05:35:57.270Z",
-    "townCenterLevel": 42,
+    "lastChecked": "2026-11-16T21:44:56.101Z",
+    "townCenterLevel": 43,
     "state": 1933,
     "createdAt": "2026-07-09T06:06:27.263Z",
-    "updatedAt": "2026-11-13T05:35:57.271Z",
+    "updatedAt": "2026-11-16T21:44:56.102Z",
     "history": [
       {
         "updatedAt": "2026-11-09T05:32:46.285Z",
