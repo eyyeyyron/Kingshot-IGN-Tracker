@@ -2089,15 +2089,19 @@
   },
   "359584596": {
     "fid": "359584596",
-    "ign": "სპილოს ტანგა",
+    "ign": "BabYos",
     "originalIGN": "EvilCookie",
     "status": "tracking",
-    "lastChecked": "2026-11-13T05:36:04.550Z",
+    "lastChecked": "2026-11-19T20:08:05.230Z",
     "townCenterLevel": 29,
     "state": 1892,
     "createdAt": "2026-10-06T12:54:02.216Z",
-    "updatedAt": "2026-11-13T05:36:04.550Z",
+    "updatedAt": "2026-11-19T20:08:05.230Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T20:08:05.230Z",
+        "ign": "BabYos"
+      },
       {
         "updatedAt": "2026-11-13T05:36:04.550Z",
         "ign": "სპილოს ტანგა"
