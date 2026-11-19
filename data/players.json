@@ -71,11 +71,11 @@
     "ign": "~Yuuki Cross~",
     "originalIGN": "~Naranjita~",
     "status": "tracking",
-    "lastChecked": "2026-10-24T03:43:36.986Z",
-    "townCenterLevel": 38,
+    "lastChecked": "2026-11-19T06:25:58.067Z",
+    "townCenterLevel": 39,
     "state": 1892,
     "createdAt": "2026-07-09T07:13:21.389Z",
-    "updatedAt": "2026-10-24T03:43:36.986Z",
+    "updatedAt": "2026-11-19T06:25:58.067Z",
     "history": [
       {
         "updatedAt": "2026-10-19T03:43:57.108Z",
@@ -122,15 +122,19 @@
   },
   "289891527": {
     "fid": "289891527",
-    "ign": "Esel",
+    "ign": "Eselciraptor",
     "originalIGN": "Esel",
     "status": "tracking",
-    "lastChecked": "2026-11-14T17:44:59.341Z",
+    "lastChecked": "2026-11-19T06:25:58.598Z",
     "townCenterLevel": 47,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.370Z",
-    "updatedAt": "2026-11-14T17:44:59.342Z",
+    "updatedAt": "2026-11-19T06:25:58.599Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:25:58.599Z",
+        "ign": "Eselciraptor"
+      },
       {
         "updatedAt": "2026-07-20T17:09:24.237Z",
         "ign": "Esel"
@@ -272,15 +276,19 @@
   },
   "290560644": {
     "fid": "290560644",
-    "ign": "《B》",
+    "ign": "《B》2d'rescue",
     "originalIGN": "《B》",
     "status": "tracking",
-    "lastChecked": "2026-11-17T07:01:28.497Z",
+    "lastChecked": "2026-11-19T06:26:00.122Z",
     "townCenterLevel": 48,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:24.179Z",
-    "updatedAt": "2026-11-17T07:01:28.498Z",
+    "updatedAt": "2026-11-19T06:26:00.123Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:00.123Z",
+        "ign": "《B》2d'rescue"
+      },
       {
         "updatedAt": "2026-11-07T17:45:42.159Z",
         "ign": "《B》"
@@ -363,15 +371,19 @@
   },
   "290642434": {
     "fid": "290642434",
-    "ign": "Inu",
+    "ign": "Devil DINUsaur",
     "originalIGN": "Shaggydog",
     "status": "tracking",
-    "lastChecked": "2026-11-02T04:58:05.709Z",
+    "lastChecked": "2026-11-19T06:26:00.875Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.324Z",
-    "updatedAt": "2026-11-02T04:58:05.709Z",
+    "updatedAt": "2026-11-19T06:26:00.875Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:00.875Z",
+        "ign": "Devil DINUsaur"
+      },
       {
         "updatedAt": "2026-11-01T17:48:35.889Z",
         "ign": "Inu"
@@ -392,15 +404,19 @@
   },
   "290677636": {
     "fid": "290677636",
-    "ign": "ʚɞ ʟǟɖʏ ʍ ᥫ᭡",
+    "ign": "M᭄Aɳƙყɾɾα ᥫ᭡",
     "originalIGN": "༺ ʟǟɖʏ ʍ ༻",
     "status": "tracking",
-    "lastChecked": "2026-11-08T17:50:37.248Z",
+    "lastChecked": "2026-11-19T06:26:01.130Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:18.494Z",
-    "updatedAt": "2026-11-08T17:50:37.249Z",
+    "updatedAt": "2026-11-19T06:26:01.130Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:01.130Z",
+        "ign": "M᭄Aɳƙყɾɾα ᥫ᭡"
+      },
       {
         "updatedAt": "2026-11-08T17:50:37.249Z",
         "ign": "ʚɞ ʟǟɖʏ ʍ ᥫ᭡"
@@ -474,11 +490,11 @@
     "ign": "Bibibop",
     "originalIGN": "BiBiBop",
     "status": "tracking",
-    "lastChecked": "2026-11-12T19:39:31.856Z",
-    "townCenterLevel": 49,
+    "lastChecked": "2026-11-19T06:26:01.919Z",
+    "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:26.854Z",
-    "updatedAt": "2026-11-12T19:39:31.857Z",
+    "updatedAt": "2026-11-19T06:26:01.919Z",
     "history": [
       {
         "updatedAt": "2026-10-12T04:53:49.405Z",
@@ -590,15 +606,19 @@
   },
   "290955763": {
     "fid": "290955763",
-    "ign": "Elezard",
+    "ign": "Eleceratops",
     "originalIGN": "Elezard",
     "status": "tracking",
-    "lastChecked": "2026-11-12T19:39:32.475Z",
+    "lastChecked": "2026-11-19T06:26:02.696Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T07:12:56.147Z",
-    "updatedAt": "2026-11-12T19:39:32.476Z",
+    "updatedAt": "2026-11-19T06:26:02.696Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:02.696Z",
+        "ign": "Eleceratops"
+      },
       {
         "updatedAt": "2026-11-12T19:39:32.476Z",
         "ign": "Elezard"
@@ -680,15 +700,19 @@
   },
   "291087355": {
     "fid": "291087355",
-    "ign": "『 C G 』",
+    "ign": "『CompsoGnathus』",
     "originalIGN": "CG",
     "status": "tracking",
-    "lastChecked": "2026-11-03T05:45:25.812Z",
+    "lastChecked": "2026-11-19T06:26:03.213Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-03T17:40:01.424Z",
-    "updatedAt": "2026-11-03T05:45:25.812Z",
+    "updatedAt": "2026-11-19T06:26:03.213Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:03.213Z",
+        "ign": "『CompsoGnathus』"
+      },
       {
         "updatedAt": "2026-11-03T05:45:25.812Z",
         "ign": "『 C G 』"
@@ -971,15 +995,19 @@
   },
   "291824155": {
     "fid": "291824155",
-    "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐",
+    "ign": "༄ᶦᵅᶬ᭄Littlefoot࿐",
     "originalIGN": "Shika",
     "status": "tracking",
-    "lastChecked": "2026-11-12T19:39:35.001Z",
+    "lastChecked": "2026-11-19T06:26:06.317Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T12:11:49.258Z",
-    "updatedAt": "2026-11-12T19:39:35.002Z",
+    "updatedAt": "2026-11-19T06:26:06.318Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:06.318Z",
+        "ign": "༄ᶦᵅᶬ᭄Littlefoot࿐"
+      },
       {
         "updatedAt": "2026-11-12T19:39:35.002Z",
         "ign": "༄ᶦᵅᶬ᭄ѕhιкα࿐"
@@ -1044,15 +1072,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "Nami",
+    "ign": "DiploNami",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-11-16T21:44:49.290Z",
+    "lastChecked": "2026-11-19T06:26:06.569Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-11-16T21:44:49.291Z",
+    "updatedAt": "2026-11-19T06:26:06.570Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:06.570Z",
+        "ign": "DiploNami"
+      },
       {
         "updatedAt": "2026-11-16T21:44:49.291Z",
         "ign": "Nami"
@@ -1105,15 +1137,19 @@
   },
   "291857072": {
     "fid": "291857072",
-    "ign": "LOST COCONUT",
+    "ign": "Cocosorearse",
     "originalIGN": "BLACK PANTHER",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:32:35.567Z",
+    "lastChecked": "2026-11-19T06:26:06.832Z",
     "townCenterLevel": 49,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.421Z",
-    "updatedAt": "2026-11-02T21:32:35.568Z",
+    "updatedAt": "2026-11-19T06:26:06.833Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:06.833Z",
+        "ign": "Cocosorearse"
+      },
       {
         "updatedAt": "2026-10-12T04:54:08.669Z",
         "ign": "LOST COCONUT"
@@ -1327,15 +1363,19 @@
   },
   "292446979": {
     "fid": "292446979",
-    "ign": "_Vivi_",
+    "ign": "༄ᶦᵅᶬ᭄공실이࿐",
     "originalIGN": "_Vivi_",
     "status": "tracking",
-    "lastChecked": "2026-11-08T05:21:58.202Z",
+    "lastChecked": "2026-11-19T06:26:09.362Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:13.972Z",
-    "updatedAt": "2026-11-08T05:21:58.203Z",
+    "updatedAt": "2026-11-19T06:26:09.362Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:09.362Z",
+        "ign": "༄ᶦᵅᶬ᭄공실이࿐"
+      },
       {
         "updatedAt": "2026-11-08T05:21:58.203Z",
         "ign": "_Vivi_"
@@ -1418,15 +1458,19 @@
   },
   "292709124": {
     "fid": "292709124",
-    "ign": "༄Brook࿐",
+    "ign": "༄Brookasaurus࿐",
     "originalIGN": "༄Brook࿐",
     "status": "tracking",
-    "lastChecked": "2026-11-09T05:30:36.704Z",
+    "lastChecked": "2026-11-19T06:26:10.154Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T19:32:37.534Z",
-    "updatedAt": "2026-11-09T05:30:36.705Z",
+    "updatedAt": "2026-11-19T06:26:10.154Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:10.154Z",
+        "ign": "༄Brookasaurus࿐"
+      },
       {
         "updatedAt": "2026-11-09T05:30:36.705Z",
         "ign": "༄Brook࿐"
@@ -1561,15 +1605,19 @@
   },
   "292873056": {
     "fid": "292873056",
-    "ign": "༄ᶦᵅᶬ᭄Violet࿐",
+    "ign": "༄ᶦᵅᶬ᭄GRRRRRR࿐",
     "originalIGN": "BestQueen",
     "status": "tracking",
-    "lastChecked": "2026-11-11T05:10:06.089Z",
+    "lastChecked": "2026-11-19T06:26:12.122Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.838Z",
-    "updatedAt": "2026-11-11T05:10:06.090Z",
+    "updatedAt": "2026-11-19T06:26:12.122Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:12.122Z",
+        "ign": "༄ᶦᵅᶬ᭄GRRRRRR࿐"
+      },
       {
         "updatedAt": "2026-11-11T05:10:06.090Z",
         "ign": "༄ᶦᵅᶬ᭄Violet࿐"
@@ -1925,15 +1973,19 @@
   },
   "293577999": {
     "fid": "293577999",
-    "ign": "NFFC",
+    "ign": "Triceratops",
     "originalIGN": "Nffc",
     "status": "tracking",
-    "lastChecked": "2026-11-07T18:42:04.543Z",
+    "lastChecked": "2026-11-19T06:26:15.149Z",
     "townCenterLevel": 45,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:24.755Z",
-    "updatedAt": "2026-11-07T18:42:04.543Z",
+    "updatedAt": "2026-11-19T06:26:15.150Z",
     "history": [
+      {
+        "updatedAt": "2026-11-19T06:26:15.150Z",
+        "ign": "Triceratops"
+      },
       {
         "updatedAt": "2026-11-07T18:42:04.543Z",
         "ign": "NFFC"
