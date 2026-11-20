@@ -185,15 +185,19 @@
   },
   "290249223": {
     "fid": "290249223",
-    "ign": "Seraphina",
+    "ign": "Barney ° Sera",
     "originalIGN": "Seraphina",
     "status": "tracking",
-    "lastChecked": "2026-11-08T05:00:54.294Z",
+    "lastChecked": "2026-11-20T06:12:13.658Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.703Z",
-    "updatedAt": "2026-11-08T05:00:54.295Z",
+    "updatedAt": "2026-11-20T06:12:13.659Z",
     "history": [
+      {
+        "updatedAt": "2026-11-20T06:12:13.659Z",
+        "ign": "Barney ° Sera"
+      },
       {
         "updatedAt": "2026-11-08T05:00:54.295Z",
         "ign": "Seraphina"
@@ -349,11 +353,11 @@
     "ign": "JR 45",
     "originalIGN": "JR 44",
     "status": "tracking",
-    "lastChecked": "2026-10-30T04:51:22.735Z",
-    "townCenterLevel": 46,
+    "lastChecked": "2026-11-20T06:12:14.630Z",
+    "townCenterLevel": 47,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:54.442Z",
-    "updatedAt": "2026-10-30T04:51:22.736Z",
+    "updatedAt": "2026-11-20T06:12:14.631Z",
     "history": [
       {
         "updatedAt": "2026-10-02T21:05:54.334Z",
@@ -573,15 +577,19 @@
   },
   "290874773": {
     "fid": "290874773",
-    "ign": "Lotsosimpson",
+    "ign": "Lotsosaurus",
     "originalIGN": "Lotso",
     "status": "tracking",
-    "lastChecked": "2026-11-05T05:54:57.854Z",
+    "lastChecked": "2026-11-20T06:12:15.962Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T10:44:05.621Z",
-    "updatedAt": "2026-11-05T05:54:57.855Z",
+    "updatedAt": "2026-11-20T06:12:15.963Z",
     "history": [
+      {
+        "updatedAt": "2026-11-20T06:12:15.963Z",
+        "ign": "Lotsosaurus"
+      },
       {
         "updatedAt": "2026-11-05T05:54:57.855Z",
         "ign": "Lotsosimpson"
@@ -866,15 +874,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "༄᭄RaNGiLa᭄࿐",
+    "ign": "RAVNASUAR",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-11-12T06:14:52.449Z",
+    "lastChecked": "2026-11-20T06:12:17.659Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-11-12T06:14:52.449Z",
+    "updatedAt": "2026-11-20T06:12:17.659Z",
     "history": [
+      {
+        "updatedAt": "2026-11-20T06:12:17.659Z",
+        "ign": "RAVNASUAR"
+      },
       {
         "updatedAt": "2026-11-12T06:14:52.449Z",
         "ign": "༄᭄RaNGiLa᭄࿐"
@@ -1072,15 +1084,19 @@
   },
   "291856875": {
     "fid": "291856875",
-    "ign": "DiploNami",
+    "ign": "ᰔᩚᴅɪᴘʟᴏɴᴀᴍɪᰔᩚ",
     "originalIGN": "Christy D Nami",
     "status": "tracking",
-    "lastChecked": "2026-11-19T06:26:06.569Z",
+    "lastChecked": "2026-11-20T06:12:18.818Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-08T15:48:08.154Z",
-    "updatedAt": "2026-11-19T06:26:06.570Z",
+    "updatedAt": "2026-11-20T06:12:18.819Z",
     "history": [
+      {
+        "updatedAt": "2026-11-20T06:12:18.819Z",
+        "ign": "ᰔᩚᴅɪᴘʟᴏɴᴀᴍɪᰔᩚ"
+      },
       {
         "updatedAt": "2026-11-19T06:26:06.570Z",
         "ign": "DiploNami"
@@ -2067,11 +2083,11 @@
     "ign": "Lotso The Mime",
     "originalIGN": "LotsoJunior",
     "status": "tracking",
-    "lastChecked": "2026-11-13T19:21:03.067Z",
-    "townCenterLevel": 54,
+    "lastChecked": "2026-11-20T06:13:04.331Z",
+    "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-10T14:34:47.512Z",
-    "updatedAt": "2026-11-13T19:21:03.067Z",
+    "updatedAt": "2026-11-20T06:13:04.332Z",
     "history": [
       {
         "updatedAt": "2026-11-06T19:08:55.198Z",
@@ -2092,11 +2108,11 @@
     "ign": "BabYos",
     "originalIGN": "EvilCookie",
     "status": "tracking",
-    "lastChecked": "2026-11-19T20:08:05.230Z",
-    "townCenterLevel": 29,
+    "lastChecked": "2026-11-20T06:13:04.517Z",
+    "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-10-06T12:54:02.216Z",
-    "updatedAt": "2026-11-19T20:08:05.230Z",
+    "updatedAt": "2026-11-20T06:13:04.517Z",
     "history": [
       {
         "updatedAt": "2026-11-19T20:08:05.230Z",
