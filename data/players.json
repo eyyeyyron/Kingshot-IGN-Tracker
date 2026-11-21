@@ -839,11 +839,11 @@
     "ign": "Doxxx",
     "originalIGN": "Doxxx",
     "status": "tracking",
-    "lastChecked": "2026-10-14T03:59:02.530Z",
-    "townCenterLevel": 45,
+    "lastChecked": "2026-11-21T18:49:17.502Z",
+    "townCenterLevel": 46,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:25.223Z",
-    "updatedAt": "2026-10-14T03:59:02.531Z",
+    "updatedAt": "2026-11-21T18:49:17.503Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:25.688Z",
@@ -874,15 +874,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "RAVNASUAR",
+    "ign": "Rajasaurus°",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-11-20T06:12:17.659Z",
+    "lastChecked": "2026-11-21T18:49:17.978Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-11-20T06:12:17.659Z",
+    "updatedAt": "2026-11-21T18:49:17.978Z",
     "history": [
+      {
+        "updatedAt": "2026-11-21T18:49:17.978Z",
+        "ign": "Rajasaurus°"
+      },
       {
         "updatedAt": "2026-11-20T06:12:17.659Z",
         "ign": "RAVNASUAR"
@@ -961,15 +965,19 @@
   },
   "291707568": {
     "fid": "291707568",
-    "ign": "Lissuin",
+    "ign": "LIShulong",
     "originalIGN": "Lissuin",
     "status": "tracking",
-    "lastChecked": "2026-10-06T10:11:21.467Z",
+    "lastChecked": "2026-11-21T18:49:18.707Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:21.100Z",
-    "updatedAt": "2026-10-06T10:11:21.468Z",
+    "updatedAt": "2026-11-21T18:49:18.708Z",
     "history": [
+      {
+        "updatedAt": "2026-11-21T18:49:18.708Z",
+        "ign": "LIShulong"
+      },
       {
         "updatedAt": "2026-10-06T10:11:21.467Z",
         "ign": "Lissuin"
@@ -1224,15 +1232,19 @@
   },
   "292086294": {
     "fid": "292086294",
-    "ign": "LuckyLex",
+    "ign": "Lexovisaurus",
     "originalIGN": "LuckyLex",
     "status": "tracking",
-    "lastChecked": "2026-11-08T17:59:24.452Z",
+    "lastChecked": "2026-11-21T18:49:20.345Z",
     "townCenterLevel": 40,
     "state": 1892,
     "createdAt": "2026-07-10T14:36:05.910Z",
-    "updatedAt": "2026-11-08T17:59:24.453Z",
+    "updatedAt": "2026-11-21T18:49:20.345Z",
     "history": [
+      {
+        "updatedAt": "2026-11-21T18:49:20.345Z",
+        "ign": "Lexovisaurus"
+      },
       {
         "updatedAt": "2026-11-08T17:59:24.453Z",
         "ign": "LuckyLex"
