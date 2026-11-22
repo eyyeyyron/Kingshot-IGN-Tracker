@@ -890,15 +890,19 @@
   },
   "291562371": {
     "fid": "291562371",
-    "ign": "Rajasaurus°",
+    "ign": "༄ᶦᵅᶬ᭄ѕPJ࿐",
     "originalIGN": "༺RaNgILa༻",
     "status": "tracking",
-    "lastChecked": "2026-11-21T18:49:17.978Z",
+    "lastChecked": "2026-11-22T19:11:28.956Z",
     "townCenterLevel": 50,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:20.074Z",
-    "updatedAt": "2026-11-21T18:49:17.978Z",
+    "updatedAt": "2026-11-22T19:11:28.956Z",
     "history": [
+      {
+        "updatedAt": "2026-11-22T19:11:28.956Z",
+        "ign": "༄ᶦᵅᶬ᭄ѕPJ࿐"
+      },
       {
         "updatedAt": "2026-11-21T18:49:17.978Z",
         "ign": "Rajasaurus°"
@@ -1888,15 +1892,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "Daddy J0k3R",
+    "ign": "Farewelll",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-22T05:39:05.188Z",
+    "lastChecked": "2026-11-22T19:12:03.570Z",
     "townCenterLevel": 55,
     "state": 1789,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-22T05:39:05.189Z",
+    "updatedAt": "2026-11-22T19:12:03.571Z",
     "history": [
+      {
+        "updatedAt": "2026-11-22T19:12:03.571Z",
+        "ign": "Farewelll"
+      },
       {
         "updatedAt": "2026-11-22T05:39:05.189Z",
         "ign": "Daddy J0k3R"
@@ -2118,11 +2126,11 @@
     "ign": "Kizea",
     "originalIGN": "Kizea",
     "status": "tracking",
-    "lastChecked": "2026-11-05T19:44:21.562Z",
-    "townCenterLevel": 41,
+    "lastChecked": "2026-11-22T19:12:05.303Z",
+    "townCenterLevel": 42,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:18.187Z",
-    "updatedAt": "2026-11-05T19:44:21.562Z",
+    "updatedAt": "2026-11-22T19:12:05.305Z",
     "history": [
       {
         "updatedAt": "2026-07-10T14:35:18.651Z",
