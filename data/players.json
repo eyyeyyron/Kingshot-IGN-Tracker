@@ -189,15 +189,19 @@
   },
   "290249223": {
     "fid": "290249223",
-    "ign": "Barney ° Sera",
+    "ign": "TKO",
     "originalIGN": "Seraphina",
     "status": "tracking",
-    "lastChecked": "2026-11-20T06:12:13.658Z",
+    "lastChecked": "2026-11-23T23:31:58.086Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.703Z",
-    "updatedAt": "2026-11-20T06:12:13.659Z",
+    "updatedAt": "2026-11-23T23:31:58.086Z",
     "history": [
+      {
+        "updatedAt": "2026-11-23T23:31:58.086Z",
+        "ign": "TKO"
+      },
       {
         "updatedAt": "2026-11-20T06:12:13.659Z",
         "ign": "Barney ° Sera"
@@ -1526,15 +1530,19 @@
   },
   "292709124": {
     "fid": "292709124",
-    "ign": "༄Brookasaurus࿐",
+    "ign": "༄Brook࿐",
     "originalIGN": "༄Brook࿐",
     "status": "tracking",
-    "lastChecked": "2026-11-19T06:26:10.154Z",
+    "lastChecked": "2026-11-23T23:32:10.706Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-07-09T19:32:37.534Z",
-    "updatedAt": "2026-11-19T06:26:10.154Z",
+    "updatedAt": "2026-11-23T23:32:10.706Z",
     "history": [
+      {
+        "updatedAt": "2026-11-23T23:32:10.706Z",
+        "ign": "༄Brook࿐"
+      },
       {
         "updatedAt": "2026-11-19T06:26:10.154Z",
         "ign": "༄Brookasaurus࿐"
@@ -1900,15 +1908,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "Farewelll",
+    "ign": "_______",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-22T19:12:03.570Z",
+    "lastChecked": "2026-11-23T23:32:14.509Z",
     "townCenterLevel": 55,
     "state": 1789,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-22T19:12:03.571Z",
+    "updatedAt": "2026-11-23T23:32:14.510Z",
     "history": [
+      {
+        "updatedAt": "2026-11-23T23:32:14.510Z",
+        "ign": "_______"
+      },
       {
         "updatedAt": "2026-11-22T19:12:03.571Z",
         "ign": "Farewelll"
