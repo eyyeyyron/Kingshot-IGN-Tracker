@@ -379,15 +379,19 @@
   },
   "290642434": {
     "fid": "290642434",
-    "ign": "Devil DINUsaur",
+    "ign": "Inu",
     "originalIGN": "Shaggydog",
     "status": "tracking",
-    "lastChecked": "2026-11-19T06:26:00.875Z",
+    "lastChecked": "2026-11-23T06:21:08.178Z",
     "townCenterLevel": 55,
     "state": 1892,
     "createdAt": "2026-10-06T10:11:20.324Z",
-    "updatedAt": "2026-11-19T06:26:00.875Z",
+    "updatedAt": "2026-11-23T06:21:08.179Z",
     "history": [
+      {
+        "updatedAt": "2026-11-23T06:21:08.179Z",
+        "ign": "Inu"
+      },
       {
         "updatedAt": "2026-11-19T06:26:00.875Z",
         "ign": "Devil DINUsaur"
@@ -1189,15 +1193,19 @@
   },
   "291857072": {
     "fid": "291857072",
-    "ign": "Cocosorearse",
+    "ign": "Lost Coconut",
     "originalIGN": "BLACK PANTHER",
     "status": "tracking",
-    "lastChecked": "2026-11-19T06:26:06.832Z",
+    "lastChecked": "2026-11-23T06:21:14.044Z",
     "townCenterLevel": 49,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:22.421Z",
-    "updatedAt": "2026-11-19T06:26:06.833Z",
+    "updatedAt": "2026-11-23T06:21:14.045Z",
     "history": [
+      {
+        "updatedAt": "2026-11-23T06:21:14.045Z",
+        "ign": "Lost Coconut"
+      },
       {
         "updatedAt": "2026-11-19T06:26:06.833Z",
         "ign": "Cocosorearse"
