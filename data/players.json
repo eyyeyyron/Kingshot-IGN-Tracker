@@ -126,15 +126,19 @@
   },
   "289891527": {
     "fid": "289891527",
-    "ign": "Eselciraptor",
+    "ign": "Drahtesel",
     "originalIGN": "Esel",
     "status": "tracking",
-    "lastChecked": "2026-11-19T06:25:58.598Z",
-    "townCenterLevel": 47,
+    "lastChecked": "2026-11-24T08:54:17.225Z",
+    "townCenterLevel": 48,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:15.370Z",
-    "updatedAt": "2026-11-19T06:25:58.599Z",
+    "updatedAt": "2026-11-24T08:54:17.225Z",
     "history": [
+      {
+        "updatedAt": "2026-11-24T08:54:17.225Z",
+        "ign": "Drahtesel"
+      },
       {
         "updatedAt": "2026-11-19T06:25:58.599Z",
         "ign": "Eselciraptor"
@@ -1795,11 +1799,11 @@
     "ign": "￴ ￴ ￴ ￴",
     "originalIGN": "Mr Blank",
     "status": "tracking",
-    "lastChecked": "2026-11-02T21:33:50.126Z",
-    "townCenterLevel": 48,
+    "lastChecked": "2026-11-24T08:54:28.737Z",
+    "townCenterLevel": 49,
     "state": 1892,
     "createdAt": "2026-07-10T14:35:21.004Z",
-    "updatedAt": "2026-11-02T21:33:50.127Z",
+    "updatedAt": "2026-11-24T08:54:28.738Z",
     "history": [
       {
         "updatedAt": "2026-07-19T07:51:41.959Z",
