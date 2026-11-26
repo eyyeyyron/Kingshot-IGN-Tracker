@@ -1916,15 +1916,19 @@
   },
   "293266090": {
     "fid": "293266090",
-    "ign": "_______",
+    "ign": "J0k3R",
     "originalIGN": "JOK3R",
     "status": "tracking",
-    "lastChecked": "2026-11-23T23:32:14.509Z",
+    "lastChecked": "2026-11-26T07:20:02.363Z",
     "townCenterLevel": 55,
     "state": 1789,
     "createdAt": "2026-10-06T13:00:32.160Z",
-    "updatedAt": "2026-11-23T23:32:14.510Z",
+    "updatedAt": "2026-11-26T07:20:02.364Z",
     "history": [
+      {
+        "updatedAt": "2026-11-26T07:20:02.364Z",
+        "ign": "J0k3R"
+      },
       {
         "updatedAt": "2026-11-23T23:32:14.510Z",
         "ign": "_______"
@@ -2193,15 +2197,19 @@
   },
   "359584596": {
     "fid": "359584596",
-    "ign": "Yossaurus",
+    "ign": "NotYOSofty",
     "originalIGN": "EvilCookie",
     "status": "tracking",
-    "lastChecked": "2026-11-22T05:39:06.817Z",
+    "lastChecked": "2026-11-26T07:20:04.038Z",
     "townCenterLevel": 30,
     "state": 1892,
     "createdAt": "2026-10-06T12:54:02.216Z",
-    "updatedAt": "2026-11-22T05:39:06.817Z",
+    "updatedAt": "2026-11-26T07:20:04.039Z",
     "history": [
+      {
+        "updatedAt": "2026-11-26T07:20:04.039Z",
+        "ign": "NotYOSofty"
+      },
       {
         "updatedAt": "2026-11-22T05:39:06.817Z",
         "ign": "Yossaurus"
